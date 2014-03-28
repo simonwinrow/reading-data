@@ -1,0 +1,3777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+  <username>manikrathee</username>
+  <firstname>Manik</firstname>
+  <lastname>Rathee</lastname>
+  <country>USA</country>
+  <city></city>
+  <website>http://www.manikrathee.com</website>
+  <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+  <avatar>assets/avatars/manikrathee.jpg</avatar>
+  <followers-count type="integer">281</followers-count>
+  <followings-count type="integer">92</followings-count>
+  <followers type="array">
+    <follower>
+      <username>christoffer</username>
+      <firstname>Christoffer</firstname>
+      <lastname>Klang</lastname>
+      <country>Sweden</country>
+      <city>Stockholm</city>
+      <website>http://readtracker.com</website>
+      <description>Developing ReadTracker. Mostly reading tech stuff, sci-fi and block-busters.</description>
+      <avatar>assets/avatars/christoffer.jpg</avatar>
+    </follower>
+    <follower>
+      <username>henrik</username>
+      <firstname>Henrik</firstname>
+      <lastname>Berggren</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://readmill.com</website>
+      <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+      <avatar>assets/avatars/henrik.jpg</avatar>
+    </follower>
+    <follower>
+      <username>martinhwasser</username>
+      <firstname>Martin</firstname>
+      <lastname>Hwasser</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://github.com/hwaxxer</website>
+      <description>iOS Developer at Readmill</description>
+      <avatar>assets/avatars/martinhwasser.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jensnikolaus</username>
+      <firstname>Jens</firstname>
+      <lastname>Nikolaus</lastname>
+      <country></country>
+      <city>Berlin</city>
+      <website>http://jens.io</website>
+      <description>Designer of web products.</description>
+      <avatar>assets/avatars/jensnikolaus.jpg</avatar>
+    </follower>
+    <follower>
+      <username>gardefjord</username>
+      <firstname>Adam</firstname>
+      <lastname>Gardefjord</lastname>
+      <country>Sweden</country>
+      <city>Stockholm</city>
+      <website>http://adamgardefjord.com</website>
+      <description>Bonnier e-book. M.Sc Media Tech at Royal Institute of Tech. Usability&amp;Interaction lover. Definitely a better football player then you.</description>
+      <avatar>assets/avatars/gardefjord.jpg</avatar>
+    </follower>
+    <follower>
+      <username>susannestage</username>
+      <firstname>Susanne</firstname>
+      <lastname>Stage</lastname>
+      <country>Sweden</country>
+      <city>Stockholm</city>
+      <website>http://susannestage.com</website>
+      <description>Designer</description>
+      <avatar>assets/avatars/susannestage.jpg</avatar>
+    </follower>
+    <follower>
+      <username>beatrice</username>
+      <firstname>Beatrice</firstname>
+      <lastname>Martini</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://www.beatricemartini.it</website>
+      <description>Project manager for a music start-up. In love with technology, arts and design.</description>
+      <avatar>assets/avatars/beatrice.jpg</avatar>
+    </follower>
+    <follower>
+      <username>frischmilch</username>
+      <firstname>Johannes</firstname>
+      <lastname>Eckert</lastname>
+      <country>United States</country>
+      <city>Seattle</city>
+      <website>http://HTTP://NORDSUEDDESIGN.DE</website>
+      <description></description>
+      <avatar>assets/avatars/frischmilch.jpg</avatar>
+    </follower>
+    <follower>
+      <username>fineartdavid</username>
+      <firstname>David</firstname>
+      <lastname>Owens</lastname>
+      <country>Germany</country>
+      <city> Berlin</city>
+      <website>http://davidowens.net</website>
+      <description>I'm David Owens, a web developer at AKQA Berlin. I like cities, and the patterns you find inside them.</description>
+      <avatar>assets/avatars/fineartdavid.jpg</avatar>
+    </follower>
+    <follower>
+      <username>kureshii</username>
+      <firstname>JS</firstname>
+      <lastname>Ng</lastname>
+      <country>Singapore</country>
+      <city></city>
+      <website>http://writoscope.me</website>
+      <description>High school physics teacher, bibliophile, geek. Trying to see old things in new ways, and connect all the bits and pieces in my head to each other.</description>
+      <avatar>assets/avatars/kureshii.jpg</avatar>
+    </follower>
+    <follower>
+      <username>matthewcbostock</username>
+      <firstname>Matthew</firstname>
+      <lastname>Bostock</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://matthewbostock.com</website>
+      <description>British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.</description>
+      <avatar>assets/avatars/matthewcbostock.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jeffreylouden</username>
+      <firstname>Jeffrey</firstname>
+      <lastname>Louden</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.jefflouden.com/</website>
+      <description></description>
+      <avatar>assets/avatars/jeffreylouden.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jbarraud</username>
+      <firstname>Jim</firstname>
+      <lastname>Barraud</lastname>
+      <country></country>
+      <city></city>
+      <website>http://jimbarraud.com</website>
+      <description>Husband. Father. Web Designer. Teacher. Gamer. Tea Drinker. Photographer. Geek.</description>
+      <avatar>assets/avatars/jbarraud.jpg</avatar>
+    </follower>
+    <follower>
+      <username>mklappstuhl</username>
+      <firstname>Martin</firstname>
+      <lastname>Klepsch</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://martinklepsch.org</website>
+      <description>Hello there!</description>
+      <avatar>assets/avatars/mklappstuhl.jpg</avatar>
+    </follower>
+    <follower>
+      <username>awayback</username>
+      <firstname>Amrinder</firstname>
+      <lastname>Sandhu</lastname>
+      <country>Canada</country>
+      <city>Burlington</city>
+      <website>http://designbyanaami.com</website>
+      <description>Web and Interface (solution) designer</description>
+      <avatar>assets/avatars/awayback.jpg</avatar>
+    </follower>
+    <follower>
+      <username>AaronGustafson</username>
+      <firstname>Aaron</firstname>
+      <lastname>Gustafson</lastname>
+      <country>USA</country>
+      <city>Chattanooga</city>
+      <website>http://aaron-gustafson.com</website>
+      <description>Founder of @EasyDesigns, co-founder of @EasyReaders and @Retreats4Geeks, manager of @WaSP, author of Adaptive Web Design, and husband of @ShirleyTemper.</description>
+      <avatar>assets/avatars/AaronGustafson.jpg</avatar>
+    </follower>
+    <follower>
+      <username>adoran2</username>
+      <firstname>Andrew</firstname>
+      <lastname>Doran</lastname>
+      <country>UK</country>
+      <city>Berkhamsted</city>
+      <website>http://www.andrewdoran.co.uk/</website>
+      <description>Husband, dad of two boys, IT portfolio and business manager at an African bank, school governor, over-enthusiastic, geek. A buyer of books, a reader of some of them and a great longing to get through as many as I can fit in.</description>
+      <avatar>assets/avatars/adoran2.jpg</avatar>
+    </follower>
+    <follower>
+      <username>fverloop</username>
+      <firstname>Floris</firstname>
+      <lastname>Verloop</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/fverloop.jpg</avatar>
+    </follower>
+    <follower>
+      <username>waystocreate</username>
+      <firstname>Andrew</firstname>
+      <lastname>Famiano</lastname>
+      <country></country>
+      <city></city>
+      <website>http://waystocreate.tumblr.com</website>
+      <description>Web designer</description>
+      <avatar>assets/avatars/waystocreate.jpg</avatar>
+    </follower>
+    <follower>
+      <username>davidjordanbani</username>
+      <firstname>David</firstname>
+      <lastname>Bani</lastname>
+      <country>Australia</country>
+      <city>Perth</city>
+      <website>http://davidbani.com</website>
+      <description>UI Designer</description>
+      <avatar>assets/avatars/davidjordanbani.jpg</avatar>
+    </follower>
+    <follower>
+      <username>aileenatkins</username>
+      <firstname>Aileen</firstname>
+      <lastname>Atkins</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.manikratheephotography.com</website>
+      <description></description>
+      <avatar>assets/avatars/aileenatkins.jpg</avatar>
+    </follower>
+    <follower>
+      <username>khalidl</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/khalidl.jpg</avatar>
+    </follower>
+    <follower>
+      <username>tomazsh</username>
+      <firstname>Tomaz</firstname>
+      <lastname>Nedeljko</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://nedeljko.com</website>
+      <description>iOS rocketeer at Readmill</description>
+      <avatar>assets/avatars/tomazsh.jpg</avatar>
+    </follower>
+    <follower>
+      <username>Tobystereo</username>
+      <firstname>Tobias</firstname>
+      <lastname>Treppmann</lastname>
+      <country>USA</country>
+      <city>Lancaster</city>
+      <website>http://tobystereo.com</website>
+      <description>German born UX Designer/Developer, currently in Lancaster, PA.</description>
+      <avatar>assets/avatars/Tobystereo.jpg</avatar>
+    </follower>
+    <follower>
+      <username>kenna</username>
+      <firstname>Kenna</firstname>
+      <lastname>Marcelo</lastname>
+      <country>United Arab Emirates</country>
+      <city>Dubai</city>
+      <website>http://areturnafterlongwanderings.com/</website>
+      <description>Founder of Mensis Liber. I sometimes make things for the web. Was born in an archipelago of 7,107 islands currently living in the desert working as a telecommunications engineer.</description>
+      <avatar>assets/avatars/kenna.jpg</avatar>
+    </follower>
+    <follower>
+      <username>allfordesign</username>
+      <firstname>Aurélien</firstname>
+      <lastname>Foutoyet</lastname>
+      <country>france</country>
+      <city>marseille</city>
+      <website>http://twitter.com/allfordesign</website>
+      <description>Freelance web designer from Marseille, France</description>
+      <avatar>assets/avatars/allfordesign.jpg</avatar>
+    </follower>
+    <follower>
+      <username>mariamanuelrola</username>
+      <firstname>Maria Manuel</firstname>
+      <lastname>Rola</lastname>
+      <country>Portugal</country>
+      <city>Porto</city>
+      <website>http://www.zerply.com/mariamanuelrola</website>
+      <description></description>
+      <avatar>assets/avatars/mariamanuelrola.jpg</avatar>
+    </follower>
+    <follower>
+      <username>samarbirwadker</username>
+      <firstname>Samar</firstname>
+      <lastname>B</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/samarbirwadker.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jbetts</username>
+      <firstname>Jon</firstname>
+      <lastname>Betts</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>tibz</username>
+      <firstname>Thibault</firstname>
+      <lastname>Lemaitre</lastname>
+      <country>UK</country>
+      <city>Brighton</city>
+      <website>http://tibz.co</website>
+      <description>[Pronounce TEE-BOW]  Naive Technologist ; Forever in Beta</description>
+      <avatar>assets/avatars/tibz.jpg</avatar>
+    </follower>
+    <follower>
+      <username>sawyer</username>
+      <firstname>Sawyer</firstname>
+      <lastname>Hollenshead</lastname>
+      <country>USA</country>
+      <city>Brooklyn</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/sawyer.jpg</avatar>
+    </follower>
+    <follower>
+      <username>avarn</username>
+      <firstname>Alexander</firstname>
+      <lastname>Varney</lastname>
+      <country>Denmark</country>
+      <city>Copenhagen</city>
+      <website>http://www.alexandervarney.com</website>
+      <description></description>
+      <avatar>assets/avatars/avarn.jpg</avatar>
+    </follower>
+    <follower>
+      <username>patrick_haug</username>
+      <firstname>Patrick</firstname>
+      <lastname>Haug</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/patrick_haug.jpg</avatar>
+    </follower>
+    <follower>
+      <username>byerly9</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>hellostanley</username>
+      <firstname>Stanley</firstname>
+      <lastname>Wood</lastname>
+      <country></country>
+      <city>Stockholm</city>
+      <website></website>
+      <description>Designer @Spotify</description>
+      <avatar>assets/avatars/hellostanley.jpg</avatar>
+    </follower>
+    <follower>
+      <username>timknight</username>
+      <firstname>Tim</firstname>
+      <lastname>Knight</lastname>
+      <country>United States</country>
+      <city>Florida</city>
+      <website></website>
+      <description>UX creating experiences for the web. Musician, Vocalist, and Ninja (the sword training, martial arts kind)</description>
+      <avatar>assets/avatars/timknight.jpg</avatar>
+    </follower>
+    <follower>
+      <username>ferrbea</username>
+      <firstname>Beatrice</firstname>
+      <lastname>Ferrarini</lastname>
+      <country></country>
+      <city></city>
+      <website>http://ferrbea.tumblr.com/</website>
+      <description>Fascinated by the internet world, Curious about everything that has to do with the Web and Passionate for tech-innovation!</description>
+      <avatar>assets/avatars/ferrbea.jpg</avatar>
+    </follower>
+    <follower>
+      <username>vikfroberg</username>
+      <firstname>Viktor</firstname>
+      <lastname></lastname>
+      <country>Sweden</country>
+      <city>Gothenburg</city>
+      <website></website>
+      <description>Minimalist</description>
+      <avatar>assets/avatars/vikfroberg.jpg</avatar>
+    </follower>
+    <follower>
+      <username>janinetoro</username>
+      <firstname>janinetoro</firstname>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.janinetoro.com/</website>
+      <description>Designer &amp; founder of @whatdoyoucarry. Living, eating and breathing design @SVAMFADesign. </description>
+      <avatar>assets/avatars/janinetoro.jpg</avatar>
+    </follower>
+    <follower>
+      <username>mrowl</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>rpruiz</username>
+      <firstname>Rudy</firstname>
+      <lastname></lastname>
+      <country>Mexico</country>
+      <city>Monterrey</city>
+      <website></website>
+      <description>Internetician, entrepreneur</description>
+      <avatar>assets/avatars/rpruiz.jpg</avatar>
+    </follower>
+    <follower>
+      <username>KeenanCummings</username>
+      <firstname>Keenan</firstname>
+      <lastname>Cummings</lastname>
+      <country></country>
+      <city></city>
+      <website>http://fieldstudy.tumblr.com</website>
+      <description>Creative Director / Co-founder at Wander (@onWander) living and working in New York City. </description>
+      <avatar>assets/avatars/KeenanCummings.jpg</avatar>
+    </follower>
+    <follower>
+      <username>kirchenn</username>
+      <firstname>Kira</firstname>
+      <lastname>Bazhkova</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/kirchenn.jpg</avatar>
+    </follower>
+    <follower>
+      <username>sistrall</username>
+      <firstname>Silvano</firstname>
+      <lastname>Stralla</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.sistrall.it</website>
+      <description>I’m webdesigner, developer and passionate photographer. I publish my photographs and my s(c|p)ar(c|s)e* thoughts on http://www.sistrall.it</description>
+      <avatar>assets/avatars/sistrall.jpg</avatar>
+    </follower>
+    <follower>
+      <username>Rajanand</username>
+      <firstname>Rajanand</firstname>
+      <lastname>Ilangovan</lastname>
+      <country>India</country>
+      <city>Bangalore</city>
+      <website>http://goodreads.com/Rajanand</website>
+      <description>Sail away from the safe harbor.
+http://rajanand.org</description>
+      <avatar>assets/avatars/Rajanand.jpg</avatar>
+    </follower>
+    <follower>
+      <username>macartisan</username>
+      <firstname>Macartisan</firstname>
+      <lastname></lastname>
+      <country>USA</country>
+      <city>Seattle</city>
+      <website>http://channelingdesign.com</website>
+      <description>With a can of ersatz tuna in his hands and an electric screwdriver in his belt he was a lord of infinite space. #ux #usability #design </description>
+      <avatar>assets/avatars/macartisan.jpg</avatar>
+    </follower>
+    <follower>
+      <username>eryan</username>
+      <firstname>Eryan</firstname>
+      <lastname>Cobham</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>emilyphillips</username>
+      <firstname>Emily</firstname>
+      <lastname>Phillips</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website></website>
+      <description>waxing poetic at Readmill</description>
+      <avatar>assets/avatars/emilyphillips.jpg</avatar>
+    </follower>
+    <follower>
+      <username>vtardia</username>
+      <firstname>Vito</firstname>
+      <lastname>Tardia</lastname>
+      <country>Italy</country>
+      <city></city>
+      <website>http://www.vtardia.com</website>
+      <description>web designer, code poet, guitarist and music composer</description>
+      <avatar>assets/avatars/vtardia.jpg</avatar>
+    </follower>
+    <follower>
+      <username>gary_schroeder</username>
+      <firstname>Gary</firstname>
+      <lastname>Schroeder</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://about.me/garyschroeder</website>
+      <description>Online communications manager for Brookhaven National Lab, content strategist, web designer, and oenophile.</description>
+      <avatar>assets/avatars/gary_schroeder.jpg</avatar>
+    </follower>
+    <follower>
+      <username>scottgruber</username>
+      <firstname>Scott</firstname>
+      <lastname>Gruber</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description>Curious about our world. Love to learn something new everyday. </description>
+      <avatar>assets/avatars/scottgruber.jpg</avatar>
+    </follower>
+    <follower>
+      <username>tyreilpoosri</username>
+      <firstname>Tyreil</firstname>
+      <lastname>Poosri</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/tyreilpoosri.jpg</avatar>
+    </follower>
+    <follower>
+      <username>streetalchemist</username>
+      <firstname>Alex</firstname>
+      <lastname>Porter</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.streetalchemydesign.com</website>
+      <description>Interactive developer, HTML5 geek, video game journalist (@horriblenight) and developer, vampire killer...</description>
+      <avatar>assets/avatars/streetalchemist.jpg</avatar>
+    </follower>
+    <follower>
+      <username>mrcthompson</username>
+      <firstname>Chris</firstname>
+      <lastname>Thompson</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.dancingpixels.co.uk</website>
+      <description>Father, Designer, Developer and full-time Pixel Pedant. Web &amp; Systems Development Manager for the NHS. My views are my own and not that of my employer.</description>
+      <avatar>assets/avatars/mrcthompson.jpg</avatar>
+    </follower>
+    <follower>
+      <username>cnnr</username>
+      <firstname>Connor</firstname>
+      <lastname>Montgomery</lastname>
+      <country>USA</country>
+      <city>San Francisco</city>
+      <website>http://cnnr.me</website>
+      <description>Builder at @pinterest; also hack on @domainr. Previously: Apple, @LiftApp. I have a thing for high-fives.</description>
+      <avatar>assets/avatars/cnnr.jpg</avatar>
+    </follower>
+    <follower>
+      <username>levifig</username>
+      <firstname>Levi</firstname>
+      <lastname>Figueira</lastname>
+      <country>USA</country>
+      <city>Ames, IA</city>
+      <website>http://levifig.com</website>
+      <description></description>
+      <avatar>assets/avatars/levifig.jpg</avatar>
+    </follower>
+    <follower>
+      <username>onehuman</username>
+      <firstname>Fred</firstname>
+      <lastname>Chao</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/onehuman.jpg</avatar>
+    </follower>
+    <follower>
+      <username>davor_tomic</username>
+      <firstname>Davor</firstname>
+      <lastname>Tomic</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/davor_tomic.jpg</avatar>
+    </follower>
+    <follower>
+      <username>SeaWolff</username>
+      <firstname>GOTV</firstname>
+      <lastname>Wolff</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.chriswolffdevelopment.com</website>
+      <description>I make cute animals and obsess about websites. https://alpha.app.net/seawolff on App.net
+
+Developer @ Obama for America</description>
+      <avatar>assets/avatars/SeaWolff.jpg</avatar>
+    </follower>
+    <follower>
+      <username>joop_laan</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>richthorne</username>
+      <firstname>Rich</firstname>
+      <lastname>Thorne</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://richthorne.com</website>
+      <description>Art direction. Design. Cycling. Red Sox. Logos. Burritos.</description>
+      <avatar>assets/avatars/richthorne.jpg</avatar>
+    </follower>
+    <follower>
+      <username>lmsanchez</username>
+      <firstname>Lisa</firstname>
+      <lastname>Sanchez</lastname>
+      <country></country>
+      <city>Berlin</city>
+      <website>http://lisasanchez.me</website>
+      <description>Community manager at Readmill. Wondering what you've read and loved lately. lisa@readmill.com</description>
+      <avatar>assets/avatars/lmsanchez.jpg</avatar>
+    </follower>
+    <follower>
+      <username>armillio</username>
+      <firstname>Ar</firstname>
+      <lastname>Mando</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/armillio.jpg</avatar>
+    </follower>
+    <follower>
+      <username>nepisodes</username>
+      <firstname>Connor</firstname>
+      <lastname>Zhang</lastname>
+      <country>USA</country>
+      <city>Columbus</city>
+      <website></website>
+      <description>I pursue a balanced mind.</description>
+      <avatar>assets/avatars/nepisodes.jpg</avatar>
+    </follower>
+    <follower>
+      <username>takeo</username>
+      <firstname>toby</firstname>
+      <lastname>sterrett</lastname>
+      <country></country>
+      <city>portland</city>
+      <website>http://https://www.simple.com</website>
+      <description>i make websites and stuff at simple</description>
+      <avatar>assets/avatars/takeo.jpg</avatar>
+    </follower>
+    <follower>
+      <username>bjornklockljung</username>
+      <firstname>Björn</firstname>
+      <lastname>Klockljung</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.bjornklockljung.se/</website>
+      <description>Interaktionsdesigner i Göteborg som är intresserad av webb, speldesign, simplicity och #GTD </description>
+      <avatar>assets/avatars/bjornklockljung.jpg</avatar>
+    </follower>
+    <follower>
+      <username>Josh_AM</username>
+      <firstname>Joshua</firstname>
+      <lastname>M</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://continue-yes.tumblr.com</website>
+      <description>Nerd. Front End Developer. Basketball addict. Video game enthusiast</description>
+      <avatar>assets/avatars/Josh_AM.jpg</avatar>
+    </follower>
+    <follower>
+      <username>kotsifis</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/kotsifis.jpg</avatar>
+    </follower>
+    <follower>
+      <username>dte</username>
+      <firstname>Daniel</firstname>
+      <lastname>Eden</lastname>
+      <country>U.S.A.</country>
+      <city>San Francisco</city>
+      <website>http://daneden.me</website>
+      <description>Makes sandwiches, websites.</description>
+      <avatar>assets/avatars/dte.jpg</avatar>
+    </follower>
+    <follower>
+      <username>iqonicd</username>
+      <firstname>Ari</firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website>http://iqonicdesign.com</website>
+      <description>Designer. Writer @industry.</description>
+      <avatar>assets/avatars/iqonicd.jpg</avatar>
+    </follower>
+    <follower>
+      <username>davidmerrique</username>
+      <firstname>David</firstname>
+      <lastname>Merrique</lastname>
+      <country>United States</country>
+      <city>New York</city>
+      <website>http://davidmerrique.com</website>
+      <description>Something something... Web designer/developer at @mzwallacenyc. I &amp;hearts; science &amp; space.</description>
+      <avatar>assets/avatars/davidmerrique.jpg</avatar>
+    </follower>
+    <follower>
+      <username>fffabs</username>
+      <firstname>Fabio</firstname>
+      <lastname>↬</lastname>
+      <country></country>
+      <city></city>
+      <website>http://fffabs.com</website>
+      <description>Pixel wrangler  Design Lead http://uxebu.com Creator of http://statnutapp.com &amp; http://pixa-app.com also on https://alpha.app.net/fabs</description>
+      <avatar>assets/avatars/fffabs.jpg</avatar>
+    </follower>
+    <follower>
+      <username>milesalex</username>
+      <firstname>Alex</firstname>
+      <lastname>Miles</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://alexmilesdesign.com</website>
+      <description>Designer at Readmill. Developer after hours. Non-fiction books and a fictional life.</description>
+      <avatar>assets/avatars/milesalex.jpg</avatar>
+    </follower>
+    <follower>
+      <username>pc</username>
+      <firstname>pierre</firstname>
+      <lastname>choffe</lastname>
+      <country>france</country>
+      <city>paris</city>
+      <website></website>
+      <description>The laughing Buddha</description>
+      <avatar>assets/avatars/pc.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jalejandro</username>
+      <firstname>Jason</firstname>
+      <lastname>Alejandro</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/jalejandro.jpg</avatar>
+    </follower>
+    <follower>
+      <username>dryan</username>
+      <firstname>Daniel</firstname>
+      <lastname>Ryan</lastname>
+      <country>United States</country>
+      <city>Chattanooga</city>
+      <website>http://dryan.com</website>
+      <description></description>
+      <avatar>assets/avatars/dryan.jpg</avatar>
+    </follower>
+    <follower>
+      <username>geremygood</username>
+      <firstname>Jeremy</firstname>
+      <lastname>Mumenthaler</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/geremygood.jpg</avatar>
+    </follower>
+    <follower>
+      <username>graafmichiel</username>
+      <firstname>Michiel</firstname>
+      <lastname>de Graaf</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/graafmichiel.jpg</avatar>
+    </follower>
+    <follower>
+      <username>gtgodsey</username>
+      <firstname>Garrett</firstname>
+      <lastname>Godsey</lastname>
+      <country>CA</country>
+      <city>San Francisco</city>
+      <website>http://www.gtgodsey.com</website>
+      <description>UI/UX Designer. Breaks things. Reads sci-fi. Puts things back together. http://www.dribbble.com/gtgodsey  &amp; http://www.thejackplane.com</description>
+      <avatar>assets/avatars/gtgodsey.jpg</avatar>
+    </follower>
+    <follower>
+      <username>themettelhead</username>
+      <firstname>Epic</firstname>
+      <lastname>Quixote</lastname>
+      <country></country>
+      <city></city>
+      <website>http://themettelhead@gmail.com</website>
+      <description>I am insane I am fucked up I have problems 
+But I don't get depressed and I don't get bored.</description>
+      <avatar>assets/avatars/themettelhead.jpg</avatar>
+    </follower>
+    <follower>
+      <username>unterdreht</username>
+      <firstname>Joshua</firstname>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://kleineshow.org</website>
+      <description>9 von 10 Follower würden mich ihrer besten Freundin empfehlen.</description>
+      <avatar>assets/avatars/unterdreht.jpg</avatar>
+    </follower>
+    <follower>
+      <username>Rahcoco</username>
+      <firstname>Ali</firstname>
+      <lastname>Zendaki</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/Rahcoco.jpg</avatar>
+    </follower>
+    <follower>
+      <username>DarrenMoten</username>
+      <firstname>Jayar</firstname>
+      <lastname>Moten</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/DarrenMoten.jpg</avatar>
+    </follower>
+    <follower>
+      <username>pedrocela</username>
+      <firstname>Pedro Agustín</firstname>
+      <lastname>Cela</lastname>
+      <country>Argentina</country>
+      <city>Buenos Aires</city>
+      <website>http://www.pedrocela.com</website>
+      <description></description>
+      <avatar>assets/avatars/pedrocela.jpg</avatar>
+    </follower>
+    <follower>
+      <username>bm</username>
+      <firstname>B</firstname>
+      <lastname>M</lastname>
+      <country>Norway</country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>JuPuddles</username>
+      <firstname>Julian</firstname>
+      <lastname>Puddles</lastname>
+      <country>USA </country>
+      <city>Detroit</city>
+      <website></website>
+      <description>Chicka chicka wagga wagga POW!</description>
+      <avatar>assets/avatars/JuPuddles.jpg</avatar>
+    </follower>
+    <follower>
+      <username>rothlis</username>
+      <firstname>Sebastien</firstname>
+      <lastname>Rothlisberger</lastname>
+      <country></country>
+      <city></city>
+      <website>http://rothlis.com</website>
+      <description>Web Craftman</description>
+      <avatar>assets/avatars/rothlis.jpg</avatar>
+    </follower>
+    <follower>
+      <username>anapirio</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>faundez_alex</username>
+      <firstname>Alex</firstname>
+      <lastname>Faundez</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/faundez_alex.jpg</avatar>
+    </follower>
+    <follower>
+      <username>abooty994</username>
+      <firstname>Abdullah</firstname>
+      <lastname>Boodai</lastname>
+      <country></country>
+      <city></city>
+      <website>http://about.me/abooty94</website>
+      <description>Nineteen. a film and TV aficionado. fan of good music. tech geek. indie games lover.</description>
+      <avatar>assets/avatars/abooty994.jpg</avatar>
+    </follower>
+    <follower>
+      <username>chrisbowler1</username>
+      <firstname>Chris</firstname>
+      <lastname>Bowler</lastname>
+      <country>Canada</country>
+      <city></city>
+      <website>http://chrisbowler.com</website>
+      <description></description>
+      <avatar>assets/avatars/chrisbowler1.jpg</avatar>
+    </follower>
+    <follower>
+      <username>Jmz7v</username>
+      <firstname>Julio</firstname>
+      <lastname>Montaño</lastname>
+      <country>México</country>
+      <city>Distrito Federal</city>
+      <website>http://jmz7v.com/</website>
+      <description></description>
+      <avatar>assets/avatars/Jmz7v.jpg</avatar>
+    </follower>
+    <follower>
+      <username>dkavraal1</username>
+      <firstname>Dinçer</firstname>
+      <lastname></lastname>
+      <country>TR</country>
+      <city>Istanbul</city>
+      <website>http://selcouth.wordpress.com</website>
+      <description></description>
+      <avatar>assets/avatars/dkavraal1.jpg</avatar>
+    </follower>
+    <follower>
+      <username>mihailenko_o</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>babavalibob</username>
+      <firstname>babavalibob</firstname>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description>An avid Strategist, Developer, Designer</description>
+      <avatar>assets/avatars/babavalibob.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jannisg</username>
+      <firstname>Jannis</firstname>
+      <lastname>Gundermann</lastname>
+      <country>New Zealand</country>
+      <city>Auckland</city>
+      <website>http://www.jannisgundermann.com</website>
+      <description>Web Designer &amp; Developer. Lecturer at the Auckland University of Technology. Passionate about startups, using the web for social good and education.</description>
+      <avatar>assets/avatars/jannisg.jpg</avatar>
+    </follower>
+    <follower>
+      <username>coardmiller</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/coardmiller.jpg</avatar>
+    </follower>
+    <follower>
+      <username>prolificchris</username>
+      <firstname>Chris</firstname>
+      <lastname>Meyers</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://dribbble.com/prolificchris</website>
+      <description>Lead Designer with @weareprolific. Midwesterner at heart.</description>
+      <avatar>assets/avatars/prolificchris.jpg</avatar>
+    </follower>
+    <follower>
+      <username>Eno</username>
+      <firstname>Enosh</firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description>Hi, i'm Enosh.</description>
+      <avatar>assets/avatars/Eno.jpg</avatar>
+    </follower>
+    <follower>
+      <username>fcojavierarias</username>
+      <firstname>Javier</firstname>
+      <lastname>Arias</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/fcojavierarias.jpg</avatar>
+    </follower>
+    <follower>
+      <username>moramedia</username>
+      <firstname>Hector</firstname>
+      <lastname>Mora</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.last.fm/user/moramedia</website>
+      <description>Al principio queria tener una bio muy chipocluda luego me dejo de importar</description>
+      <avatar>assets/avatars/moramedia.jpg</avatar>
+    </follower>
+    <follower>
+      <username>olaolusoga</username>
+      <firstname>Ola</firstname>
+      <lastname>Olusoga</lastname>
+      <country></country>
+      <city></city>
+      <website>http://olaolusoga.com</website>
+      <description>Designer </description>
+      <avatar>assets/avatars/olaolusoga.jpg</avatar>
+    </follower>
+    <follower>
+      <username>randallwright</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>filipovsky</username>
+      <firstname>Filip</firstname>
+      <lastname>Gielda</lastname>
+      <country>Greenland</country>
+      <city>Nuuk</city>
+      <website>http://filipovsky.com</website>
+      <description></description>
+      <avatar>assets/avatars/filipovsky.jpg</avatar>
+    </follower>
+    <follower>
+      <username>scottburgess</username>
+      <firstname>Scott</firstname>
+      <lastname>Burgess</lastname>
+      <country>USA</country>
+      <city>San Francisco, CA</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/scottburgess.jpg</avatar>
+    </follower>
+    <follower>
+      <username>tarekda</username>
+      <firstname>Anounou</firstname>
+      <lastname>Tarek-David</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/tarekda.jpg</avatar>
+    </follower>
+    <follower>
+      <username>andreapasotti</username>
+      <firstname>Andrea</firstname>
+      <lastname>Pasotti</lastname>
+      <country>Italy</country>
+      <city>Milan</city>
+      <website>http://andreapasottiweb.com</website>
+      <description></description>
+      <avatar>assets/avatars/andreapasotti.jpg</avatar>
+    </follower>
+    <follower>
+      <username>ooleem</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>brantsnow</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>letunglam</username>
+      <firstname>Lê</firstname>
+      <lastname>Lâm</lastname>
+      <country>Vietnam</country>
+      <city>Ho Chi Minh</city>
+      <website>http://www.letunglam.com</website>
+      <description></description>
+      <avatar>assets/avatars/letunglam.jpg</avatar>
+    </follower>
+    <follower>
+      <username>rojasv19</username>
+      <firstname>Víctor</firstname>
+      <lastname>Rojas</lastname>
+      <country>Venezuela</country>
+      <city>Boconó</city>
+      <website>http://pixartstudio2.blogspot.com</website>
+      <description>Entrepreneur</description>
+      <avatar>assets/avatars/rojasv19.jpg</avatar>
+    </follower>
+    <follower>
+      <username>catfyn</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/catfyn.jpg</avatar>
+    </follower>
+    <follower>
+      <username>elliotekj</username>
+      <firstname>Elliot</firstname>
+      <lastname>Jackson</lastname>
+      <country>UK</country>
+      <city>Brighton</city>
+      <website>http://elliotekj.com</website>
+      <description>User Interface Designer at Realmac Software.</description>
+      <avatar>assets/avatars/elliotekj.jpg</avatar>
+    </follower>
+    <follower>
+      <username>umenondamoadaran</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>sanjay_sahani</username>
+      <firstname>Sanjay</firstname>
+      <lastname>Sahani</lastname>
+      <country>India</country>
+      <city>Surat</city>
+      <website></website>
+      <description>Affectionate, Funky, Outgoing, Loving, Clever, Witty, Sweetheart, Romantic, Free-spirited, Open, Communicative, Understanding, Fiery, Passionate, Perceptive, Fun, Dorky, Cute.</description>
+      <avatar>assets/avatars/sanjay_sahani.jpg</avatar>
+    </follower>
+    <follower>
+      <username>v_mitsaras</username>
+      <firstname>Vasilis</firstname>
+      <lastname>Mitsaras</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/v_mitsaras.jpg</avatar>
+    </follower>
+    <follower>
+      <username>ryan_byerly</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>antonfischer</username>
+      <firstname>Anton</firstname>
+      <lastname>Fischer</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/antonfischer.jpg</avatar>
+    </follower>
+    <follower>
+      <username>joe_rapoza</username>
+      <firstname>Joe</firstname>
+      <lastname>Rapoza</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/joe_rapoza.jpg</avatar>
+    </follower>
+    <follower>
+      <username>tobias_negele1</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>constantin_campean</username>
+      <firstname>Constantin</firstname>
+      <lastname>Campean</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/constantin_campean.jpg</avatar>
+    </follower>
+    <follower>
+      <username>federicosiracusa</username>
+      <firstname>Federico</firstname>
+      <lastname>Siracusa</lastname>
+      <country>Italy</country>
+      <city>Rome</city>
+      <website>http://dotsiracusa.tumblr.com</website>
+      <description></description>
+      <avatar>assets/avatars/federicosiracusa.jpg</avatar>
+    </follower>
+    <follower>
+      <username>stephtakesphotos</username>
+      <firstname>Stephanie</firstname>
+      <lastname>Cain</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/stephtakesphotos.jpg</avatar>
+    </follower>
+    <follower>
+      <username>mail67</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>sandrabuabeng</username>
+      <firstname>Sandra</firstname>
+      <lastname>Buabeng</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description>Adore all things authentic|creative|natural|simple</description>
+      <avatar>assets/avatars/sandrabuabeng.jpg</avatar>
+    </follower>
+    <follower>
+      <username>simonpioli</username>
+      <firstname>Simon</firstname>
+      <lastname>Pioli</lastname>
+      <country>UK</country>
+      <city>Manchester</city>
+      <website>http://www.simonpioli.com</website>
+      <description></description>
+      <avatar>assets/avatars/simonpioli.jpg</avatar>
+    </follower>
+    <follower>
+      <username>joebarber</username>
+      <firstname>Joe</firstname>
+      <lastname>Barber</lastname>
+      <country>USA</country>
+      <city>Lawrence</city>
+      <website>http://iamjoebarber.com</website>
+      <description></description>
+      <avatar>assets/avatars/joebarber.jpg</avatar>
+    </follower>
+    <follower>
+      <username>cld276</username>
+      <firstname>Carol</firstname>
+      <lastname>Davidsen</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/cld276.jpg</avatar>
+    </follower>
+    <follower>
+      <username>wingsai</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>urbanmolecule</username>
+      <firstname>Chris</firstname>
+      <lastname>de la Torre</lastname>
+      <country>USA</country>
+      <city>New York City</city>
+      <website>http://urbanmolecule.me</website>
+      <description>I write about how science and technology change the way we understand ourselves and each other.</description>
+      <avatar>assets/avatars/urbanmolecule.jpg</avatar>
+    </follower>
+    <follower>
+      <username>wynlim</username>
+      <firstname>Winnie</firstname>
+      <lastname>Lim</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/wynlim.jpg</avatar>
+    </follower>
+    <follower>
+      <username>pesh2000</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>zacharyhalvorson</username>
+      <firstname>Zachary</firstname>
+      <lastname>Halvorson</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/zacharyhalvorson.jpg</avatar>
+    </follower>
+    <follower>
+      <username>carolann_bonner</username>
+      <firstname>Carolann</firstname>
+      <lastname>Bonner</lastname>
+      <country>USA</country>
+      <city>San Francisco</city>
+      <website>http://carolannbonner.com</website>
+      <description>I like strategy, problem-solving, science fiction, history, and coffee. I'm a designer learning to code. </description>
+      <avatar>assets/avatars/carolann_bonner.jpg</avatar>
+    </follower>
+    <follower>
+      <username>ketilmo</username>
+      <firstname>Ketil Moland</firstname>
+      <lastname>Olsen</lastname>
+      <country>Norway</country>
+      <city>Bergen</city>
+      <website></website>
+      <description>Senior Product Manager (32) from Bergen, Norway, working in the Digital Media Space. Enjoys paragliding and all things airy. Love books. Married to Alice, father of Askil. </description>
+      <avatar>assets/avatars/ketilmo.jpg</avatar>
+    </follower>
+    <follower>
+      <username>goebeltimo</username>
+      <firstname>Timo</firstname>
+      <lastname>Göbel</lastname>
+      <country>Germany</country>
+      <city>Stuttgart</city>
+      <website>http://timogoebel.me/</website>
+      <description>Information/UI/UX Designer based in Stuttgart, Germany</description>
+      <avatar>assets/avatars/goebeltimo.jpg</avatar>
+    </follower>
+    <follower>
+      <username>redmoods</username>
+      <firstname>Domenico</firstname>
+      <lastname>Castagnaro</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/redmoods.jpg</avatar>
+    </follower>
+    <follower>
+      <username>vannea</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>marian_mota88</username>
+      <firstname>Marian</firstname>
+      <lastname>Mota</lastname>
+      <country></country>
+      <city></city>
+      <website>http://marian.mota88@gmail.com</website>
+      <description></description>
+      <avatar>assets/avatars/marian_mota88.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jcbonnet</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>ma_peiyuan</username>
+      <firstname></firstname>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/ma_peiyuan.jpg</avatar>
+    </follower>
+    <follower>
+      <username>yingyingtou_wu</username>
+      <firstname>Polly</firstname>
+      <lastname>Wu</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description>UI Designer &amp; Illustrator</description>
+      <avatar>assets/avatars/yingyingtou_wu.jpg</avatar>
+    </follower>
+    <follower>
+      <username>carlbutler</username>
+      <firstname>Carl</firstname>
+      <lastname>Butler</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/carlbutler.jpg</avatar>
+    </follower>
+    <follower>
+      <username>shanti</username>
+      <firstname>Shanti</firstname>
+      <lastname>Hadioetomo</lastname>
+      <country>Canada</country>
+      <city>Toronto</city>
+      <website>http://about.me/shantomo</website>
+      <description>Resident [digital] designer + PM @ImagineCanada. Passionately curious: Tech, Privacy &amp; Sustainability.</description>
+      <avatar>assets/avatars/shanti.jpg</avatar>
+    </follower>
+    <follower>
+      <username>cthewren</username>
+      <firstname>Chris</firstname>
+      <lastname>Wren</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/cthewren.jpg</avatar>
+    </follower>
+    <follower>
+      <username>sidv</username>
+      <firstname>Siddharth</firstname>
+      <lastname>Vanchinathan</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>gnaneshwarreddy9394</username>
+      <firstname>Gnaneshwar</firstname>
+      <lastname>Reddy</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>daryl</username>
+      <firstname>Daryl</firstname>
+      <lastname>Ginn</lastname>
+      <country>England</country>
+      <city>London</city>
+      <website>http://daryl.im</website>
+      <description>UX Astronaut</description>
+      <avatar>assets/avatars/daryl.jpg</avatar>
+    </follower>
+    <follower>
+      <username>amisdekar</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>Safa</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/Safa.jpg</avatar>
+    </follower>
+    <follower>
+      <username>mpumelelo</username>
+      <firstname>Mpumelelo</firstname>
+      <lastname>Macu</lastname>
+      <country>South Africa</country>
+      <city>Cape Town</city>
+      <website>http://mpumelelomacu.com</website>
+      <description>Designer and Photographer</description>
+      <avatar>assets/avatars/mpumelelo.jpg</avatar>
+    </follower>
+    <follower>
+      <username>dreizle</username>
+      <firstname>André</firstname>
+      <lastname>Morgan</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/dreizle.jpg</avatar>
+    </follower>
+    <follower>
+      <username>janerictobias</username>
+      <firstname>Jan</firstname>
+      <lastname>Lindblom</lastname>
+      <country>Sweden</country>
+      <city>Sundsvall</city>
+      <website></website>
+      <description nil="true"/>
+      <avatar>assets/avatars/janerictobias.jpg</avatar>
+    </follower>
+    <follower>
+      <username>djnavarro17</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>qxavier</username>
+      <firstname>Q. </firstname>
+      <lastname>Xavier</lastname>
+      <country>United States</country>
+      <city>Philadelphia</city>
+      <website>http://qxavier.com</website>
+      <description>Trainer. Instructor. Coach. 
+"The first principle is that you must not fool yourself — and you are the easiest person to fool. So you have to be very careful about that." -Richard Feynman</description>
+      <avatar>assets/avatars/qxavier.jpg</avatar>
+    </follower>
+    <follower>
+      <username>trumbitta</username>
+      <firstname>William</firstname>
+      <lastname>Ghelfi</lastname>
+      <country>Italy</country>
+      <city>Cagliari</city>
+      <website>http://www.williamghelfi.com/</website>
+      <description>Born, growing up.
+R&amp;D Director at Entando: http://www.entando.com/
+Author of Bootstrap In Practice: http://www.williamghelfi.com/bootstrap-in-practice</description>
+      <avatar>assets/avatars/trumbitta.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jentanbernardus</username>
+      <firstname>Jentan</firstname>
+      <lastname>Bernardus</lastname>
+      <country></country>
+      <city></city>
+      <website>http://jentanbernardus.com</website>
+      <description>Entrepreneur, designer, developer and photographer.</description>
+      <avatar>assets/avatars/jentanbernardus.jpg</avatar>
+    </follower>
+    <follower>
+      <username>dnickel80</username>
+      <firstname>David</firstname>
+      <lastname>Nickel</lastname>
+      <country>USA</country>
+      <city>Augusta</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/dnickel80.jpg</avatar>
+    </follower>
+    <follower>
+      <username>legionloveschris</username>
+      <firstname>Chris</firstname>
+      <lastname>De La Fuente</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/legionloveschris.jpg</avatar>
+    </follower>
+    <follower>
+      <username>renguotao19921125</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>moreno_naitana</username>
+      <firstname>Moreno</firstname>
+      <lastname>Naitana</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/moreno_naitana.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jasonperez</username>
+      <firstname>Jason</firstname>
+      <lastname>Perez</lastname>
+      <country></country>
+      <city>San Francisco</city>
+      <website>http://theworkofjasonperez.com</website>
+      <description></description>
+      <avatar>assets/avatars/jasonperez.jpg</avatar>
+    </follower>
+    <follower>
+      <username>drsh</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/drsh.jpg</avatar>
+    </follower>
+    <follower>
+      <username>namratha_sitha</username>
+      <firstname>Namratha</firstname>
+      <lastname>Sitharaman</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>michaelnovakjr</username>
+      <firstname>Michael</firstname>
+      <lastname>Novak</lastname>
+      <country>United States</country>
+      <city>New York, NY</city>
+      <website>http://michaelnovakjr.com</website>
+      <description>code @ groupme</description>
+      <avatar>assets/avatars/michaelnovakjr.jpg</avatar>
+    </follower>
+    <follower>
+      <username>vernon</username>
+      <firstname>Vernon</firstname>
+      <lastname>Fowler</lastname>
+      <country>Australia</country>
+      <city>Glen Iris</city>
+      <website>http://about.me/vfowler</website>
+      <description>Information Technologist at Deakin University Library</description>
+      <avatar>assets/avatars/vernon.jpg</avatar>
+    </follower>
+    <follower>
+      <username>picksg</username>
+      <firstname>Steve</firstname>
+      <lastname>Pick</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/picksg.jpg</avatar>
+    </follower>
+    <follower>
+      <username>lais_mm</username>
+      <firstname>Lais</firstname>
+      <lastname>Mastelari</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>patrick_smith_1253236</username>
+      <firstname>Patrick</firstname>
+      <lastname>Smith</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/patrick_smith_1253236.jpg</avatar>
+    </follower>
+    <follower>
+      <username>apoena_cardoso</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>xarles_wu</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>samswan_nailer</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>lwjvive</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>stillfeng</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>cumbalak</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/cumbalak.jpg</avatar>
+    </follower>
+    <follower>
+      <username>molased</username>
+      <firstname>Mohamed</firstname>
+      <lastname>Abd Elaleem</lastname>
+      <country>Egypt</country>
+      <city></city>
+      <website>http://mohamedaleem.dayflow.me</website>
+      <description>IOS developer, i read about thinking, management and programming</description>
+      <avatar>assets/avatars/molased.jpg</avatar>
+    </follower>
+    <follower>
+      <username>sbaryshniev</username>
+      <firstname>Serhiy</firstname>
+      <lastname>Baryshniev</lastname>
+      <country>Ukraine</country>
+      <city>Lviv</city>
+      <website></website>
+      <description>UX designer at SoftServe and a book worm</description>
+      <avatar>assets/avatars/sbaryshniev.jpg</avatar>
+    </follower>
+    <follower>
+      <username>mtcnajjar</username>
+      <firstname>Maroun</firstname>
+      <lastname>Najjar</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/mtcnajjar.jpg</avatar>
+    </follower>
+    <follower>
+      <username>bblzz915</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>kaladin</username>
+      <firstname>Joseph</firstname>
+      <lastname>Delva</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/kaladin.jpg</avatar>
+    </follower>
+    <follower>
+      <username>lucjallois</username>
+      <firstname>Luc</firstname>
+      <lastname>Jallois</lastname>
+      <country>France</country>
+      <city>Casalabriva</city>
+      <website>http://jallois.com</website>
+      <description>Passionate about 73CH #tech  #apple
+S0C!4L N37WORK!NG &amp; S0C!4L M3D!4 #social #media #networking Senior #IT #Consultant #Project #Manager
+#Blogger @ #W7RMLN / #PMPK1N / #DR34M!NG!ND!G!74L.
+#EN #FR #dreamingindigital #wtrmln #watermelon #hashtags</description>
+      <avatar>assets/avatars/lucjallois.jpg</avatar>
+    </follower>
+    <follower>
+      <username>mateusbodevan</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>suain</username>
+      <firstname>Sven</firstname>
+      <lastname>Hofmann</lastname>
+      <country></country>
+      <city></city>
+      <website>http://medienfreunde.com</website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>daman</username>
+      <firstname>Daman</firstname>
+      <lastname>Ahluwalia</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>gpenston</username>
+      <firstname>George</firstname>
+      <lastname>Penston</lastname>
+      <country>USA</country>
+      <city>Alameda</city>
+      <website>http://georgepenston.com</website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>imthinhvu</username>
+      <firstname>Thinh</firstname>
+      <lastname>Vu</lastname>
+      <country>United States</country>
+      <city></city>
+      <website>http://im.thinhvu@gmail.com</website>
+      <description></description>
+      <avatar>assets/avatars/imthinhvu.jpg</avatar>
+    </follower>
+    <follower>
+      <username>brittybyte</username>
+      <firstname>Brittany</firstname>
+      <lastname>Stevens</lastname>
+      <country>USA</country>
+      <city>New Orleans</city>
+      <website>http://twitter.com/brittybyte</website>
+      <description>I'm a graduate student, innovator, and literary creative who likes herbal teas, technologies, and zombie apocalypse escape plans.</description>
+      <avatar>assets/avatars/brittybyte.jpg</avatar>
+    </follower>
+    <follower>
+      <username>nathanholland</username>
+      <firstname>Nathan</firstname>
+      <lastname>Holland</lastname>
+      <country></country>
+      <city></city>
+      <website>http://nathanholland.co</website>
+      <description>Web designer &amp; Front End Developer</description>
+      <avatar>assets/avatars/nathanholland.jpg</avatar>
+    </follower>
+    <follower>
+      <username>denzyl_balram</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>austin</username>
+      <firstname>Austin</firstname>
+      <lastname>Riendeau</lastname>
+      <country></country>
+      <city></city>
+      <website>http://apriendeau.com</website>
+      <description></description>
+      <avatar>assets/avatars/austin.jpg</avatar>
+    </follower>
+    <follower>
+      <username>dalal_adawi</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>simon_de_turck</username>
+      <firstname>Simon</firstname>
+      <lastname>de Turck</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/simon_de_turck.jpg</avatar>
+    </follower>
+    <follower>
+      <username>JIPoggioli</username>
+      <firstname>Juan Ignacio</firstname>
+      <lastname>Poggioli</lastname>
+      <country>Venezuela</country>
+      <city>Caracas</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/JIPoggioli.jpg</avatar>
+    </follower>
+    <follower>
+      <username>stanislavg</username>
+      <firstname>Stanislav</firstname>
+      <lastname>Grinapol</lastname>
+      <country>United States</country>
+      <city>Brooklyn </city>
+      <website>http://scribbleandtweak.com</website>
+      <description>Product designer at Fieldlens. Brooklynite, UX designer, creative practitioner, student of life. With passion for biking, running and expanding creative skill-set through constant practice, reading and learning . 
+</description>
+      <avatar>assets/avatars/stanislavg.jpg</avatar>
+    </follower>
+    <follower>
+      <username>grafikerrecep</username>
+      <firstname>Recep</firstname>
+      <lastname>Ertuğrul</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>kinky</username>
+      <firstname>crystal</firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/kinky.jpg</avatar>
+    </follower>
+    <follower>
+      <username>beydo</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website>http://beydo@aol.com</website>
+      <description></description>
+      <avatar>assets/avatars/beydo.jpg</avatar>
+    </follower>
+    <follower>
+      <username>nilsrydh</username>
+      <firstname>Nils</firstname>
+      <lastname>Rydh</lastname>
+      <country>Denmark</country>
+      <city>København </city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/nilsrydh.jpg</avatar>
+    </follower>
+    <follower>
+      <username>octoberborn</username>
+      <firstname>Greg</firstname>
+      <lastname>Connour</lastname>
+      <country>United States</country>
+      <city>Chicago</city>
+      <website>http://www.octoberborn.com</website>
+      <description>pastor, musician, designer, developer, puppeteer</description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>kimberly_stanley</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>benopolis</username>
+      <firstname>Ben</firstname>
+      <lastname>Mullen</lastname>
+      <country>USA</country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>rcrosw8</username>
+      <firstname>Rebecca</firstname>
+      <lastname>Crosthwait</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>swaminathan</username>
+      <firstname>Swaminathan</firstname>
+      <lastname></lastname>
+      <country>India</country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/swaminathan.jpg</avatar>
+    </follower>
+    <follower>
+      <username>Preacherman</username>
+      <firstname>Charles</firstname>
+      <lastname>Harris</lastname>
+      <country>USA</country>
+      <city>Crossett</city>
+      <website>http://www.pinestreetchurchofchrist.net</website>
+      <description>"A house without books is like a room without windows." (Heinrich Mann)</description>
+      <avatar>assets/avatars/Preacherman.jpg</avatar>
+    </follower>
+    <follower>
+      <username>siting54</username>
+      <firstname>Szuting</firstname>
+      <lastname>Chen</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>jkorty</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>dap</username>
+      <firstname>Dan</firstname>
+      <lastname>Perlman</lastname>
+      <country>TX</country>
+      <city>Austin</city>
+      <website>http://blacktango.com</website>
+      <description>Tech, marketing and book geek.</description>
+      <avatar>assets/avatars/dap.jpg</avatar>
+    </follower>
+    <follower>
+      <username>bret7600</username>
+      <firstname>Brett</firstname>
+      <lastname>Petch</lastname>
+      <country>Ontario</country>
+      <city>Gilford</city>
+      <website>http://her.scdsb.on.ca</website>
+      <description>Web Design, Movie Editor &amp; App Specialist</description>
+      <avatar>assets/avatars/bret7600.jpg</avatar>
+    </follower>
+    <follower>
+      <username>dcai</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/dcai.jpg</avatar>
+    </follower>
+    <follower>
+      <username>fabianrios</username>
+      <firstname>Fabian</firstname>
+      <lastname>Rios</lastname>
+      <country>Colombia</country>
+      <city>Bogota</city>
+      <website>http://www.fabianrios.co</website>
+      <description>web developer &amp; media artist</description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>sduiexe</username>
+      <firstname>Dino</firstname>
+      <lastname>Su</lastname>
+      <country>China</country>
+      <city>Beijing</city>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>a_shipley22</username>
+      <firstname>Abriel</firstname>
+      <lastname>Shipley</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>stylefunky</username>
+      <firstname>Christine</firstname>
+      <lastname>Ramirez</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/stylefunky.jpg</avatar>
+    </follower>
+    <follower>
+      <username>areskub</username>
+      <firstname>Stephane</firstname>
+      <lastname>Reverdy</lastname>
+      <country>France</country>
+      <city>Versailles</city>
+      <website>http://www.areskub.com</website>
+      <description></description>
+      <avatar>assets/avatars/areskub.jpg</avatar>
+    </follower>
+    <follower>
+      <username>will_lenzenjr</username>
+      <firstname>Will</firstname>
+      <lastname>Lenzen</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>oruamsasac</username>
+      <firstname>Mauro</firstname>
+      <lastname>Casas</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/oruamsasac.jpg</avatar>
+    </follower>
+    <follower>
+      <username>satrya</username>
+      <firstname>Marga</firstname>
+      <lastname>Satrya</lastname>
+      <country>Indonesia</country>
+      <city>Cimahi</city>
+      <website>http://satrya.me/</website>
+      <description>Front-end &amp; WordPress developer and Designer</description>
+      <avatar>assets/avatars/satrya.jpg</avatar>
+    </follower>
+    <follower>
+      <username>sachinb</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>eralis</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>adooylabs</username>
+      <firstname>Audee</firstname>
+      <lastname>Velasco</lastname>
+      <country>United States</country>
+      <city>Seattle</city>
+      <website>http://adooylabs.us</website>
+      <description></description>
+      <avatar>assets/avatars/adooylabs.jpg</avatar>
+    </follower>
+    <follower>
+      <username>eurieka</username>
+      <firstname>Eurieka</firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>dimitri_litvin</username>
+      <firstname>Dimitri</firstname>
+      <lastname>Litvin</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>miehaha</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>lora_alfonso</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>rieraney</username>
+      <firstname>Marie</firstname>
+      <lastname>Raney</lastname>
+      <country>USA</country>
+      <city>Bellingham</city>
+      <website>http://recklesswhither.com</website>
+      <description></description>
+      <avatar>assets/avatars/rieraney.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jd30594</username>
+      <firstname>Jaydeep</firstname>
+      <lastname></lastname>
+      <country>India</country>
+      <city></city>
+      <website></website>
+      <description>Student</description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>mathieu_ravaux</username>
+      <firstname>Mathieu</firstname>
+      <lastname>Ravaux</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/mathieu_ravaux.jpg</avatar>
+    </follower>
+    <follower>
+      <username>animainmachina</username>
+      <firstname>Ryan</firstname>
+      <lastname>G</lastname>
+      <country>USA</country>
+      <city>Houston</city>
+      <website></website>
+      <description>I am me</description>
+      <avatar>assets/avatars/animainmachina.jpg</avatar>
+    </follower>
+    <follower>
+      <username>andreacau</username>
+      <firstname>Andrea</firstname>
+      <lastname>Cau</lastname>
+      <country></country>
+      <city></city>
+      <website>http://dribbble.com/AndreaCau</website>
+      <description>✐ Diamond Honey / ✪ Intraction Designer (Freelance) / Student @ IED / ☞ Icon and UI interface Lover  / ♫ Rap Music ♬ / Andy for Friends ⚉ / Engaged ♡</description>
+      <avatar>assets/avatars/andreacau.jpg</avatar>
+    </follower>
+    <follower>
+      <username>vinicius_candido</username>
+      <firstname>Vinicius</firstname>
+      <lastname>Cândido</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>borryshasian</username>
+      <firstname>Borrys</firstname>
+      <lastname>Hasian</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.inspiringux.com</website>
+      <description>UX Design Consultant. Simplicity. Mobile.</description>
+      <avatar>assets/avatars/borryshasian.jpg</avatar>
+    </follower>
+    <follower>
+      <username>jermz_i_stewart</username>
+      <firstname>Jay</firstname>
+      <lastname>Stewart</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/jermz_i_stewart.jpg</avatar>
+    </follower>
+    <follower>
+      <username>magreda</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/magreda.jpg</avatar>
+    </follower>
+    <follower>
+      <username>tinabelles</username>
+      <firstname>Tinabelles</firstname>
+      <lastname>Bialba</lastname>
+      <country></country>
+      <city></city>
+      <website>http://purpletinkerbelles.tumblr.com</website>
+      <description>Just a simple girl with a passion for fashion, books and anything purple.</description>
+      <avatar>assets/avatars/tinabelles.jpg</avatar>
+    </follower>
+    <follower>
+      <username>Lucky_Miss7</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/Lucky_Miss7.jpg</avatar>
+    </follower>
+    <follower>
+      <username>lzy407484611</username>
+      <firstname>Joyo</firstname>
+      <lastname>Lee</lastname>
+      <country>China</country>
+      <city>Shanghai</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/lzy407484611.jpg</avatar>
+    </follower>
+    <follower>
+      <username>akosibatangmakulit</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>sharkytank</username>
+      <firstname>Steven</firstname>
+      <lastname>Cook</lastname>
+      <country>United States Of America</country>
+      <city>Portland Oregon</city>
+      <website>http://twitter.com/Sharkytank</website>
+      <description>Rapper. 20. Like nice days on the beach and a book to read when I need something to do.</description>
+      <avatar>assets/avatars/sharkytank.jpg</avatar>
+    </follower>
+    <follower>
+      <username>nicolasibarra84</username>
+      <firstname>Nicolas</firstname>
+      <lastname>Ibarra</lastname>
+      <country>Chile</country>
+      <city>Santiago</city>
+      <website></website>
+      <description>Political Scientist</description>
+      <avatar>assets/avatars/nicolasibarra84.jpg</avatar>
+    </follower>
+    <follower>
+      <username>johannehegdahl</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>annemh2</username>
+      <firstname>Anne</firstname>
+      <lastname>Henochowicz</lastname>
+      <country>USA</country>
+      <city>Washington, D.C.</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/annemh2.jpg</avatar>
+    </follower>
+    <follower>
+      <username>nacho_lm93</username>
+      <firstname>Nacho</firstname>
+      <lastname>López</lastname>
+      <country>Argentina</country>
+      <city>Buenos Aires</city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>melissajanebernal</username>
+      <firstname>Melissa Jane</firstname>
+      <lastname>Bernal</lastname>
+      <country>Philippines</country>
+      <city>Bulacan</city>
+      <website></website>
+      <description>Bookworm-ish</description>
+      <avatar>assets/avatars/melissajanebernal.jpg</avatar>
+    </follower>
+    <follower>
+      <username>sashaleemccathie</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>stefan_klocek</username>
+      <firstname>Stefan</firstname>
+      <lastname>Klocek</lastname>
+      <country></country>
+      <city>Berkeley</city>
+      <website></website>
+      <description>Designer, maker.</description>
+      <avatar>assets/avatars/stefan_klocek.jpg</avatar>
+    </follower>
+    <follower>
+      <username>sarahofjiddah</username>
+      <firstname>Sarah</firstname>
+      <lastname>Ş</lastname>
+      <country>Saudi Arabia</country>
+      <city>Jeddah</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/sarahofjiddah.jpg</avatar>
+    </follower>
+    <follower>
+      <username>davidm06</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>frank0478</username>
+      <firstname>Frank</firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/frank0478.jpg</avatar>
+    </follower>
+    <follower>
+      <username>atya57</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>user2047</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>realkarmalou</username>
+      <firstname>Louise</firstname>
+      <lastname>Factor</lastname>
+      <country>USA</country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/realkarmalou.jpg</avatar>
+    </follower>
+    <follower>
+      <username>scott220</username>
+      <firstname>Simple</firstname>
+      <lastname>Scott</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>neil_sadia</username>
+      <firstname>Neil</firstname>
+      <lastname>Sadia</lastname>
+      <country>Philippines</country>
+      <city>Naga</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/neil_sadia.jpg</avatar>
+    </follower>
+    <follower>
+      <username>hellowaldron</username>
+      <firstname>Daniel</firstname>
+      <lastname>Waldron</lastname>
+      <country>USA</country>
+      <city>Walnut Creek</city>
+      <website>http://danielwaldron.com</website>
+      <description></description>
+      <avatar>assets/avatars/hellowaldron.jpg</avatar>
+    </follower>
+    <follower>
+      <username>kellyjellybelly15</username>
+      <firstname>Kelly</firstname>
+      <lastname>Jelly-Belly</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/kellyjellybelly15.jpg</avatar>
+    </follower>
+    <follower>
+      <username>tinamali</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website>http://twitter.com/tinamali</website>
+      <description></description>
+      <avatar>assets/avatars/tinamali.jpg</avatar>
+    </follower>
+    <follower>
+      <username>Bishopsun</username>
+      <firstname>Bishop</firstname>
+      <lastname>Sun</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>jodiejods</username>
+      <firstname>Jodie</firstname>
+      <lastname>Jods</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/jodiejods.jpg</avatar>
+    </follower>
+    <follower>
+      <username>aiysha512xx</username>
+      <firstname></firstname>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/aiysha512xx.jpg</avatar>
+    </follower>
+    <follower>
+      <username>user2281</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>paximi</username>
+      <firstname>Pan</firstname>
+      <lastname>Xiaoming</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>mahonezpf</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>ja_canabal</username>
+      <firstname>Jorge</firstname>
+      <lastname>Canabal</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>fuzhoubian</username>
+      <firstname></firstname>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/fuzhoubian.jpg</avatar>
+    </follower>
+    <follower>
+      <username>michael_kozicki</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>vanillaroux</username>
+      <firstname>Mumu</firstname>
+      <lastname></lastname>
+      <country>Philippines</country>
+      <city></city>
+      <website></website>
+      <description>Talk is cheap.</description>
+      <avatar>assets/avatars/vanillaroux.jpg</avatar>
+    </follower>
+    <follower>
+      <username>nikkig3910</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>ezurakun</username>
+      <firstname>Ezra</firstname>
+      <lastname>Marc</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description>404</description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>mariairizz</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>zhangjueshuo</username>
+      <firstname nil="true"/>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>tatianaharvey13</username>
+      <firstname>Makayle</firstname>
+      <lastname>Figgins</lastname>
+      <country></country>
+      <city>Johnson city</city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>gogodsy</username>
+      <firstname>Ashley</firstname>
+      <lastname>Teng</lastname>
+      <country>China</country>
+      <city>Kunming</city>
+      <website></website>
+      <description>Death makes you a wise man.</description>
+      <avatar>assets/avatars/gogodsy.jpg</avatar>
+    </follower>
+    <follower>
+      <username>a_menecola</username>
+      <firstname>Anthony</firstname>
+      <lastname>Menecola</lastname>
+      <country>Canada</country>
+      <city>Toronto</city>
+      <website>http://www.anthonymenecola.com</website>
+      <description></description>
+      <avatar>assets/avatars/a_menecola.jpg</avatar>
+    </follower>
+    <follower>
+      <username>shanikhan2492</username>
+      <firstname>Shani</firstname>
+      <lastname>Khan</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>lorelei1217</username>
+      <firstname>Lorelei</firstname>
+      <lastname>Woo</lastname>
+      <country>China</country>
+      <city>Shanghai</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/lorelei1217.jpg</avatar>
+    </follower>
+    <follower>
+      <username>Hightechconstruction</username>
+      <firstname>High Tech</firstname>
+      <lastname>Construction Co</lastname>
+      <country>USA</country>
+      <city>Brooklyn</city>
+      <website>http://www.hightechconstructionco.com</website>
+      <description>Contractor</description>
+      <avatar>assets/avatars/Hightechconstruction.jpg</avatar>
+    </follower>
+    <follower>
+      <username>alexzone40</username>
+      <firstname>Alex</firstname>
+      <lastname>Castillo</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>zubayer</username>
+      <firstname>Sams Zubayer</firstname>
+      <lastname>Mridha</lastname>
+      <country>Bangladesh</country>
+      <city>Dhaka, Narsingdi, Bangladesh</city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>joeyandmiriam</username>
+      <firstname>Joey</firstname>
+      <lastname>Schwartz</lastname>
+      <country>USA</country>
+      <city>Brooklyn</city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </follower>
+    <follower>
+      <username>alvarezteruel</username>
+      <firstname>Cristobal</firstname>
+      <lastname>Alvarez</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar nil="true"/>
+    </follower>
+  </followers>
+  <followings type="array">
+    <following>
+      <username>andymcmillan</username>
+      <firstname>Andy</firstname>
+      <lastname>McMillan</lastname>
+      <country>Northern Ireland</country>
+      <city>Belfast</city>
+      <website>http://goodonpaper.com/</website>
+      <description>I run a made-up company called Fiction. Publisher of The Manual, organiser of Build, and co-organiser of xoxo. Well, manager. We just say manager.</description>
+      <avatar>assets/avatars/andymcmillan.jpg</avatar>
+    </following>
+    <following>
+      <username>craigmod</username>
+      <firstname>Craig</firstname>
+      <lastname>Mod</lastname>
+      <country></country>
+      <city></city>
+      <website>http://craigmod.com</website>
+      <description>Hi. </description>
+      <avatar>assets/avatars/craigmod.jpg</avatar>
+    </following>
+    <following>
+      <username>kissane</username>
+      <firstname>erin</firstname>
+      <lastname>kissane</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://incisive.nu</website>
+      <description>Editorial and content strategist. Reader. Writer. Blue canary in the outlet by the light switch.</description>
+      <avatar>assets/avatars/kissane.jpg</avatar>
+    </following>
+    <following>
+      <username>jasonsantamaria</username>
+      <firstname>Jason</firstname>
+      <lastname>Santa Maria</lastname>
+      <country></country>
+      <city>Brooklyn</city>
+      <website>http://jasonsantamaria.com/</website>
+      <description>Designer by day, designer by night.</description>
+      <avatar>assets/avatars/jasonsantamaria.jpg</avatar>
+    </following>
+    <following>
+      <username>zeldman</username>
+      <firstname>Jeffrey</firstname>
+      <lastname>Zeldman</lastname>
+      <country>USA</country>
+      <city>New York</city>
+      <website>http://www.zeldman.com/</website>
+      <description>Author, Designing With Web Standards. Founder, Happy Cog™ studios (happycog.com). Publisher, A List Apart Magazine (alistapart.com), A Book Apart (abookapart.com). Host, The Big Web Show. Co-founder, An Event Apart web conference (aneventapart.com).</description>
+      <avatar>assets/avatars/zeldman.jpg</avatar>
+    </following>
+    <following>
+      <username>aworkinglibrary</username>
+      <firstname>Mandy</firstname>
+      <lastname>Brown</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.aworkinglibrary.com</website>
+      <description>Writer, editor, designer &amp; publisher. Co-founder of A Book Apart, former editor at A List Apart, and Communications Director at Typekit.</description>
+      <avatar>assets/avatars/aworkinglibrary.jpg</avatar>
+    </following>
+    <following>
+      <username>timwright12</username>
+      <firstname>Tim</firstname>
+      <lastname>Wright</lastname>
+      <country>United States</country>
+      <city>Boston</city>
+      <website>http://www.csskarma.com</website>
+      <description></description>
+      <avatar>assets/avatars/timwright12.jpg</avatar>
+    </following>
+    <following>
+      <username>wilsonminer</username>
+      <firstname>Wilson</firstname>
+      <lastname>Miner</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.wilsonminer.com/</website>
+      <description>Head of design for Rdio. Really very tall.</description>
+      <avatar>assets/avatars/wilsonminer.jpg</avatar>
+    </following>
+    <following>
+      <username>AaronGustafson</username>
+      <firstname>Aaron</firstname>
+      <lastname>Gustafson</lastname>
+      <country>USA</country>
+      <city>Chattanooga</city>
+      <website>http://aaron-gustafson.com</website>
+      <description>Founder of @EasyDesigns, co-founder of @EasyReaders and @Retreats4Geeks, manager of @WaSP, author of Adaptive Web Design, and husband of @ShirleyTemper.</description>
+      <avatar>assets/avatars/AaronGustafson.jpg</avatar>
+    </following>
+    <following>
+      <username>aileenatkins</username>
+      <firstname>Aileen</firstname>
+      <lastname>Atkins</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.manikratheephotography.com</website>
+      <description></description>
+      <avatar>assets/avatars/aileenatkins.jpg</avatar>
+    </following>
+    <following>
+      <username>tealtan</username>
+      <firstname>Allen</firstname>
+      <lastname>Tan</lastname>
+      <country></country>
+      <city></city>
+      <website>http://tanmade.com/</website>
+      <description>Graphic and interaction designer by day, assistant editor for @codex and @contents by night.</description>
+      <avatar>assets/avatars/tealtan.jpg</avatar>
+    </following>
+    <following>
+      <username>eryan</username>
+      <firstname>Eryan</firstname>
+      <lastname>Cobham</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </following>
+    <following>
+      <username>aarron</username>
+      <firstname>Aarron</firstname>
+      <lastname>Walter</lastname>
+      <country>USA</country>
+      <city>Athens</city>
+      <website>http://aarronwalter.com</website>
+      <description>MailChimp UX lead, author of Designing for Emotion, the purple stripe in your rainbow of knowledge from @abookapart.</description>
+      <avatar>assets/avatars/aarron.jpg</avatar>
+    </following>
+    <following>
+      <username>adellecharles</username>
+      <firstname>Adelle</firstname>
+      <lastname>Charles</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://adellecharles.com</website>
+      <description>Founder, Chief Product Officer @tinder. Designer. Foodie. Loves coffee and beta apps. Tweets a lot.
+</description>
+      <avatar>assets/avatars/adellecharles.jpg</avatar>
+    </following>
+    <following>
+      <username>amitrathee</username>
+      <firstname>Amit</firstname>
+      <lastname>Rathee</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.amitrathee.com</website>
+      <description></description>
+      <avatar nil="true"/>
+    </following>
+    <following>
+      <username>behoff</username>
+      <firstname>Brian</firstname>
+      <lastname>Hoff</lastname>
+      <country>USA</country>
+      <city>Brooklyn</city>
+      <website>http://www.thedesigncubicle.com</website>
+      <description>Designer, writer, speaker and design thinker. Founder of http://thedesigncubicle.com</description>
+      <avatar>assets/avatars/behoff.jpg</avatar>
+    </following>
+    <following>
+      <username>simplebits</username>
+      <firstname>Dan</firstname>
+      <lastname>Cederholm</lastname>
+      <country>USA</country>
+      <city>Salem, MA</city>
+      <website>http://simplebits.com</website>
+      <description>Designer, author &amp; speaker at SimpleBits. Co-Founder of Dribbble. Likes ampersands &amp; banjos.</description>
+      <avatar>assets/avatars/simplebits.jpg</avatar>
+    </following>
+    <following>
+      <username>danprovost</username>
+      <firstname>Dan</firstname>
+      <lastname>Provost</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.studioneat.com</website>
+      <description>Designer. Co-Founder of Studio Neat.</description>
+      <avatar>assets/avatars/danprovost.jpg</avatar>
+    </following>
+    <following>
+      <username>danrubin</username>
+      <firstname>Dan</firstname>
+      <lastname>Rubin</lastname>
+      <country>US/UK</country>
+      <city>Fort Lauderdale / Newcastle upon Tyne</city>
+      <website>http://danrubin.is</website>
+      <description></description>
+      <avatar>assets/avatars/danrubin.jpg</avatar>
+    </following>
+    <following>
+      <username>beep</username>
+      <firstname>Ethan</firstname>
+      <lastname>Marcotte</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://ethanmarcotte.com/</website>
+      <description>Designer, developer. Started that whole “responsive web design” thing.</description>
+      <avatar>assets/avatars/beep.jpg</avatar>
+    </following>
+    <following>
+      <username>ddemaree</username>
+      <firstname>David</firstname>
+      <lastname>Demaree</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://demaree.me/</website>
+      <description>Software/web developer at Typekit. Recovering art school brat. Ornery.</description>
+      <avatar>assets/avatars/ddemaree.jpg</avatar>
+    </following>
+    <following>
+      <username>fchimero</username>
+      <firstname></firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/fchimero.jpg</avatar>
+    </following>
+    <following>
+      <username>jackcheng</username>
+      <firstname>Jack</firstname>
+      <lastname>Cheng</lastname>
+      <country>USA</country>
+      <city>Brooklyn</city>
+      <website>http://jackcheng.com</website>
+      <description>Shanghai-born, Michigan-bred, Brooklyn-based writer.</description>
+      <avatar>assets/avatars/jackcheng.jpg</avatar>
+    </following>
+    <following>
+      <username>jfsolnet</username>
+      <firstname>Jeff</firstname>
+      <lastname>Solnet</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.facebook.com/jeff.solnet</website>
+      <description>South Floridian. Web developer for @Obama2012. @OFA_FL. @Harvard @HarvardIOP alum. Political junkie. Gov 2.0 geek. Coffee enthusiast. Views are my own. </description>
+      <avatar>assets/avatars/jfsolnet.jpg</avatar>
+    </following>
+    <following>
+      <username>jeffreylouden</username>
+      <firstname>Jeffrey</firstname>
+      <lastname>Louden</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.jefflouden.com/</website>
+      <description></description>
+      <avatar>assets/avatars/jeffreylouden.jpg</avatar>
+    </following>
+    <following>
+      <username>jon_hicks</username>
+      <firstname>Jon</firstname>
+      <lastname>Hicks</lastname>
+      <country>United Kingdom</country>
+      <city>Witney</city>
+      <website>http://hicksdesign.co.uk</website>
+      <description></description>
+      <avatar>assets/avatars/jon_hicks.jpg</avatar>
+    </following>
+    <following>
+      <username>jordanmoore</username>
+      <firstname>Jordan</firstname>
+      <lastname>Moore</lastname>
+      <country>United Kingdom</country>
+      <city>Conlig</city>
+      <website>http://jordanm.co.uk</website>
+      <description>Web designer &amp; front end developer for Eyekiller.</description>
+      <avatar>assets/avatars/jordanmoore.jpg</avatar>
+    </following>
+    <following>
+      <username>karenmcgrane</username>
+      <firstname>Karen</firstname>
+      <lastname>McGrane</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://about.me/karenmcgrane</website>
+      <description>On a good day, I make the web more awesome. On a bad day, I just make it suck less.</description>
+      <avatar>assets/avatars/karenmcgrane.jpg</avatar>
+    </following>
+    <following>
+      <username>lukew</username>
+      <firstname>Luke</firstname>
+      <lastname>Wroblewski</lastname>
+      <country>USA</country>
+      <city>Los Gatos, CA</city>
+      <website>http://www.lukew.com</website>
+      <description>Digital product design &amp; strategy guy in Silicon Valley, CA. Author of Mobile First, Web Form Design, Site-Seeing, &amp; more...</description>
+      <avatar>assets/avatars/lukew.jpg</avatar>
+    </following>
+    <following>
+      <username>wilto</username>
+      <firstname>Mat</firstname>
+      <lastname>Marquis</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.matmarquis.com/</website>
+      <description>The unholy fusion of designer and developer, with a strangely retentive memory for trifles.</description>
+      <avatar>assets/avatars/wilto.jpg</avatar>
+    </following>
+    <following>
+      <username>heilemann</username>
+      <firstname>Michael</firstname>
+      <lastname>Heilemann</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/heilemann.jpg</avatar>
+    </following>
+    <following>
+      <username>mfortress</username>
+      <firstname>Mike</firstname>
+      <lastname>Fortress</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.oak.is</website>
+      <description>Designer / Art Director at Oak Studios and a Studiomate.</description>
+      <avatar>assets/avatars/mfortress.jpg</avatar>
+    </following>
+    <following>
+      <username>ryanessmaker</username>
+      <firstname>Ryan</firstname>
+      <lastname>Essmaker</lastname>
+      <country>USA</country>
+      <city>NYC</city>
+      <website>http://twitter.com/ryanessmaker</website>
+      <description>designer, photographer and musician with a soft spot for film, good typography and all things analog.</description>
+      <avatar>assets/avatars/ryanessmaker.jpg</avatar>
+    </following>
+    <following>
+      <username>sara_ann_marie</username>
+      <firstname>S.</firstname>
+      <lastname>Wachter-Boettcher</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://about.me/sarawachterboettcher</website>
+      <description>Content strategy, color commentary, red wine, and bad ideas. My name eats character limits for breakfast. Chomp.</description>
+      <avatar>assets/avatars/sara_ann_marie.jpg</avatar>
+    </following>
+    <following>
+      <username>Yarcom</username>
+      <firstname>Yaron</firstname>
+      <lastname>Schoen</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://t.co/JiMakYoH</website>
+      <description>Design Lead at Twitter NYC. Founder of @madeforhumans. Co-founder of @floatschedule. Digital thought ninja.</description>
+      <avatar>assets/avatars/Yarcom.jpg</avatar>
+    </following>
+    <following>
+      <username>swissmiss</username>
+      <firstname>Tina Roth</firstname>
+      <lastname>Eisenberg</lastname>
+      <country>USA</country>
+      <city>Brooklyn</city>
+      <website>http://www.swiss-miss.com</website>
+      <description>I am a Swiss designer gone NYC. </description>
+      <avatar>assets/avatars/swissmiss.jpg</avatar>
+    </following>
+    <following>
+      <username>timoreilly</username>
+      <firstname>Tim</firstname>
+      <lastname>O'Reilly</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://radar.oreilly.com</website>
+      <description>Founder and CEO, O'Reilly Media. Watching the alpha geeks, sharing their stories, helping the future unfold.</description>
+      <avatar>assets/avatars/timoreilly.jpg</avatar>
+    </following>
+    <following>
+      <username>henrik</username>
+      <firstname>Henrik</firstname>
+      <lastname>Berggren</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://readmill.com</website>
+      <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+      <avatar>assets/avatars/henrik.jpg</avatar>
+    </following>
+    <following>
+      <username>dryan</username>
+      <firstname>Daniel</firstname>
+      <lastname>Ryan</lastname>
+      <country>United States</country>
+      <city>Chattanooga</city>
+      <website>http://dryan.com</website>
+      <description></description>
+      <avatar>assets/avatars/dryan.jpg</avatar>
+    </following>
+    <following>
+      <username>jalejandro</username>
+      <firstname>Jason</firstname>
+      <lastname>Alejandro</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/jalejandro.jpg</avatar>
+    </following>
+    <following>
+      <username>graafmichiel</username>
+      <firstname>Michiel</firstname>
+      <lastname>de Graaf</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/graafmichiel.jpg</avatar>
+    </following>
+    <following>
+      <username>giron</username>
+      <firstname>Alex</firstname>
+      <lastname>Girón</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://neography.com</website>
+      <description>I am @worthy. I design. Co-founded @nclud &amp; @canvascowork. Currently at @twitter</description>
+      <avatar>assets/avatars/giron.jpg</avatar>
+    </following>
+    <following>
+      <username>chrisozer</username>
+      <firstname>Chris</firstname>
+      <lastname>Ozer</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.chrisozer.com</website>
+      <description>Photographer</description>
+      <avatar>assets/avatars/chrisozer.jpg</avatar>
+    </following>
+    <following>
+      <username>gteehan</username>
+      <firstname>Geoff</firstname>
+      <lastname>Teehan</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://teehanlax.com</website>
+      <description>Partner at Teehan+Lax - We create experiences for anything digital. Currently working on TweetMag 1.1 amongst other things.</description>
+      <avatar>assets/avatars/gteehan.jpg</avatar>
+    </following>
+    <following>
+      <username>fffabs</username>
+      <firstname>Fabio</firstname>
+      <lastname>↬</lastname>
+      <country></country>
+      <city></city>
+      <website>http://fffabs.com</website>
+      <description>Pixel wrangler  Design Lead http://uxebu.com Creator of http://statnutapp.com &amp; http://pixa-app.com also on https://alpha.app.net/fabs</description>
+      <avatar>assets/avatars/fffabs.jpg</avatar>
+    </following>
+    <following>
+      <username>dte</username>
+      <firstname>Daniel</firstname>
+      <lastname>Eden</lastname>
+      <country>U.S.A.</country>
+      <city>San Francisco</city>
+      <website>http://daneden.me</website>
+      <description>Makes sandwiches, websites.</description>
+      <avatar>assets/avatars/dte.jpg</avatar>
+    </following>
+    <following>
+      <username>olaolusoga</username>
+      <firstname>Ola</firstname>
+      <lastname>Olusoga</lastname>
+      <country></country>
+      <city></city>
+      <website>http://olaolusoga.com</website>
+      <description>Designer </description>
+      <avatar>assets/avatars/olaolusoga.jpg</avatar>
+    </following>
+    <following>
+      <username>scottburgess</username>
+      <firstname>Scott</firstname>
+      <lastname>Burgess</lastname>
+      <country>USA</country>
+      <city>San Francisco, CA</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/scottburgess.jpg</avatar>
+    </following>
+    <following>
+      <username>sdw</username>
+      <firstname>Sebastiaan</firstname>
+      <lastname>de With</lastname>
+      <country></country>
+      <city>San Francisco</city>
+      <website>http://www.dewith.com</website>
+      <description></description>
+      <avatar>assets/avatars/sdw.jpg</avatar>
+    </following>
+    <following>
+      <username>daryl</username>
+      <firstname>Daryl</firstname>
+      <lastname>Ginn</lastname>
+      <country>England</country>
+      <city>London</city>
+      <website>http://daryl.im</website>
+      <description>UX Astronaut</description>
+      <avatar>assets/avatars/daryl.jpg</avatar>
+    </following>
+    <following>
+      <username>lmsanchez</username>
+      <firstname>Lisa</firstname>
+      <lastname>Sanchez</lastname>
+      <country></country>
+      <city>Berlin</city>
+      <website>http://lisasanchez.me</website>
+      <description>Community manager at Readmill. Wondering what you've read and loved lately. lisa@readmill.com</description>
+      <avatar>assets/avatars/lmsanchez.jpg</avatar>
+    </following>
+    <following>
+      <username>Rahcoco</username>
+      <firstname>Ali</firstname>
+      <lastname>Zendaki</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/Rahcoco.jpg</avatar>
+    </following>
+    <following>
+      <username>austin</username>
+      <firstname>Austin</firstname>
+      <lastname>Riendeau</lastname>
+      <country></country>
+      <city></city>
+      <website>http://apriendeau.com</website>
+      <description></description>
+      <avatar>assets/avatars/austin.jpg</avatar>
+    </following>
+    <following>
+      <username>linedechoes</username>
+      <firstname>Brian</firstname>
+      <lastname>Corcoran</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/linedechoes.jpg</avatar>
+    </following>
+    <following>
+      <username>bs</username>
+      <firstname>Britt</firstname>
+      <lastname>Selvitelle</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/bs.jpg</avatar>
+    </following>
+    <following>
+      <username>cld276</username>
+      <firstname>Carol</firstname>
+      <lastname>Davidsen</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/cld276.jpg</avatar>
+    </following>
+    <following>
+      <username>juliap</username>
+      <firstname>Julia</firstname>
+      <lastname>Prieto</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/juliap.jpg</avatar>
+    </following>
+    <following>
+      <username>rsms</username>
+      <firstname>Rasmus</firstname>
+      <lastname>Andersson</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/rsms.jpg</avatar>
+    </following>
+    <following>
+      <username>rebecca_l_goldman</username>
+      <firstname>Rebecca</firstname>
+      <lastname>Goldman</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/rebecca_l_goldman.jpg</avatar>
+    </following>
+    <following>
+      <username>rdayal</username>
+      <firstname>Rohit</firstname>
+      <lastname>Dayal</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/rdayal.jpg</avatar>
+    </following>
+    <following>
+      <username>steveg</username>
+      <firstname>Steve</firstname>
+      <lastname>Guberman</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/steveg.jpg</avatar>
+    </following>
+    <following>
+      <username>soopa</username>
+      <firstname>Adam</firstname>
+      <lastname>Michela</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/soopa.jpg</avatar>
+    </following>
+    <following>
+      <username>FictiveCameron</username>
+      <firstname>Cameron</firstname>
+      <lastname>Koczon</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://fictivecameron.com</website>
+      <description>I run @fictivekin. I co-founded @gimmebar, @teuxdeux, and @brooklynbeta 
+</description>
+      <avatar>assets/avatars/FictiveCameron.jpg</avatar>
+    </following>
+    <following>
+      <username>ChristianReber</username>
+      <firstname>Christian</firstname>
+      <lastname>Reber</lastname>
+      <country>Berlin</country>
+      <city>Berlin</city>
+      <website>http://www.6wunderkinder.com</website>
+      <description>CEO &amp; Founder of 6Wunderkinder</description>
+      <avatar>assets/avatars/ChristianReber.jpg</avatar>
+    </following>
+    <following>
+      <username>teleject</username>
+      <firstname>Christopher</firstname>
+      <lastname>Schmitt</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar nil="true"/>
+    </following>
+    <following>
+      <username>davejohannes</username>
+      <firstname>Dave</firstname>
+      <lastname>Johannes</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/davejohannes.jpg</avatar>
+    </following>
+    <following>
+      <username>elliotjaystocks</username>
+      <firstname>Elliot</firstname>
+      <lastname>Stocks</lastname>
+      <country>United Kingdom</country>
+      <city>Bristol</city>
+      <website>http://elliotjaystocks</website>
+      <description>Designer, author, speaker. Creative Director of Adobe Typekit, founder of 8 Faces, and co-founder of Viewport Industries.</description>
+      <avatar>assets/avatars/elliotjaystocks.jpg</avatar>
+    </following>
+    <following>
+      <username>emmaboulton</username>
+      <firstname>Emma</firstname>
+      <lastname>Boulton</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.markboultondesign.com</website>
+      <description>Director of Mark Boulton Design and Five Simple Steps. UX Researcher and ex-BBC Audience Researcher. Wife, Mum; snowboarding and yoga fan.</description>
+      <avatar>assets/avatars/emmaboulton.jpg</avatar>
+    </following>
+    <following>
+      <username>ericaheinz</username>
+      <firstname>Erica</firstname>
+      <lastname>Heinz</lastname>
+      <country></country>
+      <city></city>
+      <website>http://energy7.com</website>
+      <description>Visual geek with a physical bent. Web designer, creative lead. Founder of http://yogoer.com, blogger at http://huff.to/alea73</description>
+      <avatar>assets/avatars/ericaheinz.jpg</avatar>
+    </following>
+    <following>
+      <username>SeaWolff</username>
+      <firstname>GOTV</firstname>
+      <lastname>Wolff</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.chriswolffdevelopment.com</website>
+      <description>I make cute animals and obsess about websites. https://alpha.app.net/seawolff on App.net
+
+Developer @ Obama for America</description>
+      <avatar>assets/avatars/SeaWolff.jpg</avatar>
+    </following>
+    <following>
+      <username>hellogeri</username>
+      <firstname>Geri</firstname>
+      <lastname>Coady</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.hellogeri.com</website>
+      <description>Colour-obsessed freelance illustrator and designer.  http://dribbble.com/hellogeri</description>
+      <avatar>assets/avatars/hellogeri.jpg</avatar>
+    </following>
+    <following>
+      <username>geremygood</username>
+      <firstname>Jeremy</firstname>
+      <lastname>Mumenthaler</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/geremygood.jpg</avatar>
+    </following>
+    <following>
+      <username>joebarber</username>
+      <firstname>Joe</firstname>
+      <lastname>Barber</lastname>
+      <country>USA</country>
+      <city>Lawrence</city>
+      <website>http://iamjoebarber.com</website>
+      <description></description>
+      <avatar>assets/avatars/joebarber.jpg</avatar>
+    </following>
+    <following>
+      <username>destroytoday</username>
+      <firstname>Jonnie</firstname>
+      <lastname>Hallman</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://destroytoday.com</website>
+      <description>Founder of Destroy Today LLC, comedian at @studiomates, barista at @cafejonnie, previously at Adobe.</description>
+      <avatar>assets/avatars/destroytoday.jpg</avatar>
+    </following>
+    <following>
+      <username>jorilallo</username>
+      <firstname>Jori</firstname>
+      <lastname>Lallo</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://about.me/jorilallo</website>
+      <description>I love to design and build products. Mostly web things.
+
+Currently building pixels and the web at @groveio. @KipptApp on spare time.</description>
+      <avatar>assets/avatars/jorilallo.jpg</avatar>
+    </following>
+    <following>
+      <username>jbrewer</username>
+      <firstname>Josh</firstname>
+      <lastname>Brewer</lastname>
+      <country>United States</country>
+      <city>San Francisco</city>
+      <website>http://t.co/ILw1vcU</website>
+      <description>Husband, father, friend. Principal Designer at Twitter, Co-creator of 52WeeksOfUX.com </description>
+      <avatar>assets/avatars/jbrewer.jpg</avatar>
+    </following>
+    <following>
+      <username>karri</username>
+      <firstname>Karri</firstname>
+      <lastname>Saarinen</lastname>
+      <country>Finland</country>
+      <city>Helsinki</city>
+      <website>http://karrisaarinen.com</website>
+      <description></description>
+      <avatar>assets/avatars/karri.jpg</avatar>
+    </following>
+    <following>
+      <username>KeenanCummings</username>
+      <firstname>Keenan</firstname>
+      <lastname>Cummings</lastname>
+      <country></country>
+      <city></city>
+      <website>http://fieldstudy.tumblr.com</website>
+      <description>Creative Director / Co-founder at Wander (@onWander) living and working in New York City. </description>
+      <avatar>assets/avatars/KeenanCummings.jpg</avatar>
+    </following>
+    <following>
+      <username>khoi</username>
+      <firstname>Khoi</firstname>
+      <lastname>Vinh</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.subtraction.com</website>
+      <description>Blogger at Subtraction.com, former design director at NYTimes.com.</description>
+      <avatar>assets/avatars/khoi.jpg</avatar>
+    </following>
+    <following>
+      <username>LukesBeard</username>
+      <firstname>Luke</firstname>
+      <lastname>Beard</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://zerp.ly/lukesbeard</website>
+      <description>Designer at @zerply. Pretty much married to Rhiannon (@vintagestyleme) 
+</description>
+      <avatar>assets/avatars/LukesBeard.jpg</avatar>
+    </following>
+    <following>
+      <username>luke0x</username>
+      <firstname>Luke</firstname>
+      <lastname>Crawford</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://tlvx.net</website>
+      <description>Peace-and-love-loving human. Designer and programmer in NYC. &amp;lt;3</description>
+      <avatar>assets/avatars/luke0x.jpg</avatar>
+    </following>
+    <following>
+      <username>mallorybox</username>
+      <firstname>Mallory</firstname>
+      <lastname>Box</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description>A window bird.</description>
+      <avatar>assets/avatars/mallorybox.jpg</avatar>
+    </following>
+    <following>
+      <username>markus_e_n</username>
+      <firstname>Markus</firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/markus_e_n.jpg</avatar>
+    </following>
+    <following>
+      <username>matthewcbostock</username>
+      <firstname>Matthew</firstname>
+      <lastname>Bostock</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://matthewbostock.com</website>
+      <description>British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.</description>
+      <avatar>assets/avatars/matthewcbostock.jpg</avatar>
+    </following>
+    <following>
+      <username>weightshift</username>
+      <firstname>Naz</firstname>
+      <lastname>Hamid</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://weightshift.com</website>
+      <description>Maker, doer. Founder and principal of Weightshift, a design &amp; development studio.</description>
+      <avatar>assets/avatars/weightshift.jpg</avatar>
+    </following>
+    <following>
+      <username>pauloctavious</username>
+      <firstname>Paul</firstname>
+      <lastname>Octavious</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.pauloctavious.com</website>
+      <description>Photographer + Designer + Storyteller </description>
+      <avatar>assets/avatars/pauloctavious.jpg</avatar>
+    </following>
+    <following>
+      <username>simmy</username>
+      <firstname>Ryan</firstname>
+      <lastname>Sims</lastname>
+      <country>USA</country>
+      <city>San Francisco</city>
+      <website>http://rynsms.com</website>
+      <description>I'm a professional internet designer for @Rdio. I like Diet Mountain Dew and friendship.</description>
+      <avatar>assets/avatars/simmy.jpg</avatar>
+    </following>
+    <following>
+      <username>SachaGreif</username>
+      <firstname>Sacha</firstname>
+      <lastname>Greif</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.sachagreif.com</website>
+      <description>Designer from Paris, now living in Kyoto. I'm the creator of @YoFolyo and @TheToolbox_, and I've worked with startups like Hipmunk, Intercom, and more. </description>
+      <avatar>assets/avatars/SachaGreif.jpg</avatar>
+    </following>
+    <following>
+      <username>ScottKellum</username>
+      <firstname>Scott</firstname>
+      <lastname>Kellum</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.scottkellum.com</website>
+      <description>Designer of all trades: Graphic, web, typeface, print, publication.</description>
+      <avatar>assets/avatars/ScottKellum.jpg</avatar>
+    </following>
+    <following>
+      <username>soleio</username>
+      <firstname>Soleio</firstname>
+      <lastname></lastname>
+      <country></country>
+      <city>Los Altos, California</city>
+      <website></website>
+      <description>Design at Dropbox, previously at Facebook</description>
+      <avatar>assets/avatars/soleio.jpg</avatar>
+    </following>
+    <following>
+      <username>iam_timm</username>
+      <firstname>Timothy</firstname>
+      <lastname>Achumba</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://awsme.me</website>
+      <description>A Mobile Interface &amp; Interaction Designing Wunderkind living and working in Berlin.</description>
+      <avatar>assets/avatars/iam_timm.jpg</avatar>
+    </following>
+    <following>
+      <username>wynlim</username>
+      <firstname>Winnie</firstname>
+      <lastname>Lim</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/wynlim.jpg</avatar>
+    </following>
+    <following>
+      <username>janinetoro</username>
+      <firstname>janinetoro</firstname>
+      <lastname nil="true"/>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://www.janinetoro.com/</website>
+      <description>Designer &amp; founder of @whatdoyoucarry. Living, eating and breathing design @SVAMFADesign. </description>
+      <avatar>assets/avatars/janinetoro.jpg</avatar>
+    </following>
+    <following>
+      <username>takeo</username>
+      <firstname>toby</firstname>
+      <lastname>sterrett</lastname>
+      <country></country>
+      <city>portland</city>
+      <website>http://https://www.simple.com</website>
+      <description>i make websites and stuff at simple</description>
+      <avatar>assets/avatars/takeo.jpg</avatar>
+    </following>
+  </followings>
+  <email>manikrathee@me.com</email>
+  <created-at type="datetime">2011-12-07T16:20:53Z</created-at>
+</user>

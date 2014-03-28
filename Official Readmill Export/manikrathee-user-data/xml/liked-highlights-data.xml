@@ -1,0 +1,3065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liked-highlights type="array">
+  <highlight>
+    <content>Whenever you can, swap “Let’s think about it” for “Let’s decide on it.” Commit to making decisions. Don’t wait for the perfect solution. Decide and move forward.</content>
+    <position nil="true"/>
+    <highlighted-at type="datetime">2011-12-10T14:04:17Z</highlighted-at>
+    <locators>
+      <mid>Whenever you can, swap “Let’s think about it” for “Let’s decide on it.” Commit to making decisions. Don’t wait for the perfect solution. Decide and move forward.</mid>
+      <pre></pre>
+      <post></post>
+    </locators>
+    <user>
+      <username>ohorn</username>
+      <firstname>Oliver</firstname>
+      <lastname>Horn</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/ohorn.jpg</avatar>
+    </user>
+    <book>
+      <title>ReWork</title>
+      <author>Jason Fried and David Heinemeier Hansson</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>ADDN2X</username>
+        <firstname>addn2x</firstname>
+        <lastname></lastname>
+        <country></country>
+        <city></city>
+        <website></website>
+        <description>reading books, coding webs, hacking life, exploring worlds </description>
+        <avatar>assets/avatars/ADDN2X.jpg</avatar>
+      </like>
+      <like>
+        <username>jensjakob</username>
+        <firstname>Jakob</firstname>
+        <lastname>Nanneson</lastname>
+        <country>Sweden</country>
+        <city>Stockholm</city>
+        <website>http://jensplan.se</website>
+        <description></description>
+        <avatar>assets/avatars/jensjakob.jpg</avatar>
+      </like>
+      <like>
+        <username>jonashjalmar</username>
+        <firstname>Jonas Hjalmar</firstname>
+        <lastname>Blom</lastname>
+        <country>Sweden</country>
+        <city>Stockholm</city>
+        <website>http://about.me/jonashjalmar</website>
+        <description>Behavior designer, flaneur and growing minimalist.</description>
+        <avatar>assets/avatars/jonashjalmar.jpg</avatar>
+      </like>
+      <like>
+        <username>dzema</username>
+        <firstname>Dmitriy</firstname>
+        <lastname>Dzema</lastname>
+        <country></country>
+        <city></city>
+        <website>http://worldinviewfinder.com</website>
+        <description></description>
+        <avatar>assets/avatars/dzema.jpg</avatar>
+      </like>
+      <like>
+        <username>adoran2</username>
+        <firstname>Andrew</firstname>
+        <lastname>Doran</lastname>
+        <country>UK</country>
+        <city>Berkhamsted</city>
+        <website>http://www.andrewdoran.co.uk/</website>
+        <description>Husband, dad of two boys, IT portfolio and business manager at an African bank, school governor, over-enthusiastic, geek. A buyer of books, a reader of some of them and a great longing to get through as many as I can fit in.</description>
+        <avatar>assets/avatars/adoran2.jpg</avatar>
+      </like>
+      <like>
+        <username>patch</username>
+        <firstname>Patch</firstname>
+        <lastname>Hofweber</lastname>
+        <country>Sweden</country>
+        <city>Lund</city>
+        <website>http://finagrejer.cc</website>
+        <description>Spiritually I’m a climber.</description>
+        <avatar>assets/avatars/patch.jpg</avatar>
+      </like>
+      <like>
+        <username>prjacobsson</username>
+        <firstname>Peter</firstname>
+        <lastname>Jacobsson</lastname>
+        <country></country>
+        <city></city>
+        <website></website>
+        <description></description>
+        <avatar>assets/avatars/prjacobsson.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>marius</username>
+        <firstname>Marius</firstname>
+        <lastname>Kažemėkaitis</lastname>
+        <country>Lithuania</country>
+        <city>Kaunas</city>
+        <website>http://www.lemonlabs.lt</website>
+        <description>iOS Developer</description>
+        <avatar>assets/avatars/marius.jpg</avatar>
+      </like>
+      <like>
+        <username>kenna</username>
+        <firstname>Kenna</firstname>
+        <lastname>Marcelo</lastname>
+        <country>United Arab Emirates</country>
+        <city>Dubai</city>
+        <website>http://areturnafterlongwanderings.com/</website>
+        <description>Founder of Mensis Liber. I sometimes make things for the web. Was born in an archipelago of 7,107 islands currently living in the desert working as a telecommunications engineer.</description>
+        <avatar>assets/avatars/kenna.jpg</avatar>
+      </like>
+      <like>
+        <username>nvanexan</username>
+        <firstname>Nicholas</firstname>
+        <lastname>Van Exan</lastname>
+        <country>Canada</country>
+        <city>Toronto</city>
+        <website>http://nicholasvanexan.com</website>
+        <description>Professional Quibbler</description>
+        <avatar>assets/avatars/nvanexan.jpg</avatar>
+      </like>
+      <like>
+        <username>lmsanchez</username>
+        <firstname>Lisa</firstname>
+        <lastname>Sanchez</lastname>
+        <country></country>
+        <city>Berlin</city>
+        <website>http://lisasanchez.me</website>
+        <description>Community manager at Readmill. Wondering what you've read and loved lately. lisa@readmill.com</description>
+        <avatar>assets/avatars/lmsanchez.jpg</avatar>
+      </like>
+      <like>
+        <username>nepisodes</username>
+        <firstname>Connor</firstname>
+        <lastname>Zhang</lastname>
+        <country>USA</country>
+        <city>Columbus</city>
+        <website></website>
+        <description>I pursue a balanced mind.</description>
+        <avatar>assets/avatars/nepisodes.jpg</avatar>
+      </like>
+      <like>
+        <username>kvignesh_krish</username>
+        <firstname>Vignesh</firstname>
+        <lastname>Krish</lastname>
+        <country></country>
+        <city></city>
+        <website></website>
+        <description></description>
+        <avatar nil="true"/>
+      </like>
+      <like>
+        <username>lamar</username>
+        <firstname>Lamar</firstname>
+        <lastname>R Glenn</lastname>
+        <country>USA</country>
+        <city>Philadelphia</city>
+        <website></website>
+        <description>Web Developer &amp; Designer | Software Engineer | Avid reader</description>
+        <avatar>assets/avatars/lamar.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">4</comments-count>
+    <comments type="array">
+      <comment>
+        <content>Decisiveness is definitely one of the most important things to get stuff done imho.</content>
+        <posted-at type="datetime">2012-11-28T17:53:59Z</posted-at>
+        <user>
+          <username>henrik</username>
+          <firstname>Henrik</firstname>
+          <lastname>Berggren</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://readmill.com</website>
+          <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+          <avatar>assets/avatars/henrik.jpg</avatar>
+        </user>
+      </comment>
+      <comment>
+        <content>I was told at work a long time ago that if in doubt, make a decision and my managers would support me on it. The mantra was that this was always better than doing nothing at all. I'm not sure that's always true but it was good for making sure things kept moving.</content>
+        <posted-at type="datetime">2012-12-07T09:03:23Z</posted-at>
+        <user>
+          <username>adoran2</username>
+          <firstname>Andrew</firstname>
+          <lastname>Doran</lastname>
+          <country>UK</country>
+          <city>Berkhamsted</city>
+          <website>http://www.andrewdoran.co.uk/</website>
+          <description>Husband, dad of two boys, IT portfolio and business manager at an African bank, school governor, over-enthusiastic, geek. A buyer of books, a reader of some of them and a great longing to get through as many as I can fit in.</description>
+          <avatar>assets/avatars/adoran2.jpg</avatar>
+        </user>
+      </comment>
+      <comment>
+        <content>@adoran2 I actually think it is. </content>
+        <posted-at type="datetime">2012-12-07T09:08:47Z</posted-at>
+        <user>
+          <username>henrik</username>
+          <firstname>Henrik</firstname>
+          <lastname>Berggren</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://readmill.com</website>
+          <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+          <avatar>assets/avatars/henrik.jpg</avatar>
+        </user>
+      </comment>
+      <comment>
+        <content>Yes, exactly.</content>
+        <posted-at type="datetime">2014-02-07T02:36:13Z</posted-at>
+        <user>
+          <username>lamar</username>
+          <firstname>Lamar</firstname>
+          <lastname>R Glenn</lastname>
+          <country>USA</country>
+          <city>Philadelphia</city>
+          <website></website>
+          <description>Web Developer &amp; Designer | Software Engineer | Avid reader</description>
+          <avatar>assets/avatars/lamar.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>Meet Ruby, one of my favorites. She’s sometimes quirky, always beautiful, a little mysterious, and absolutely magical</content>
+    <position type="float">0.0642458</position>
+    <highlighted-at type="datetime">2012-01-10T21:39:40Z</highlighted-at>
+    <locators>
+      <position type="float">0.0642458</position>
+      <mid>Meet Ruby, one of my favorites. She’s sometimes quirky, always beautiful, a little mysterious, and absolutely magical</mid>
+      <post>. Think Mary Poppins,</post>
+      <pre></pre>
+    </locators>
+    <user>
+      <username>chdorner</username>
+      <firstname>Christof</firstname>
+      <lastname>Dorner</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://chdorner.com</website>
+      <description>Developer. Book lover.</description>
+      <avatar>assets/avatars/chdorner.jpg</avatar>
+    </user>
+    <book>
+      <title>Seven Languages in Seven Weeks</title>
+      <author>Bruce A. Tate</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>christoffer</username>
+        <firstname>Christoffer</firstname>
+        <lastname>Klang</lastname>
+        <country>Sweden</country>
+        <city>Stockholm</city>
+        <website>http://readtracker.com</website>
+        <description>Developing ReadTracker. Mostly reading tech stuff, sci-fi and block-busters.</description>
+        <avatar>assets/avatars/christoffer.jpg</avatar>
+      </like>
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>andreaskallbom</username>
+        <firstname>Andreas</firstname>
+        <lastname>Källbom</lastname>
+        <country>Sweden</country>
+        <city>Stockholm</city>
+        <website>http://www.andreaskallbom.com</website>
+        <description>I'm mostly reading books in the field of design. Used to design things at Readmill.</description>
+        <avatar>assets/avatars/andreaskallbom.jpg</avatar>
+      </like>
+      <like>
+        <username>jakobfricke</username>
+        <firstname>Jakob</firstname>
+        <lastname>Fricke</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://www.viktorundpettl.de</website>
+        <description>publisher. experimenting with new forms of content, formats and business models. how does digital change books?</description>
+        <avatar>assets/avatars/jakobfricke.jpg</avatar>
+      </like>
+      <like>
+        <username>ADDN2X</username>
+        <firstname>addn2x</firstname>
+        <lastname></lastname>
+        <country></country>
+        <city></city>
+        <website></website>
+        <description>reading books, coding webs, hacking life, exploring worlds </description>
+        <avatar>assets/avatars/ADDN2X.jpg</avatar>
+      </like>
+      <like>
+        <username>vieron</username>
+        <firstname>vieron</firstname>
+        <lastname></lastname>
+        <country></country>
+        <city></city>
+        <website>http://www.vieron.net</website>
+        <description></description>
+        <avatar>assets/avatars/vieron.jpg</avatar>
+      </like>
+      <like>
+        <username>bomberstudios</username>
+        <firstname>Ale</firstname>
+        <lastname>Muñoz</lastname>
+        <country>Spain</country>
+        <city>Madrid</city>
+        <website>http://sofanaranja.com</website>
+        <description>I read mostly design &amp; technology books, but every now and then I like to read about business, strategy and psychology.
+
+I don't have much free time, so I don't read shit books : )</description>
+        <avatar>assets/avatars/bomberstudios.jpg</avatar>
+      </like>
+      <like>
+        <username>chdorner</username>
+        <firstname>Christof</firstname>
+        <lastname>Dorner</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://chdorner.com</website>
+        <description>Developer. Book lover.</description>
+        <avatar>assets/avatars/chdorner.jpg</avatar>
+      </like>
+      <like>
+        <username>hi</username>
+        <firstname>William</firstname>
+        <lastname>Melody</lastname>
+        <country>CA</country>
+        <city>San Francisco</city>
+        <website>http://williammelody.com/_</website>
+        <description>Craftsman, researcher, idealist, occasional entrepreneur.</description>
+        <avatar>assets/avatars/hi.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>johanb</username>
+        <firstname></firstname>
+        <lastname></lastname>
+        <country></country>
+        <city></city>
+        <website>http://gidogeek.com</website>
+        <description></description>
+        <avatar>assets/avatars/johanb.jpg</avatar>
+      </like>
+      <like>
+        <username>teddyzetterlund</username>
+        <firstname>Teddy</firstname>
+        <lastname>Zetterlund</lastname>
+        <country>Sweden</country>
+        <city>Stockholm</city>
+        <website>http://twitter.com/teddyzetterlund</website>
+        <description>Lead Developer at @hemnet. Passionate about friends &amp; family, problem solving, product development, physical &amp; mental fitness, creating, learning and teaching.</description>
+        <avatar>assets/avatars/teddyzetterlund.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">9</comments-count>
+    <comments type="array">
+      <comment>
+        <content>#win</content>
+        <posted-at type="datetime">2012-01-10T22:08:33Z</posted-at>
+        <user>
+          <username>henrik</username>
+          <firstname>Henrik</firstname>
+          <lastname>Berggren</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://readmill.com</website>
+          <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+          <avatar>assets/avatars/henrik.jpg</avatar>
+        </user>
+      </comment>
+      <comment>
+        <content>Oh yeah, #ftw</content>
+        <posted-at type="datetime">2012-01-10T22:12:59Z</posted-at>
+        <user>
+          <username>chdorner</username>
+          <firstname>Christof</firstname>
+          <lastname>Dorner</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://chdorner.com</website>
+          <description>Developer. Book lover.</description>
+          <avatar>assets/avatars/chdorner.jpg</avatar>
+        </user>
+      </comment>
+      <comment>
+        <content>Ruby - my first love. Cheating on her with others, but she knows I'll always end up back with her...</content>
+        <posted-at type="datetime">2012-01-10T22:37:51Z</posted-at>
+        <user>
+          <username>buffpojken</username>
+          <firstname>Daniel</firstname>
+          <lastname>Sundström</lastname>
+          <country nil="true"/>
+          <city nil="true"/>
+          <website nil="true"/>
+          <description nil="true"/>
+          <avatar nil="true"/>
+        </user>
+      </comment>
+      <comment>
+        <content>http://open.spotify.com/track/0xCZ1vj0ImR3w4YF9ZArAA
+http://www.youtube.com/watch?v=9alAuYr2g_8
+
+:)</content>
+        <posted-at type="datetime">2012-01-10T22:46:59Z</posted-at>
+        <user>
+          <username>henrik</username>
+          <firstname>Henrik</firstname>
+          <lastname>Berggren</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://readmill.com</website>
+          <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+          <avatar>assets/avatars/henrik.jpg</avatar>
+        </user>
+      </comment>
+      <comment>
+        <content>It's actually a pretty good song :)</content>
+        <posted-at type="datetime">2012-01-11T10:51:29Z</posted-at>
+        <user>
+          <username>chdorner</username>
+          <firstname>Christof</firstname>
+          <lastname>Dorner</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://chdorner.com</website>
+          <description>Developer. Book lover.</description>
+          <avatar>assets/avatars/chdorner.jpg</avatar>
+        </user>
+      </comment>
+      <comment>
+        <content>I know :)</content>
+        <posted-at type="datetime">2012-01-11T13:02:20Z</posted-at>
+        <user>
+          <username>henrik</username>
+          <firstname>Henrik</firstname>
+          <lastname>Berggren</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://readmill.com</website>
+          <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+          <avatar>assets/avatars/henrik.jpg</avatar>
+        </user>
+      </comment>
+      <comment>
+        <content>Nice! #epic</content>
+        <posted-at type="datetime">2012-01-11T21:41:42Z</posted-at>
+        <user>
+          <username>GLindqvist</username>
+          <firstname>Gustaf</firstname>
+          <lastname>Lindqvist</lastname>
+          <country></country>
+          <city>Sundsvall</city>
+          <website>http://gustaflindqvist.net</website>
+          <description>Web entrepreneur and developer focus on ASP.NET MVC, Ruby/Python, Objective-C, Cocoa, These opinions are my own.</description>
+          <avatar nil="true"/>
+        </user>
+      </comment>
+      <comment>
+        <content>http://www.xent.com/pipermail/fork/Week-of-Mon-20070219/044101.html</content>
+        <posted-at type="datetime">2012-01-12T22:29:05Z</posted-at>
+        <user>
+          <username>eric</username>
+          <firstname>Eric</firstname>
+          <lastname>Wahlforss</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://eric.wahlforss.com</website>
+          <description>CTO SoundCloud</description>
+          <avatar nil="true"/>
+        </user>
+      </comment>
+      <comment>
+        <content>Thank you for that one - Haskell...indeed...it's indeed beautiful. And weird.</content>
+        <posted-at type="datetime">2012-01-13T00:30:05Z</posted-at>
+        <user>
+          <username>buffpojken</username>
+          <firstname>Daniel</firstname>
+          <lastname>Sundström</lastname>
+          <country nil="true"/>
+          <city nil="true"/>
+          <website nil="true"/>
+          <description nil="true"/>
+          <avatar nil="true"/>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>As a result, instead of optimizing our machines for humanity—or even the benefit of some particular group—we are optimizing humans for machinery.</content>
+    <position type="float">0.092511</position>
+    <highlighted-at type="datetime">2012-03-29T12:41:59Z</highlighted-at>
+    <locators>
+      <position type="float">0.09251101315021515</position>
+      <mid>As a result, instead of optimizing our machines for humanity—or even the benefit of some particular group—we are optimizing humans for machinery.</mid>
+      <post> And that’s why the choices we make (or don’t make) right now really do matter as much or more than </post>
+      <pre>ff—with little regard to how it actually impacts our lives. Who has time to think about it, anyway? </pre>
+    </locators>
+    <user>
+      <username>markdicristina</username>
+      <firstname>Mark</firstname>
+      <lastname>DiCristina</lastname>
+      <country>United States</country>
+      <city>Atlanta</city>
+      <website></website>
+      <description>Marketing at MailChimp, reading at @markisreading, running as fast as I can</description>
+      <avatar>assets/avatars/markdicristina.jpg</avatar>
+    </user>
+    <book>
+      <title>Program or Be Programmed</title>
+      <author>Douglas Rushkoff</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>autiomaa</username>
+        <firstname>Daniel</firstname>
+        <lastname>Schildt</lastname>
+        <country>Finland</country>
+        <city>Jyväskylä</city>
+        <website>http://autiomaa.org</website>
+        <description>Web Developer + Photographer + Live Audio Engineer | http://linkedin.com/in/autiomaa  | 3:16 | aka @d2s | (FI, EN)</description>
+        <avatar>assets/avatars/autiomaa.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>In her role as point man</content>
+    <position type="float">0.198198</position>
+    <highlighted-at type="datetime">2012-04-14T16:54:52Z</highlighted-at>
+    <locators>
+      <position type="float">0.19819819927215576</position>
+      <mid>In her role as point man</mid>
+      <post>, a content strategist works with other front-runners who lead various aspects of the project: infor</post>
+      <pre>requires alertness and ability to deal with unexpected attacks” (http://bkaprt.com/cs/2/).1 Indeed. </pre>
+    </locators>
+    <user>
+      <username>aworkinglibrary</username>
+      <firstname>Mandy</firstname>
+      <lastname>Brown</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.aworkinglibrary.com</website>
+      <description>Writer, editor, designer &amp; publisher. Co-founder of A Book Apart, former editor at A List Apart, and Communications Director at Typekit.</description>
+      <avatar>assets/avatars/aworkinglibrary.jpg</avatar>
+    </user>
+    <book>
+      <title>The Elements of Content Strategy</title>
+      <author>Erin Kissane</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>lmsanchez</username>
+        <firstname>Lisa</firstname>
+        <lastname>Sanchez</lastname>
+        <country></country>
+        <city>Berlin</city>
+        <website>http://lisasanchez.me</website>
+        <description>Community manager at Readmill. Wondering what you've read and loved lately. lisa@readmill.com</description>
+        <avatar>assets/avatars/lmsanchez.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">1</comments-count>
+    <comments type="array">
+      <comment>
+        <content>I suspect most editors would have cut this, but I fucking love it. </content>
+        <posted-at type="datetime">2012-04-14T16:54:52Z</posted-at>
+        <user>
+          <username>aworkinglibrary</username>
+          <firstname>Mandy</firstname>
+          <lastname>Brown</lastname>
+          <country></country>
+          <city></city>
+          <website>http://www.aworkinglibrary.com</website>
+          <description>Writer, editor, designer &amp; publisher. Co-founder of A Book Apart, former editor at A List Apart, and Communications Director at Typekit.</description>
+          <avatar>assets/avatars/aworkinglibrary.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>To whatever extent we are being changed by digital technology, reading is one of the principal ways of retaining a connection to the present way of being human, and the skill of following someone else’s linear narrative, which is as important as being able to construct one’s own.</content>
+    <position type="float">0.859155</position>
+    <highlighted-at type="datetime">2012-06-29T23:55:41Z</highlighted-at>
+    <locators>
+      <position type="float">0.8591549396514893</position>
+      <mid>To whatever extent we are being changed by digital technology, reading is one of the principal ways of retaining a connection to the present way of being human, and the skill of following someone else’s linear narrative, which is as important as being able to construct one’s own.</mid>
+      <post> We need to be able to choose which one is more appropriate in a given setting, just as, in some con</post>
+      <pre>tion; it is central to who we have been and to many of the beliefs we hold to be a core part of us. </pre>
+    </locators>
+    <user>
+      <username>aworkinglibrary</username>
+      <firstname>Mandy</firstname>
+      <lastname>Brown</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.aworkinglibrary.com</website>
+      <description>Writer, editor, designer &amp; publisher. Co-founder of A Book Apart, former editor at A List Apart, and Communications Director at Typekit.</description>
+      <avatar>assets/avatars/aworkinglibrary.jpg</avatar>
+    </user>
+    <book>
+      <title>The Blind Giant: Being Human in a Digital World</title>
+      <author>Nick Harkaway</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Learn that you are one of many, and understand that that is not a statement of insignificance, but the reverse.</content>
+    <position type="float">0.884507</position>
+    <highlighted-at type="datetime">2012-06-30T00:50:37Z</highlighted-at>
+    <locators>
+      <position type="float">0.8845070600509644</position>
+      <mid>Learn that you are one of many, and understand that that is not a statement of insignificance, but the reverse.</mid>
+      <post> blindgiant.co.uk/chapter9 </post>
+      <pre>ce of such an area has been uncertain at best. Now it’s there, and you can choose to be part of it. </pre>
+    </locators>
+    <user>
+      <username>aworkinglibrary</username>
+      <firstname>Mandy</firstname>
+      <lastname>Brown</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.aworkinglibrary.com</website>
+      <description>Writer, editor, designer &amp; publisher. Co-founder of A Book Apart, former editor at A List Apart, and Communications Director at Typekit.</description>
+      <avatar>assets/avatars/aworkinglibrary.jpg</avatar>
+    </user>
+    <book>
+      <title>The Blind Giant: Being Human in a Digital World</title>
+      <author>Nick Harkaway</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>tealtan</username>
+        <firstname>Allen</firstname>
+        <lastname>Tan</lastname>
+        <country></country>
+        <city></city>
+        <website>http://tanmade.com/</website>
+        <description>Graphic and interaction designer by day, assistant editor for @codex and @contents by night.</description>
+        <avatar>assets/avatars/tealtan.jpg</avatar>
+      </like>
+      <like>
+        <username>justincharles</username>
+        <firstname>Justin</firstname>
+        <lastname>Charles</lastname>
+        <country></country>
+        <city></city>
+        <website>http://www.dayofthedreamweavers.com</website>
+        <description>Design &amp; Technology MFA candidate at Parsons @mfadt. Attempting to read the entire world wide web since 2006.</description>
+        <avatar>assets/avatars/justincharles.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>JamesBriano</username>
+        <firstname>James</firstname>
+        <lastname>Briano</lastname>
+        <country>USA</country>
+        <city>San Francisco</city>
+        <website>http://jamesbriano.com</website>
+        <description>Instructional Designer and program manager at Mission Valley ROP. Interested in web design, architecture, and education.</description>
+        <avatar>assets/avatars/JamesBriano.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>This book is, partly, about making things out of stories, and using them to help us live well.</content>
+    <position type="float">0.0454545</position>
+    <highlighted-at type="datetime">2012-07-10T19:23:04Z</highlighted-at>
+    <locators>
+      <position type="float">0.04545454680919647</position>
+      <mid>This book is, partly, about making things out of stories, and using them to help us live well.</mid>
+      <post> Without warning one day, a mail from Frank appeared in my inbox, introducing himself: You know what</post>
+      <pre>ork. We make up the in-between parts. We improvise. Frank’s stories became my stories, our stories. </pre>
+    </locators>
+    <user>
+      <username>tealtan</username>
+      <firstname>Allen</firstname>
+      <lastname>Tan</lastname>
+      <country></country>
+      <city></city>
+      <website>http://tanmade.com/</website>
+      <description>Graphic and interaction designer by day, assistant editor for @codex and @contents by night.</description>
+      <avatar>assets/avatars/tealtan.jpg</avatar>
+    </user>
+    <book>
+      <title>The Shape of Design</title>
+      <author>Frank Chimero</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Dumbing down your UI is only the half-smart thing to do. The really smart thing is to find a way to leave the details accessible, but make them unobtrusive.</content>
+    <position type="float">0.299487</position>
+    <highlighted-at type="datetime">2012-07-17T15:42:50Z</highlighted-at>
+    <locators>
+      <position type="float">0.2994871735572815</position>
+      <mid>Dumbing down your UI is only the half-smart thing to do. The really smart thing is to find a way to leave the details accessible, but make them unobtrusive.</mid>
+      <post> Case Study: SNG The program sng translates between PNG format and an all-text representation of it </post>
+      <pre>row up his hands in frustration while trying to solve her email problems. The lesson here is clear. </pre>
+    </locators>
+    <user>
+      <username>arvid</username>
+      <firstname>Arvid</firstname>
+      <lastname>Andersson</lastname>
+      <country>Sweden</country>
+      <city>Stockholm</city>
+      <website>http://arvidandersson.se/</website>
+      <description></description>
+      <avatar>assets/avatars/arvid.jpg</avatar>
+    </user>
+    <book>
+      <title>The Art of Unix Programming</title>
+      <author>Eric Steven Raymond</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>chdorner</username>
+        <firstname>Christof</firstname>
+        <lastname>Dorner</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://chdorner.com</website>
+        <description>Developer. Book lover.</description>
+        <avatar>assets/avatars/chdorner.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>We ought to take a fresh look at tradition, considered not as the inert acceptance of a fossilized corpus of themes and conventions, but as an organic habit of re-creating what has been received and is handed on.</content>
+    <position type="float">0.138374</position>
+    <highlighted-at type="datetime">2012-07-19T03:38:10Z</highlighted-at>
+    <locators>
+      <position type="float">0.1383737474679947</position>
+      <mid>We ought to take a fresh look at tradition, considered not as the inert acceptance of a fossilized corpus of themes and conventions, but as an organic habit of re-creating what has been received and is handed on.</mid>
+      <post> The omission of historians to study the revolution in the forms of thought and social organization </post>
+      <pre>as bequeathed to us – along with its immeasurable riches – snobberies which ought to be cast aside. </pre>
+    </locators>
+    <user>
+      <username>kissane</username>
+      <firstname>erin</firstname>
+      <lastname>kissane</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://incisive.nu</website>
+      <description>Editorial and content strategist. Reader. Writer. Blue canary in the outlet by the light switch.</description>
+      <avatar>assets/avatars/kissane.jpg</avatar>
+    </user>
+    <book>
+      <title>The Gutenberg Galaxy: The Making of Typographic Man</title>
+      <author>Marshall McLuhan</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>dvsmethid</username>
+        <firstname>Derrick</firstname>
+        <lastname>Schultz</lastname>
+        <country>United States</country>
+        <city>Brooklyn</city>
+        <website>http://derrickschultz.com</website>
+        <description></description>
+        <avatar>assets/avatars/dvsmethid.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>richardjingram</username>
+        <firstname>Richard</firstname>
+        <lastname>Ingram</lastname>
+        <country></country>
+        <city></city>
+        <website>http://www.richardingram.co.uk/</website>
+        <description>Unapologetically pale and bookish.</description>
+        <avatar>assets/avatars/richardjingram.jpg</avatar>
+      </like>
+      <like>
+        <username>kenna</username>
+        <firstname>Kenna</firstname>
+        <lastname>Marcelo</lastname>
+        <country>United Arab Emirates</country>
+        <city>Dubai</city>
+        <website>http://areturnafterlongwanderings.com/</website>
+        <description>Founder of Mensis Liber. I sometimes make things for the web. Was born in an archipelago of 7,107 islands currently living in the desert working as a telecommunications engineer.</description>
+        <avatar>assets/avatars/kenna.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Fuck had no sake here.</content>
+    <position type="float">0.720339</position>
+    <highlighted-at type="datetime">2012-07-22T05:03:49Z</highlighted-at>
+    <locators>
+      <position type="float">0.7203390002250671</position>
+      <mid>Fuck had no sake here.</mid>
+      <post> The screaming trailed off as lights came into view through the trees, and Monique continued to exer</post>
+      <pre>ngling in front of him with all the subtlety of, well, a furious Dutch gunner smashing up a studio. </pre>
+    </locators>
+    <user>
+      <username>kissane</username>
+      <firstname>erin</firstname>
+      <lastname>kissane</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website>http://incisive.nu</website>
+      <description>Editorial and content strategist. Reader. Writer. Blue canary in the outlet by the light switch.</description>
+      <avatar>assets/avatars/kissane.jpg</avatar>
+    </user>
+    <book>
+      <title>The Enterprise of Death</title>
+      <author>Jesse Bullington</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>zearl</username>
+        <firstname>Zak</firstname>
+        <lastname>Greene</lastname>
+        <country nil="true"/>
+        <city nil="true"/>
+        <website>http://www.zakgreene.com</website>
+        <description>Designer for Big Think, artist, reader, writer, music person, contrarian. Not a spam bot. Or am I?</description>
+        <avatar>assets/avatars/zearl.jpg</avatar>
+      </like>
+      <like>
+        <username>matthewcbostock</username>
+        <firstname>Matthew</firstname>
+        <lastname>Bostock</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://matthewbostock.com</website>
+        <description>British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.</description>
+        <avatar>assets/avatars/matthewcbostock.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>qraig</username>
+        <firstname>Craig</firstname>
+        <lastname>Swanson</lastname>
+        <country>USA</country>
+        <city>Rowayton</city>
+        <website>http://craigswanson.tumblr.com</website>
+        <description>Built and assembled in the New World.</description>
+        <avatar>assets/avatars/qraig.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Instead, the human brain is wonderfully plastic—so much so that researchers have been able to teach a blind man to see with his tongue.[48] They took a video camera chip and wired its output to the patient’s tongue in a small 16x16-pixel arrangement. His brain circuits rearranged themselves to perform visual processing based on the neural input from his tongue, and the patient was able to see well enough to drive around cones in a parking lot! Also notice that the input device isn’t particularly high resolution: a mere 256 pixels. But the brain fills in enough details that even this sort of low-res input is enough.</content>
+    <position type="float">0.262643</position>
+    <highlighted-at type="datetime">2012-07-21T21:27:50Z</highlighted-at>
+    <locators>
+      <pre>past some fixed maximum. Fortunately for us and the rest of the race, it turns out that isn’t true. </pre>
+      <mid>Instead, the human brain is wonderfully plastic—so much so that researchers have been able to teach a blind man to see with his tongue.[48] They took a video camera chip and wired its output to the patient’s tongue in a small 16x16-pixel arrangement. His brain circuits rearranged themselves to perform visual processing based on the neural input from his tongue, and the patient was able to see well enough to drive around cones in a parking lot! Also notice that the input device isn’t particularly high resolution: a mere 256 pixels. But the brain fills in enough details that even this sort of low-res input is enough.</mid>
+      <post> Tip:Rewire your brain with belief and constant practice. Neuroplasticity (the plastic nature of the</post>
+      <position type="float">0.2626427412033081</position>
+    </locators>
+    <user>
+      <username>andrew8088</username>
+      <firstname>Andrew</firstname>
+      <lastname>Burgess</lastname>
+      <country>Canada</country>
+      <city>Oshawa</city>
+      <website>http://andrewburgess.ca</website>
+      <description>Web Developer, enjoys JavaScript and Ruby. Currently in university. Christian. </description>
+      <avatar>assets/avatars/andrew8088.jpg</avatar>
+    </user>
+    <book>
+      <title>Pragmatic Thinking and Learning</title>
+      <author>Andy Hunt</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>matthewcbostock</username>
+        <firstname>Matthew</firstname>
+        <lastname>Bostock</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://matthewbostock.com</website>
+        <description>British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.</description>
+        <avatar>assets/avatars/matthewcbostock.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>airinilv</username>
+        <firstname nil="true"/>
+        <lastname nil="true"/>
+        <country nil="true"/>
+        <city nil="true"/>
+        <website nil="true"/>
+        <description nil="true"/>
+        <avatar nil="true"/>
+      </like>
+      <like>
+        <username>nathos</username>
+        <firstname>Nathan</firstname>
+        <lastname>Henderson</lastname>
+        <country>USA</country>
+        <city>Rochester, NY</city>
+        <website>http://nathos.com</website>
+        <description>Designer &amp; Web Developer in Rochester, NY</description>
+        <avatar>assets/avatars/nathos.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">1</comments-count>
+    <comments type="array">
+      <comment>
+        <content>Just incredible!</content>
+        <posted-at type="datetime">2012-07-21T21:27:50Z</posted-at>
+        <user>
+          <username>andrew8088</username>
+          <firstname>Andrew</firstname>
+          <lastname>Burgess</lastname>
+          <country>Canada</country>
+          <city>Oshawa</city>
+          <website>http://andrewburgess.ca</website>
+          <description>Web Developer, enjoys JavaScript and Ruby. Currently in university. Christian. </description>
+          <avatar>assets/avatars/andrew8088.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content> A half-read book is a half-finished love affair.</content>
+    <position type="float">0.117465</position>
+    <highlighted-at type="datetime">2012-07-29T17:13:09Z</highlighted-at>
+    <locators>
+      <position type="float">0.11746522039175034</position>
+      <mid> A half-read book is a half-finished love affair.</mid>
+      <post> Find enclosed an inventory of the oldest editions in Zedelghem’s library. As you see, some items ar</post>
+      <pre> gum tree. Would you ask Otto Jansch on Caithness Street if he knows anything about this Adam Ewing?</pre>
+    </locators>
+    <user>
+      <username>tomdotreilly</username>
+      <firstname>Tom</firstname>
+      <lastname>Reilly</lastname>
+      <country></country>
+      <city></city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/tomdotreilly.jpg</avatar>
+    </user>
+    <book>
+      <title>Cloud Atlas</title>
+      <author>David Mitchell</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>christoffer</username>
+        <firstname>Christoffer</firstname>
+        <lastname>Klang</lastname>
+        <country>Sweden</country>
+        <city>Stockholm</city>
+        <website>http://readtracker.com</website>
+        <description>Developing ReadTracker. Mostly reading tech stuff, sci-fi and block-busters.</description>
+        <avatar>assets/avatars/christoffer.jpg</avatar>
+      </like>
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>jakobfricke</username>
+        <firstname>Jakob</firstname>
+        <lastname>Fricke</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://www.viktorundpettl.de</website>
+        <description>publisher. experimenting with new forms of content, formats and business models. how does digital change books?</description>
+        <avatar>assets/avatars/jakobfricke.jpg</avatar>
+      </like>
+      <like>
+        <username>julians</username>
+        <firstname>Julian</firstname>
+        <lastname>Stahnke</lastname>
+        <country>Germany</country>
+        <city>Potsdam</city>
+        <website>http://julianstahnke.com</website>
+        <description>Not enough content.</description>
+        <avatar>assets/avatars/julians.jpg</avatar>
+      </like>
+      <like>
+        <username>matthewcbostock</username>
+        <firstname>Matthew</firstname>
+        <lastname>Bostock</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://matthewbostock.com</website>
+        <description>British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.</description>
+        <avatar>assets/avatars/matthewcbostock.jpg</avatar>
+      </like>
+      <like>
+        <username>agwieckowski</username>
+        <firstname>Ania</firstname>
+        <lastname>Wieckowski</lastname>
+        <country nil="true"/>
+        <city nil="true"/>
+        <website nil="true"/>
+        <description>Managing Editor at Harvard Business Review Press. Today, publishing is like this: http://xkcd.com/167/. Tweets my own.</description>
+        <avatar>assets/avatars/agwieckowski.jpg</avatar>
+      </like>
+      <like>
+        <username>chdorner</username>
+        <firstname>Christof</firstname>
+        <lastname>Dorner</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://chdorner.com</website>
+        <description>Developer. Book lover.</description>
+        <avatar>assets/avatars/chdorner.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>marius</username>
+        <firstname>Marius</firstname>
+        <lastname>Kažemėkaitis</lastname>
+        <country>Lithuania</country>
+        <city>Kaunas</city>
+        <website>http://www.lemonlabs.lt</website>
+        <description>iOS Developer</description>
+        <avatar>assets/avatars/marius.jpg</avatar>
+      </like>
+      <like>
+        <username>kenna</username>
+        <firstname>Kenna</firstname>
+        <lastname>Marcelo</lastname>
+        <country>United Arab Emirates</country>
+        <city>Dubai</city>
+        <website>http://areturnafterlongwanderings.com/</website>
+        <description>Founder of Mensis Liber. I sometimes make things for the web. Was born in an archipelago of 7,107 islands currently living in the desert working as a telecommunications engineer.</description>
+        <avatar>assets/avatars/kenna.jpg</avatar>
+      </like>
+      <like>
+        <username>totobogy</username>
+        <firstname>Tushar</firstname>
+        <lastname>Malhotra</lastname>
+        <country></country>
+        <city></city>
+        <website>http://totobogy.thoughtbubblez.com</website>
+        <description>#Muser. #Techie. #Passionate about Education. #Lazy. #Traveler. #Bookworm. #Wannabe Poet. #Interested in learning about Sustainable Development. #Photography Enthusiast.</description>
+        <avatar>assets/avatars/totobogy.jpg</avatar>
+      </like>
+      <like>
+        <username>justinkropp</username>
+        <firstname>Justin</firstname>
+        <lastname>Kropp</lastname>
+        <country>United States</country>
+        <city>Chattanooga</city>
+        <website>http://justinkropp@gmail.com</website>
+        <description>Design minimalist exploring my discipline around the periphery of user experience, typography, semiotics, and technology.</description>
+        <avatar>assets/avatars/justinkropp.jpg</avatar>
+      </like>
+      <like>
+        <username>emilyphillips</username>
+        <firstname>Emily</firstname>
+        <lastname>Phillips</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website></website>
+        <description>waxing poetic at Readmill</description>
+        <avatar>assets/avatars/emilyphillips.jpg</avatar>
+      </like>
+      <like>
+        <username>avisekhon</username>
+        <firstname>Avi</firstname>
+        <lastname></lastname>
+        <country>India</country>
+        <city></city>
+        <website></website>
+        <description></description>
+        <avatar>assets/avatars/avisekhon.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">1</comments-count>
+    <comments type="array">
+      <comment>
+        <content>But sometimes you just have to let go...</content>
+        <posted-at type="datetime">2012-10-15T13:41:38Z</posted-at>
+        <user>
+          <username>henrik</username>
+          <firstname>Henrik</firstname>
+          <lastname>Berggren</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://readmill.com</website>
+          <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+          <avatar>assets/avatars/henrik.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>Find a voice and a passion, and establish yourself not just as a designer, but as someone who’s a design leader.</content>
+    <position type="float">0.133652</position>
+    <highlighted-at type="datetime">2012-09-25T23:40:23Z</highlighted-at>
+    <locators>
+      <position type="float">0.13365155458450317</position>
+      <mid>Find a voice and a passion, and establish yourself not just as a designer, but as someone who’s a design leader.</mid>
+      <post> Cameron Moll When the CSS revolution hit, Cameron Moll made his name with his cutting-edge experime</post>
+      <pre> </pre>
+    </locators>
+    <user>
+      <username>edgarmarca</username>
+      <firstname>Edgar</firstname>
+      <lastname>Marca</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/edgarmarca.jpg</avatar>
+    </user>
+    <book>
+      <title>Insites: The Book</title>
+      <author>Viewport Industries</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>png_drummer</username>
+        <firstname>Mike</firstname>
+        <lastname></lastname>
+        <country></country>
+        <city></city>
+        <website></website>
+        <description></description>
+        <avatar nil="true"/>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Instagram didn’t create a problem. They didn’t introduce the idea of photo sharing, they just simplified the process. They solved a problem other people hadn’t recognised, and they didn’t make anything worse while solving it. They didn’t make anyone’s life more complex. They added a lot of richness to peoples’ lives who now have a community they didn’t have before. That’s where you get something successful.</content>
+    <position type="float">0.417508</position>
+    <highlighted-at type="datetime">2012-10-04T22:32:15Z</highlighted-at>
+    <locators>
+      <position type="float">0.41750842332839966</position>
+      <mid>Instagram didn’t create a problem. They didn’t introduce the idea of photo sharing, they just simplified the process. They solved a problem other people hadn’t recognised, and they didn’t make anything worse while solving it. They didn’t make anyone’s life more complex. They added a lot of richness to peoples’ lives who now have a community they didn’t have before. That’s where you get something successful.</mid>
+      <post> I think there’s too much focus on, ‘if you think of a problem, then there must be a problem,’ as op</post>
+      <pre>ith these things because I think it’s too easy to get caught up in the excitement of something new. </pre>
+    </locators>
+    <user>
+      <username>eoinnoble</username>
+      <firstname>Eoin</firstname>
+      <lastname>Noble</lastname>
+      <country>United Kingdom</country>
+      <city>London</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/eoinnoble.jpg</avatar>
+    </user>
+    <book>
+      <title>Insites: The Book</title>
+      <author>Viewport Industries</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>edokoa</username>
+        <firstname>edokoa</firstname>
+        <lastname></lastname>
+        <country></country>
+        <city></city>
+        <website>http://www.edokoa.com</website>
+        <description>Graphic &amp; web designer, illustrator, musician and developer. Loves to create beautiful things.</description>
+        <avatar>assets/avatars/edokoa.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>autiomaa</username>
+        <firstname>Daniel</firstname>
+        <lastname>Schildt</lastname>
+        <country>Finland</country>
+        <city>Jyväskylä</city>
+        <website>http://autiomaa.org</website>
+        <description>Web Developer + Photographer + Live Audio Engineer | http://linkedin.com/in/autiomaa  | 3:16 | aka @d2s | (FI, EN)</description>
+        <avatar>assets/avatars/autiomaa.jpg</avatar>
+      </like>
+      <like>
+        <username>kaelifa</username>
+        <firstname>Kristina</firstname>
+        <lastname>Auckland</lastname>
+        <country>UK</country>
+        <city></city>
+        <website>http://www.kaelifa.com</website>
+        <description></description>
+        <avatar>assets/avatars/kaelifa.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>I am a nonaccredited, overly logical psychologist, therapist, mechanic, diplomat, businessman, and teacher working in an industry that is still defining itself each and every day.</content>
+    <position type="float">0.0697992</position>
+    <highlighted-at type="datetime">2012-10-31T17:32:18Z</highlighted-at>
+    <locators>
+      <position type="float">0.06979924440383911</position>
+      <mid>I am a nonaccredited, overly logical psychologist, therapist, mechanic, diplomat, businessman, and teacher working in an industry that is still defining itself each and every day.</mid>
+      <post> That is as concise a definition I can give for the modern-day programmer. 1.2 </post>
+      <pre> that Bob Slydell does as the office consultant in Office Space. I tell her this: </pre>
+    </locators>
+    <user>
+      <username>gvwalker</username>
+      <firstname>Grant</firstname>
+      <lastname>Walker</lastname>
+      <country>South Africa</country>
+      <city>Johannesburg</city>
+      <website></website>
+      <description></description>
+      <avatar>assets/avatars/gvwalker.jpg</avatar>
+    </user>
+    <book>
+      <title>The Developer’s Code</title>
+      <author>Ka Wai Cheung</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>martinhwasser</username>
+        <firstname>Martin</firstname>
+        <lastname>Hwasser</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://github.com/hwaxxer</website>
+        <description>iOS Developer at Readmill</description>
+        <avatar>assets/avatars/martinhwasser.jpg</avatar>
+      </like>
+      <like>
+        <username>xla</username>
+        <firstname>Alexander</firstname>
+        <lastname>Simmerl</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website></website>
+        <description>Berlin native. Distributed Systems. Engineer at SoundCloud.</description>
+        <avatar>assets/avatars/xla.jpg</avatar>
+      </like>
+      <like>
+        <username>zearl</username>
+        <firstname>Zak</firstname>
+        <lastname>Greene</lastname>
+        <country nil="true"/>
+        <city nil="true"/>
+        <website>http://www.zakgreene.com</website>
+        <description>Designer for Big Think, artist, reader, writer, music person, contrarian. Not a spam bot. Or am I?</description>
+        <avatar>assets/avatars/zearl.jpg</avatar>
+      </like>
+      <like>
+        <username>dirklectisch</username>
+        <firstname>Dirk</firstname>
+        <lastname>Geurs</lastname>
+        <country>Netherlands</country>
+        <city>Amsterdam</city>
+        <website></website>
+        <description>Software Composer. Reporting on society, technology and collaboration from the post-industrial age.</description>
+        <avatar>assets/avatars/dirklectisch.jpg</avatar>
+      </like>
+      <like>
+        <username>justincharles</username>
+        <firstname>Justin</firstname>
+        <lastname>Charles</lastname>
+        <country></country>
+        <city></city>
+        <website>http://www.dayofthedreamweavers.com</website>
+        <description>Design &amp; Technology MFA candidate at Parsons @mfadt. Attempting to read the entire world wide web since 2006.</description>
+        <avatar>assets/avatars/justincharles.jpg</avatar>
+      </like>
+      <like>
+        <username>patch</username>
+        <firstname>Patch</firstname>
+        <lastname>Hofweber</lastname>
+        <country>Sweden</country>
+        <city>Lund</city>
+        <website>http://finagrejer.cc</website>
+        <description>Spiritually I’m a climber.</description>
+        <avatar>assets/avatars/patch.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>sillygwailo</username>
+        <firstname>Richard</firstname>
+        <lastname>Eriksson</lastname>
+        <country>Canada</country>
+        <city>Vancouver</city>
+        <website>http://justagwailo.com/</website>
+        <description></description>
+        <avatar>assets/avatars/sillygwailo.jpg</avatar>
+      </like>
+      <like>
+        <username>marius</username>
+        <firstname>Marius</firstname>
+        <lastname>Kažemėkaitis</lastname>
+        <country>Lithuania</country>
+        <city>Kaunas</city>
+        <website>http://www.lemonlabs.lt</website>
+        <description>iOS Developer</description>
+        <avatar>assets/avatars/marius.jpg</avatar>
+      </like>
+      <like>
+        <username>Lumierephotographie</username>
+        <firstname>Christoph</firstname>
+        <lastname>Hellmuth</lastname>
+        <country>Deutschland</country>
+        <city>Berlin</city>
+        <website></website>
+        <description></description>
+        <avatar>assets/avatars/Lumierephotographie.jpg</avatar>
+      </like>
+      <like>
+        <username>b_levien</username>
+        <firstname nil="true"/>
+        <lastname nil="true"/>
+        <country nil="true"/>
+        <city nil="true"/>
+        <website nil="true"/>
+        <description nil="true"/>
+        <avatar nil="true"/>
+      </like>
+    </likes>
+    <comments-count type="integer">1</comments-count>
+    <comments type="array">
+      <comment>
+        <content>Definition of a modern day programmer</content>
+        <posted-at type="datetime">2012-10-31T17:32:18Z</posted-at>
+        <user>
+          <username>gvwalker</username>
+          <firstname>Grant</firstname>
+          <lastname>Walker</lastname>
+          <country>South Africa</country>
+          <city>Johannesburg</city>
+          <website></website>
+          <description></description>
+          <avatar>assets/avatars/gvwalker.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>We’re not just designing pages. We’re designing human experiences. Like the visionaries of the Arts and Crafts movement, we know that preserving the human touch and showing ourselves in our work isn’t optional: it’s essential.</content>
+    <position type="float">0.866024</position>
+    <highlighted-at type="datetime">2012-11-07T18:30:56Z</highlighted-at>
+    <locators>
+      <pre>ve that memory? I hope so, because that’s your standard as you begin to design for emotion. </pre>
+      <mid>We’re not just designing pages. We’re designing human experiences. Like the visionaries of the Arts and Crafts movement, we know that preserving the human touch and showing ourselves in our work isn’t optional: it’s essential.</mid>
+      <post> Acknowledgements This book would not be resting in your hands if not</post>
+      <position type="float">0.8660240769386292</position>
+    </locators>
+    <user>
+      <username>manikrathee</username>
+      <firstname>Manik</firstname>
+      <lastname>Rathee</lastname>
+      <country>USA</country>
+      <city></city>
+      <website>http://www.manikrathee.com</website>
+      <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+      <avatar>assets/avatars/manikrathee.jpg</avatar>
+    </user>
+    <book>
+      <title>Designing for Emotion</title>
+      <author>Aarron Walter</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>Rajanand</username>
+        <firstname>Rajanand</firstname>
+        <lastname>Ilangovan</lastname>
+        <country>India</country>
+        <city>Bangalore</city>
+        <website>http://goodreads.com/Rajanand</website>
+        <description>Sail away from the safe harbor.
+http://rajanand.org</description>
+        <avatar>assets/avatars/Rajanand.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Fans, he felt, detracted from the calm of a computer. This caused many component failures and earned the Macintosh the nickname “the beige toaster,” which did not enhance its popularity.</content>
+    <position type="float">0.319224</position>
+    <highlighted-at type="datetime">2012-11-26T02:55:16Z</highlighted-at>
+    <locators>
+      <position type="float">0.3192237913608551</position>
+      <mid>Fans, he felt, detracted from the calm of a computer. This caused many component failures and earned the Macintosh the nickname “the beige toaster,” which did not enhance its popularity.</mid>
+      <post> It was so seductive that it had sold well enough for the first few months, but when people became m</post>
+      <pre>le drive. In addition, the Macintosh lacked a fan, another example of Jobs’s dogmatic stubbornness. </pre>
+    </locators>
+    <user>
+      <username>patch</username>
+      <firstname>Patch</firstname>
+      <lastname>Hofweber</lastname>
+      <country>Sweden</country>
+      <city>Lund</city>
+      <website>http://finagrejer.cc</website>
+      <description>Spiritually I’m a climber.</description>
+      <avatar>assets/avatars/patch.jpg</avatar>
+    </user>
+    <book>
+      <title>Steve Jobs</title>
+      <author>Walter Isaacson</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>stewf</username>
+        <firstname>Stephen</firstname>
+        <lastname>Coles</lastname>
+        <country>USA</country>
+        <city>Oakland</city>
+        <website>http://stephencoles.org</website>
+        <description>Writer, editor, typographer. 
+Oakland and Berlin. </description>
+        <avatar>assets/avatars/stewf.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">1</comments-count>
+    <comments type="array">
+      <comment>
+        <content>Beige blog</content>
+        <posted-at type="datetime">2012-11-26T03:02:25Z</posted-at>
+        <user>
+          <username>patch</username>
+          <firstname>Patch</firstname>
+          <lastname>Hofweber</lastname>
+          <country>Sweden</country>
+          <city>Lund</city>
+          <website>http://finagrejer.cc</website>
+          <description>Spiritually I’m a climber.</description>
+          <avatar>assets/avatars/patch.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>What’s more, I’d often use words like “future-proof” and “device-agnostic” when describing the need for this flexibility. Often while standing alone at parties.</content>
+    <position type="float">0.41282</position>
+    <highlighted-at type="datetime">2012-12-20T14:04:03Z</highlighted-at>
+    <locators>
+      <position type="float">0.41281968355178833</position>
+      <mid>What’s more, I’d often use words like “future-proof” and “device-agnostic” when describing the need for this flexibility. Often while standing alone at parties.</mid>
+      <post> But at some point, everything breaks. As flexible as the Robot site is right now, it’s </post>
+      <pre>ent to the web: changes in the user’s browser window size, in display or device resolution. </pre>
+    </locators>
+    <user>
+      <username>paucc</username>
+      <firstname>pau</firstname>
+      <lastname>valiente</lastname>
+      <country></country>
+      <city></city>
+      <website>http://www.pau.cc</website>
+      <description>Visual creative. video director, post-production expert. Design. Technology lover. Lo-fi romantic. Diy interested.
+Part of @estudioredondo studio and @timeinacan project.</description>
+      <avatar>assets/avatars/paucc.jpg</avatar>
+    </user>
+    <book>
+      <title>Responsive Web Design</title>
+      <author>Ethan Marcotte</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>danielwaterhouse</username>
+        <firstname>Daniel</firstname>
+        <lastname>Waterhouse</lastname>
+        <country>United Kingdom</country>
+        <city>London</city>
+        <website>http://daniel.waterhouse@gmail.com</website>
+        <description></description>
+        <avatar>assets/avatars/danielwaterhouse.jpg</avatar>
+      </like>
+      <like>
+        <username>todrobbins</username>
+        <firstname>Tod</firstname>
+        <lastname>Robbins</lastname>
+        <country>USA</country>
+        <city>West Jordan, UT</city>
+        <website>http://www.todrobbins.com</website>
+        <description>Lover of history, genealogy, jamming, beat programming, et al; recent MLIS grad from the University of Washington with a love for open data and digital archives</description>
+        <avatar>assets/avatars/todrobbins.jpg</avatar>
+      </like>
+      <like>
+        <username>julians</username>
+        <firstname>Julian</firstname>
+        <lastname>Stahnke</lastname>
+        <country>Germany</country>
+        <city>Potsdam</city>
+        <website>http://julianstahnke.com</website>
+        <description>Not enough content.</description>
+        <avatar>assets/avatars/julians.jpg</avatar>
+      </like>
+      <like>
+        <username>matthewcbostock</username>
+        <firstname>Matthew</firstname>
+        <lastname>Bostock</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://matthewbostock.com</website>
+        <description>British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.</description>
+        <avatar>assets/avatars/matthewcbostock.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Sustainable growth is characterized by one simple rule: New customers come from the actions of past customers.</content>
+    <position type="float">0.665872</position>
+    <highlighted-at type="datetime">2012-12-27T18:00:50Z</highlighted-at>
+    <locators>
+      <position type="float">0.6658722758293152</position>
+      <mid>Sustainable growth is characterized by one simple rule: New customers come from the actions of past customers.</mid>
+      <post> There are four primary ways past customers drive sustainable growth: 1. Word of mouth. Embedded in</post>
+      <pre> stunt that might be used to jump-start growth but could not sustain that growth for the long term. </pre>
+    </locators>
+    <user>
+      <username>henrik</username>
+      <firstname>Henrik</firstname>
+      <lastname>Berggren</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://readmill.com</website>
+      <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+      <avatar>assets/avatars/henrik.jpg</avatar>
+    </user>
+    <book>
+      <title>The Lean Startup</title>
+      <author>Eric Ries</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>christoffer</username>
+        <firstname>Christoffer</firstname>
+        <lastname>Klang</lastname>
+        <country>Sweden</country>
+        <city>Stockholm</city>
+        <website>http://readtracker.com</website>
+        <description>Developing ReadTracker. Mostly reading tech stuff, sci-fi and block-busters.</description>
+        <avatar>assets/avatars/christoffer.jpg</avatar>
+      </like>
+      <like>
+        <username>fabian</username>
+        <firstname>Fabian</firstname>
+        <lastname>Mu</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://fabian.mu</website>
+        <description>Creative technologist, pondering around in digital land.</description>
+        <avatar>assets/avatars/fabian.jpg</avatar>
+      </like>
+      <like>
+        <username>arnklint</username>
+        <firstname>Jonas</firstname>
+        <lastname>Arnklint</lastname>
+        <country>Sweden</country>
+        <city>Stockholm</city>
+        <website>http://revrise.com</website>
+        <description>Webdeveloper and podcast host.</description>
+        <avatar>assets/avatars/arnklint.jpg</avatar>
+      </like>
+      <like>
+        <username>akebrattberg</username>
+        <firstname>Åke</firstname>
+        <lastname>Brattberg</lastname>
+        <country>Sweden</country>
+        <city>Gothenburg</city>
+        <website>http://www.inclosure.com</website>
+        <description></description>
+        <avatar>assets/avatars/akebrattberg.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>boyd</username>
+        <firstname>Jon</firstname>
+        <lastname>Boyd</lastname>
+        <country>USA</country>
+        <city>Chicago</city>
+        <website>http://hoc.uspoc.us</website>
+        <description>I help make, distribute, and promote books (paper and digital) with InterVarsity Press. Disclaimer: Opinions are my own.</description>
+        <avatar>assets/avatars/boyd.jpg</avatar>
+      </like>
+      <like>
+        <username>fredriktelenius</username>
+        <firstname>Fredrik</firstname>
+        <lastname>Telenius</lastname>
+        <country></country>
+        <city></city>
+        <website>http://banjo.nu</website>
+        <description></description>
+        <avatar>assets/avatars/fredriktelenius.jpg</avatar>
+      </like>
+      <like>
+        <username>coopersmith41</username>
+        <firstname>Cooper</firstname>
+        <lastname>Liska-Smith</lastname>
+        <country></country>
+        <city>Brooklyn</city>
+        <website></website>
+        <description></description>
+        <avatar>assets/avatars/coopersmith41.jpg</avatar>
+      </like>
+      <like>
+        <username>stst31415</username>
+        <firstname>Stefan</firstname>
+        <lastname>Steinbauer</lastname>
+        <country nil="true"/>
+        <city nil="true"/>
+        <website>http://www.usinglight.com</website>
+        <description>Survive the daily digital fallout with #informationdesign, #Nex-7, personal knowledge management and pictures from #Vienna - WARNING: contains information</description>
+        <avatar>assets/avatars/stst31415.jpg</avatar>
+      </like>
+      <like>
+        <username>jammyungab</username>
+        <firstname>Jammy</firstname>
+        <lastname>Ungab</lastname>
+        <country>Philippines</country>
+        <city>Cebu City</city>
+        <website></website>
+        <description>I'm like a collection of paradoxes. And, a proud Filipina. :)
+
+</description>
+        <avatar>assets/avatars/jammyungab.jpg</avatar>
+      </like>
+      <like>
+        <username>couderc_martin</username>
+        <firstname>Martin</firstname>
+        <lastname>Couderc</lastname>
+        <country>France</country>
+        <city>Rennes</city>
+        <website nil="true"/>
+        <description nil="true"/>
+        <avatar>assets/avatars/couderc_martin.jpg</avatar>
+      </like>
+      <like>
+        <username>olaolusoga</username>
+        <firstname>Ola</firstname>
+        <lastname>Olusoga</lastname>
+        <country></country>
+        <city></city>
+        <website>http://olaolusoga.com</website>
+        <description>Designer </description>
+        <avatar>assets/avatars/olaolusoga.jpg</avatar>
+      </like>
+      <like>
+        <username>walsertal</username>
+        <firstname>Markus</firstname>
+        <lastname>Hallermann</lastname>
+        <country nil="true"/>
+        <city nil="true"/>
+        <website nil="true"/>
+        <description nil="true"/>
+        <avatar>assets/avatars/walsertal.jpg</avatar>
+      </like>
+      <like>
+        <username>mark354</username>
+        <firstname nil="true"/>
+        <lastname nil="true"/>
+        <country nil="true"/>
+        <city nil="true"/>
+        <website nil="true"/>
+        <description nil="true"/>
+        <avatar nil="true"/>
+      </like>
+      <like>
+        <username>avocade</username>
+        <firstname>Oskar</firstname>
+        <lastname>Boethius Lissheim</lastname>
+        <country>Sweden</country>
+        <city>Stockholm</city>
+        <website>http://about.me/oskarlissheimboethius</website>
+        <description>Lead developer iOS &amp; Product Designer at Soundtrack Your Brand.</description>
+        <avatar>assets/avatars/avocade.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">1</comments-count>
+    <comments type="array">
+      <comment>
+        <content>#keypoint</content>
+        <posted-at type="datetime">2012-12-27T18:00:50Z</posted-at>
+        <user>
+          <username>henrik</username>
+          <firstname>Henrik</firstname>
+          <lastname>Berggren</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://readmill.com</website>
+          <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+          <avatar>assets/avatars/henrik.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>The company practices true continuous deployment—including more than a dozen releases to customers every day—in an SEC-regulated environment.</content>
+    <position type="float">0.615843</position>
+    <highlighted-at type="datetime">2012-12-27T17:07:05Z</highlighted-at>
+    <locators>
+      <position type="float">0.615842878818512</position>
+      <mid>The company practices true continuous deployment—including more than a dozen releases to customers every day—in an SEC-regulated environment.</mid>
+      <post>4 Continuous Deployment Beyond Software When I tell this story to people who work in a slower-moving</post>
+      <pre>tions. Among the most cutting edge examples is Wealthfront, whose pivot was described in Chapter 8. </pre>
+    </locators>
+    <user>
+      <username>henrik</username>
+      <firstname>Henrik</firstname>
+      <lastname>Berggren</lastname>
+      <country>Germany</country>
+      <city>Berlin</city>
+      <website>http://readmill.com</website>
+      <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+      <avatar>assets/avatars/henrik.jpg</avatar>
+    </user>
+    <book>
+      <title>The Lean Startup</title>
+      <author>Eric Ries</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">1</comments-count>
+    <comments type="array">
+      <comment>
+        <content>Hardcore...</content>
+        <posted-at type="datetime">2012-12-27T17:07:05Z</posted-at>
+        <user>
+          <username>henrik</username>
+          <firstname>Henrik</firstname>
+          <lastname>Berggren</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://readmill.com</website>
+          <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+          <avatar>assets/avatars/henrik.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>Beauty is not the goal of competitive sports, but high-level sports are a prime venue for the expression of human beauty. The relation is roughly that of courage to war.</content>
+    <position type="float">0.0372848</position>
+    <highlighted-at type="datetime">2013-01-06T09:04:57Z</highlighted-at>
+    <locators>
+      <position type="float">0.03728480264544487</position>
+      <mid>Beauty is not the goal of competitive sports, but high-level sports are a prime venue for the expression of human beauty. The relation is roughly that of courage to war.</mid>
+      <post> The human beauty we’re talking about here is beauty of a particular type; it might be called kineti</post>
+      <pre>or an instant ecstatically—though it takes some time and serious watching to see this truth emerge. </pre>
+    </locators>
+    <user>
+      <username>sillygwailo</username>
+      <firstname>Richard</firstname>
+      <lastname>Eriksson</lastname>
+      <country>Canada</country>
+      <city>Vancouver</city>
+      <website>http://justagwailo.com/</website>
+      <description></description>
+      <avatar>assets/avatars/sillygwailo.jpg</avatar>
+    </user>
+    <book>
+      <title>Both Flesh and Not: Essays</title>
+      <author>David Foster Wallace</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>matthewcbostock</username>
+        <firstname>Matthew</firstname>
+        <lastname>Bostock</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://matthewbostock.com</website>
+        <description>British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.</description>
+        <avatar>assets/avatars/matthewcbostock.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>lmsanchez</username>
+        <firstname>Lisa</firstname>
+        <lastname>Sanchez</lastname>
+        <country></country>
+        <city>Berlin</city>
+        <website>http://lisasanchez.me</website>
+        <description>Community manager at Readmill. Wondering what you've read and loved lately. lisa@readmill.com</description>
+        <avatar>assets/avatars/lmsanchez.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">1</comments-count>
+    <comments type="array">
+      <comment>
+        <content>Like this statement</content>
+        <posted-at type="datetime">2013-01-06T10:17:57Z</posted-at>
+        <user>
+          <username>jonashjalmar</username>
+          <firstname>Jonas Hjalmar</firstname>
+          <lastname>Blom</lastname>
+          <country>Sweden</country>
+          <city>Stockholm</city>
+          <website>http://about.me/jonashjalmar</website>
+          <description>Behavior designer, flaneur and growing minimalist.</description>
+          <avatar>assets/avatars/jonashjalmar.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>When I call the emergency room on a weekend, my context is likely to be quite different than when I call my allergy specialist during business hours. If I look at a subway map at 3:00am, chances are that I need to know which trains are running now, not during rush hour tomorrow. When I look up your company on my phone, I’m more likely to need basic contact info than your annual report from 2006.</content>
+    <position type="float">0.120127</position>
+    <highlighted-at type="datetime">2013-01-07T09:15:28Z</highlighted-at>
+    <locators>
+      <position type="float">0.12012728303670883</position>
+      <mid>When I call the emergency room on a weekend, my context is likely to be quite different than when I call my allergy specialist during business hours. If I look at a subway map at 3:00am, chances are that I need to know which trains are running now, not during rush hour tomorrow. When I look up your company on my phone, I’m more likely to need basic contact info than your annual report from 2006.</mid>
+      <post> But assumptions about reader context—however well researched—will never be perfect. Always give rea</post>
+      <pre>from a diagram by Andrew Hinton. http://bkaprt.com/cs/1/)1 It’s a sensible notion. </pre>
+    </locators>
+    <user>
+      <username>dte</username>
+      <firstname>Daniel</firstname>
+      <lastname>Eden</lastname>
+      <country>U.S.A.</country>
+      <city>San Francisco</city>
+      <website>http://daneden.me</website>
+      <description>Makes sandwiches, websites.</description>
+      <avatar>assets/avatars/dte.jpg</avatar>
+    </user>
+    <book>
+      <title>The Elements of Content Strategy</title>
+      <author>Erin Kissane</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>majouji</username>
+        <firstname>Ramy</firstname>
+        <lastname>M.</lastname>
+        <country></country>
+        <city></city>
+        <website></website>
+        <description></description>
+        <avatar>assets/avatars/majouji.jpg</avatar>
+      </like>
+      <like>
+        <username>kevinclark</username>
+        <firstname>Kevin</firstname>
+        <lastname>Clark</lastname>
+        <country>Canada</country>
+        <city>Montreal</city>
+        <website>http://kevinclark.ca</website>
+        <description>Pixels, Shapes &amp; Words.</description>
+        <avatar>assets/avatars/kevinclark.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>tylr</username>
+        <firstname>Tyler</firstname>
+        <lastname>Howarth</lastname>
+        <country>United States</country>
+        <city>New York City</city>
+        <website></website>
+        <description></description>
+        <avatar>assets/avatars/tylr.jpg</avatar>
+      </like>
+      <like>
+        <username>schifter_</username>
+        <firstname>Magnus</firstname>
+        <lastname>Schifter-Holm</lastname>
+        <country nil="true"/>
+        <city nil="true"/>
+        <website>http://schifter.me</website>
+        <description>Developer, tech &amp; mobile entrepreneur, self-proclaimed typography aficionado, student, and junior stockanalyst. Founder of http://mashedapps.com</description>
+        <avatar>assets/avatars/schifter_.jpg</avatar>
+      </like>
+      <like>
+        <username>jmes</username>
+        <firstname>James</firstname>
+        <lastname></lastname>
+        <country></country>
+        <city></city>
+        <website></website>
+        <description></description>
+        <avatar>assets/avatars/jmes.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">1</comments-count>
+    <comments type="array">
+      <comment>
+        <content>Great, great analogy; and something often forgotten when writing copy for websites or restructuring for mobile.</content>
+        <posted-at type="datetime">2013-01-07T09:15:28Z</posted-at>
+        <user>
+          <username>dte</username>
+          <firstname>Daniel</firstname>
+          <lastname>Eden</lastname>
+          <country>U.S.A.</country>
+          <city>San Francisco</city>
+          <website>http://daneden.me</website>
+          <description>Makes sandwiches, websites.</description>
+          <avatar>assets/avatars/dte.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>Slow down and remember this: Most things make no difference. Being busy is a form of laziness—lazy thinking and indiscriminate action.</content>
+    <position nil="true"/>
+    <highlighted-at type="datetime">2013-01-07T00:00:00Z</highlighted-at>
+    <locators>
+      <position nil="true"/>
+      <pre></pre>
+      <mid>Slow down and remember this: Most things make no difference. Being busy is a form of laziness—lazy thinking and indiscriminate action.</mid>
+      <post></post>
+    </locators>
+    <user>
+      <username>manya</username>
+      <firstname>Manya</firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website>http://manya.me</website>
+      <description>Lover of technology and digital culture. Explorer of cyberspace and virtual worlds. Curious thinker. Incessant tinkerer. From space.
+
+Find me on Twitter: @manyas.</description>
+      <avatar>assets/avatars/manya.jpg</avatar>
+    </user>
+    <book>
+      <title>The 4-Hour Workweek</title>
+      <author>Timothy Ferriss</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>matthewcbostock</username>
+        <firstname>Matthew</firstname>
+        <lastname>Bostock</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://matthewbostock.com</website>
+        <description>British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.</description>
+        <avatar>assets/avatars/matthewcbostock.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>bjornklockljung</username>
+        <firstname>Björn</firstname>
+        <lastname>Klockljung</lastname>
+        <country></country>
+        <city></city>
+        <website>http://www.bjornklockljung.se/</website>
+        <description>Interaktionsdesigner i Göteborg som är intresserad av webb, speldesign, simplicity och #GTD </description>
+        <avatar>assets/avatars/bjornklockljung.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Learning to ignore things is one of the great paths to inner peace.</content>
+    <position nil="true"/>
+    <highlighted-at type="datetime">2013-01-07T00:00:00Z</highlighted-at>
+    <locators>
+      <position nil="true"/>
+      <pre></pre>
+      <mid>Learning to ignore things is one of the great paths to inner peace.</mid>
+      <post></post>
+    </locators>
+    <user>
+      <username>manya</username>
+      <firstname>Manya</firstname>
+      <lastname></lastname>
+      <country></country>
+      <city></city>
+      <website>http://manya.me</website>
+      <description>Lover of technology and digital culture. Explorer of cyberspace and virtual worlds. Curious thinker. Incessant tinkerer. From space.
+
+Find me on Twitter: @manyas.</description>
+      <avatar>assets/avatars/manya.jpg</avatar>
+    </user>
+    <book>
+      <title>The 4-Hour Workweek</title>
+      <author>Timothy Ferriss</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>danielwaterhouse</username>
+        <firstname>Daniel</firstname>
+        <lastname>Waterhouse</lastname>
+        <country>United Kingdom</country>
+        <city>London</city>
+        <website>http://daniel.waterhouse@gmail.com</website>
+        <description></description>
+        <avatar>assets/avatars/danielwaterhouse.jpg</avatar>
+      </like>
+      <like>
+        <username>ADDN2X</username>
+        <firstname>addn2x</firstname>
+        <lastname></lastname>
+        <country></country>
+        <city></city>
+        <website></website>
+        <description>reading books, coding webs, hacking life, exploring worlds </description>
+        <avatar>assets/avatars/ADDN2X.jpg</avatar>
+      </like>
+      <like>
+        <username>zearl</username>
+        <firstname>Zak</firstname>
+        <lastname>Greene</lastname>
+        <country nil="true"/>
+        <city nil="true"/>
+        <website>http://www.zakgreene.com</website>
+        <description>Designer for Big Think, artist, reader, writer, music person, contrarian. Not a spam bot. Or am I?</description>
+        <avatar>assets/avatars/zearl.jpg</avatar>
+      </like>
+      <like>
+        <username>matthewcbostock</username>
+        <firstname>Matthew</firstname>
+        <lastname>Bostock</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://matthewbostock.com</website>
+        <description>British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.</description>
+        <avatar>assets/avatars/matthewcbostock.jpg</avatar>
+      </like>
+      <like>
+        <username>micahbrich</username>
+        <firstname>Micah</firstname>
+        <lastname>Rich</lastname>
+        <country>USA</country>
+        <city>Los Angeles</city>
+        <website>http://www.micahrich.com</website>
+        <description>Founder of both A Good Company &amp; The League of Moveable Type, Micah is a nomadic thinker &amp; do-er.</description>
+        <avatar>assets/avatars/micahbrich.jpg</avatar>
+      </like>
+      <like>
+        <username>hilmarschmundt</username>
+        <firstname>Hilmar</firstname>
+        <lastname>Schmundt</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://www.schmundt.de</website>
+        <description>Macht was mit Medien</description>
+        <avatar>assets/avatars/hilmarschmundt.jpg</avatar>
+      </like>
+      <like>
+        <username>adoran2</username>
+        <firstname>Andrew</firstname>
+        <lastname>Doran</lastname>
+        <country>UK</country>
+        <city>Berkhamsted</city>
+        <website>http://www.andrewdoran.co.uk/</website>
+        <description>Husband, dad of two boys, IT portfolio and business manager at an African bank, school governor, over-enthusiastic, geek. A buyer of books, a reader of some of them and a great longing to get through as many as I can fit in.</description>
+        <avatar>assets/avatars/adoran2.jpg</avatar>
+      </like>
+      <like>
+        <username>patch</username>
+        <firstname>Patch</firstname>
+        <lastname>Hofweber</lastname>
+        <country>Sweden</country>
+        <city>Lund</city>
+        <website>http://finagrejer.cc</website>
+        <description>Spiritually I’m a climber.</description>
+        <avatar>assets/avatars/patch.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>kenna</username>
+        <firstname>Kenna</firstname>
+        <lastname>Marcelo</lastname>
+        <country>United Arab Emirates</country>
+        <city>Dubai</city>
+        <website>http://areturnafterlongwanderings.com/</website>
+        <description>Founder of Mensis Liber. I sometimes make things for the web. Was born in an archipelago of 7,107 islands currently living in the desert working as a telecommunications engineer.</description>
+        <avatar>assets/avatars/kenna.jpg</avatar>
+      </like>
+      <like>
+        <username>tarngerine</username>
+        <firstname>Julius</firstname>
+        <lastname>Tarng</lastname>
+        <country></country>
+        <city></city>
+        <website>http://tarng.com</website>
+        <description>Recovering In-N-Out addict &amp; product designer. Temporarily displaced from NYC to Spain, and I speak no Spanish.</description>
+        <avatar>assets/avatars/tarngerine.jpg</avatar>
+      </like>
+      <like>
+        <username>edouardu</username>
+        <firstname>édouard</firstname>
+        <lastname>urcadez</lastname>
+        <country>United States of America</country>
+        <city>Austin</city>
+        <website>http://edouardu.com/</website>
+        <description>physical–digital product designer</description>
+        <avatar>assets/avatars/edouardu.jpg</avatar>
+      </like>
+      <like>
+        <username>rpruiz</username>
+        <firstname>Rudy</firstname>
+        <lastname></lastname>
+        <country>Mexico</country>
+        <city>Monterrey</city>
+        <website></website>
+        <description>Internetician, entrepreneur</description>
+        <avatar>assets/avatars/rpruiz.jpg</avatar>
+      </like>
+      <like>
+        <username>anildigital</username>
+        <firstname></firstname>
+        <lastname></lastname>
+        <country></country>
+        <city></city>
+        <website></website>
+        <description></description>
+        <avatar>assets/avatars/anildigital.jpg</avatar>
+      </like>
+      <like>
+        <username>badpandarecords</username>
+        <firstname>Claudio</firstname>
+        <lastname>Gallo</lastname>
+        <country>Italy</country>
+        <city>Roma</city>
+        <website>http://stereomood.com</website>
+        <description>Digital-music enthusiast. Fascinated by arts, different cultures and people that work hard to do something authentic. Creative Commons Bad Panda Records founder, information/business strategy @ stereomood</description>
+        <avatar>assets/avatars/badpandarecords.jpg</avatar>
+      </like>
+      <like>
+        <username>bjornklockljung</username>
+        <firstname>Björn</firstname>
+        <lastname>Klockljung</lastname>
+        <country></country>
+        <city></city>
+        <website>http://www.bjornklockljung.se/</website>
+        <description>Interaktionsdesigner i Göteborg som är intresserad av webb, speldesign, simplicity och #GTD </description>
+        <avatar>assets/avatars/bjornklockljung.jpg</avatar>
+      </like>
+      <like>
+        <username>sagmor</username>
+        <firstname>Seba</firstname>
+        <lastname>Gamboa</lastname>
+        <country>Chile</country>
+        <city>Santiago</city>
+        <website>http://sagmor.com</website>
+        <description></description>
+        <avatar>assets/avatars/sagmor.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>The power of readers lies not in their ability to gather information, in their ordering and cataloguing capability, but in their gift to interpret, associate and transform their reading.</content>
+    <position type="float">0.262644</position>
+    <highlighted-at type="datetime">2013-02-04T06:16:45Z</highlighted-at>
+    <locators>
+      <position type="float">0.2626444697380066</position>
+      <mid>The power of readers lies not in their ability to gather information, in their ordering and cataloguing capability, but in their gift to interpret, associate and transform their reading.</mid>
+      <post> For the Talmudic schools, as for those of Islam, a scholar can turn religious faith into an active</post>
+      <pre>n of the vanity of human hopes, than a public library.Samuel Johnson, in The Rambler, 23 March 1751</pre>
+    </locators>
+    <user>
+      <username>nicoleslaw</username>
+      <firstname>Nicole</firstname>
+      <lastname>Fenton</lastname>
+      <country>United States</country>
+      <city>Brooklyn</city>
+      <website>http://nicolefenton.com</website>
+      <description>Writer and editor. Interface maker. Connective tissue with a curious streak.</description>
+      <avatar>assets/avatars/nicoleslaw.jpg</avatar>
+    </user>
+    <book>
+      <title>The Library at Night</title>
+      <author>Alberto Manguel</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>julians</username>
+        <firstname>Julian</firstname>
+        <lastname>Stahnke</lastname>
+        <country>Germany</country>
+        <city>Potsdam</city>
+        <website>http://julianstahnke.com</website>
+        <description>Not enough content.</description>
+        <avatar>assets/avatars/julians.jpg</avatar>
+      </like>
+      <like>
+        <username>robinrendle</username>
+        <firstname>Robin</firstname>
+        <lastname>Rendle</lastname>
+        <country>United Kingdom</country>
+        <city>Nottingham</city>
+        <website>http://robinrendle.com</website>
+        <description></description>
+        <avatar>assets/avatars/robinrendle.jpg</avatar>
+      </like>
+      <like>
+        <username>tealtan</username>
+        <firstname>Allen</firstname>
+        <lastname>Tan</lastname>
+        <country></country>
+        <city></city>
+        <website>http://tanmade.com/</website>
+        <description>Graphic and interaction designer by day, assistant editor for @codex and @contents by night.</description>
+        <avatar>assets/avatars/tealtan.jpg</avatar>
+      </like>
+      <like>
+        <username>hi</username>
+        <firstname>William</firstname>
+        <lastname>Melody</lastname>
+        <country>CA</country>
+        <city>San Francisco</city>
+        <website>http://williammelody.com/_</website>
+        <description>Craftsman, researcher, idealist, occasional entrepreneur.</description>
+        <avatar>assets/avatars/hi.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>Zygar</username>
+        <firstname>Andy</firstname>
+        <lastname>Wilkinson</lastname>
+        <country>New Zealand</country>
+        <city>Christchurch</city>
+        <website>http://twin.gl/</website>
+        <description>I dream of the future and spend the present trying to make it happen. Mad scientist at @LetsTwingl, building tools for reading and thinking.</description>
+        <avatar>assets/avatars/Zygar.jpg</avatar>
+      </like>
+      <like>
+        <username>migueliglesias</username>
+        <firstname>Miguel</firstname>
+        <lastname>Iglesias</lastname>
+        <country>Argentina</country>
+        <city>Buenos Aires</city>
+        <website>http://facebook.com/migueliglesias</website>
+        <description>The power of readers lies not in their ability to gather information, in their ordering and cataloguing capability, but in their gift to interpret, associate and transform their reading.</description>
+        <avatar>assets/avatars/migueliglesias.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">2</comments-count>
+    <comments type="array">
+      <comment>
+        <content>Absorb, interpret, and react. </content>
+        <posted-at type="datetime">2013-02-04T06:16:45Z</posted-at>
+        <user>
+          <username>nicoleslaw</username>
+          <firstname>Nicole</firstname>
+          <lastname>Fenton</lastname>
+          <country>United States</country>
+          <city>Brooklyn</city>
+          <website>http://nicolefenton.com</website>
+          <description>Writer and editor. Interface maker. Connective tissue with a curious streak.</description>
+          <avatar>assets/avatars/nicoleslaw.jpg</avatar>
+        </user>
+      </comment>
+      <comment>
+        <content>Sorry to bombard you with Readmill likes, but this book looks AMAZING. Just bought it; thanks for the passive sharing :-)</content>
+        <posted-at type="datetime">2013-03-14T23:08:13Z</posted-at>
+        <user>
+          <username>Zygar</username>
+          <firstname>Andy</firstname>
+          <lastname>Wilkinson</lastname>
+          <country>New Zealand</country>
+          <city>Christchurch</city>
+          <website>http://twin.gl/</website>
+          <description>I dream of the future and spend the present trying to make it happen. Mad scientist at @LetsTwingl, building tools for reading and thinking.</description>
+          <avatar>assets/avatars/Zygar.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>Words, when considered as a design element, play a crucial role in shaping our emotional perception and they solidify the aspects a visual design vocabulary hints at. When considering the role of words as a building block of our design process, it’s evident that design is more than a purely visual pursuit.</content>
+    <position type="float">0.259781</position>
+    <highlighted-at type="datetime">2013-02-24T22:47:11Z</highlighted-at>
+    <locators>
+      <position type="float">0.2597806453704834</position>
+      <mid>Words, when considered as a design element, play a crucial role in shaping our emotional perception and they solidify the aspects a visual design vocabulary hints at. When considering the role of words as a building block of our design process, it’s evident that design is more than a purely visual pursuit.</mid>
+      <post> What happens when our visual layer isn’t available, for example for a visually impaired user using</post>
+      <pre>n use at the service of design: visual grammar; semiotics; language; psychology… the list goes on. </pre>
+    </locators>
+    <user>
+      <username>phalkunz</username>
+      <firstname>Saophalkun</firstname>
+      <lastname>Ponlu</lastname>
+      <country nil="true"/>
+      <city nil="true"/>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/phalkunz.jpg</avatar>
+    </user>
+    <book>
+      <title>A Pocket Guide to The craft of words</title>
+      <author>The Standardistas</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Travel far enough, you meet yourself.</content>
+    <position type="float">0.633255</position>
+    <highlighted-at type="datetime">2013-03-09T21:15:03Z</highlighted-at>
+    <locators>
+      <position type="float">0.6332547068595886</position>
+      <mid>Travel far enough, you meet yourself.</mid>
+      <post>” The door opened, but Madam Ovid’s disdain remained. “Who can argue with Lady Heem-Young?” She o</post>
+      <pre>se ensued. The tiger lily blushed and asked if we had traveled far. Hae-Joo completed the code. “</pre>
+    </locators>
+    <user>
+      <username>chrisbensonpdx</username>
+      <firstname>Chris</firstname>
+      <lastname>Benson</lastname>
+      <country>USA</country>
+      <city>Portland</city>
+      <website nil="true"/>
+      <description nil="true"/>
+      <avatar>assets/avatars/chrisbensonpdx.jpg</avatar>
+    </user>
+    <book>
+      <title>Cloud Atlas</title>
+      <author>David Mitchell</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>christoffer</username>
+        <firstname>Christoffer</firstname>
+        <lastname>Klang</lastname>
+        <country>Sweden</country>
+        <city>Stockholm</city>
+        <website>http://readtracker.com</website>
+        <description>Developing ReadTracker. Mostly reading tech stuff, sci-fi and block-busters.</description>
+        <avatar>assets/avatars/christoffer.jpg</avatar>
+      </like>
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>esahiltunen</username>
+        <firstname>Esa</firstname>
+        <lastname>Hiltunen</lastname>
+        <country>Finland</country>
+        <city>Oulu</city>
+        <website>http://www.esahiltunen.com</website>
+        <description>Senior UX Designer at Polar Electro and an enthusiastic pine-cone collector</description>
+        <avatar>assets/avatars/esahiltunen.jpg</avatar>
+      </like>
+      <like>
+        <username>badpandarecords</username>
+        <firstname>Claudio</firstname>
+        <lastname>Gallo</lastname>
+        <country>Italy</country>
+        <city>Roma</city>
+        <website>http://stereomood.com</website>
+        <description>Digital-music enthusiast. Fascinated by arts, different cultures and people that work hard to do something authentic. Creative Commons Bad Panda Records founder, information/business strategy @ stereomood</description>
+        <avatar>assets/avatars/badpandarecords.jpg</avatar>
+      </like>
+      <like>
+        <username>migueliglesias</username>
+        <firstname>Miguel</firstname>
+        <lastname>Iglesias</lastname>
+        <country>Argentina</country>
+        <city>Buenos Aires</city>
+        <website>http://facebook.com/migueliglesias</website>
+        <description>The power of readers lies not in their ability to gather information, in their ordering and cataloguing capability, but in their gift to interpret, associate and transform their reading.</description>
+        <avatar>assets/avatars/migueliglesias.jpg</avatar>
+      </like>
+      <like>
+        <username>chrisbensonpdx</username>
+        <firstname>Chris</firstname>
+        <lastname>Benson</lastname>
+        <country>USA</country>
+        <city>Portland</city>
+        <website nil="true"/>
+        <description nil="true"/>
+        <avatar>assets/avatars/chrisbensonpdx.jpg</avatar>
+      </like>
+      <like>
+        <username>redmynes</username>
+        <firstname>Izzati</firstname>
+        <lastname>M</lastname>
+        <country>Singapore</country>
+        <city></city>
+        <website>http://douchecalions.tumblr.com</website>
+        <description>Not all those who wander are lost.</description>
+        <avatar>assets/avatars/redmynes.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">1</comments-count>
+    <comments type="array">
+      <comment>
+        <content>This quote is so awesome. Def. goes on my next business card.</content>
+        <posted-at type="datetime">2013-03-15T18:13:40Z</posted-at>
+        <user>
+          <username>henrik</username>
+          <firstname>Henrik</firstname>
+          <lastname>Berggren</lastname>
+          <country>Germany</country>
+          <city>Berlin</city>
+          <website>http://readmill.com</website>
+          <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+          <avatar>assets/avatars/henrik.jpg</avatar>
+        </user>
+      </comment>
+    </comments>
+  </highlight>
+  <highlight>
+    <content>Aesthetics are fleeting, the only things with longevity are ideas.</content>
+    <position type="float">0.277692</position>
+    <highlighted-at type="datetime">2013-03-23T16:17:28Z</highlighted-at>
+    <locators>
+      <position type="float">0.27769237756729126</position>
+      <mid>Aesthetics are fleeting, the only things with longevity are ideas.</mid>
+      <post> Read Bringhurst and one of th</post>
+      <pre>ere and down on the way back. </pre>
+    </locators>
+    <user>
+      <username>ryanessmaker</username>
+      <firstname>Ryan</firstname>
+      <lastname>Essmaker</lastname>
+      <country>USA</country>
+      <city>NYC</city>
+      <website>http://twitter.com/ryanessmaker</website>
+      <description>designer, photographer and musician with a soft spot for film, good typography and all things analog.</description>
+      <avatar>assets/avatars/ryanessmaker.jpg</avatar>
+    </user>
+    <book>
+      <title>Ryan Essmaker's Gazette - Mar 22</title>
+      <author>Gazette</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>A collection of evocative words that establish your brand’s personality, a word bank helps to establish a clear tone and voice. Think of it as a moodboard for words. The words you choose, as Shaw highlights, while functionally similar, are emotionally distinct: Start or begin? Purchase or buy? Complete or finish? Identifying word flavours helps to define tone and voice, and can pave the way towards the development of a brand dictionary, encapsulating the language of your design. Consider two examples: smart and Mercedes-Benz (both, coincidentally, owned by the same parent company, Daimler AG). Both create compact cars, both position themselves differently, thanks in a large part to the words they use.</content>
+    <position type="float">0.46711</position>
+    <highlighted-at type="datetime">2013-06-28T09:13:39Z</highlighted-at>
+    <locators>
+      <position type="float">0.4671098589897156</position>
+      <mid>A collection of evocative words that establish your brand’s personality, a word bank helps to establish a clear tone and voice. Think of it as a moodboard for words. The words you choose, as Shaw highlights, while functionally similar, are emotionally distinct: Start or begin? Purchase or buy? Complete or finish? Identifying word flavours helps to define tone and voice, and can pave the way towards the development of a brand dictionary, encapsulating the language of your design. Consider two examples: smart and Mercedes-Benz (both, coincidentally, owned by the same parent company, Daimler AG). Both create compact cars, both position themselves differently, thanks in a large part to the words they use.</mid>
+      <post> smart defines its proposition</post>
+      <pre> an extended period of time.” </pre>
+    </locators>
+    <user>
+      <username>manikrathee</username>
+      <firstname>Manik</firstname>
+      <lastname>Rathee</lastname>
+      <country>USA</country>
+      <city></city>
+      <website>http://www.manikrathee.com</website>
+      <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+      <avatar>assets/avatars/manikrathee.jpg</avatar>
+    </user>
+    <book>
+      <title>A Pocket Guide to The craft of words</title>
+      <author>The Standardistas</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Oh, here is the rest of my life. It’s finally arrived.</content>
+    <position type="float">0.0859056</position>
+    <highlighted-at type="datetime">2013-10-07T04:52:12Z</highlighted-at>
+    <locators>
+      <position type="float">0.0859056</position>
+      <mid>Oh, here is the rest of my life. It’s finally arrived.</mid>
+      <post> NICK DUNNE THE DAY OF I </post>
+      <rmsdk>
+        <start>Gone_Girl_split_008.html#point(/1/4/48/11:99)</start>
+        <end>Gone_Girl_split_008.html#point(/1/4/48/13:1)</end>
+      </rmsdk>
+      <pre>o fine. That fast. You think: </pre>
+    </locators>
+    <user>
+      <username>bearzooka</username>
+      <firstname>Bernardo</firstname>
+      <lastname>Prieto Curiel</lastname>
+      <country>Mexico</country>
+      <city>Mexico</city>
+      <website>http://eltrisom.com</website>
+      <description></description>
+      <avatar>assets/avatars/bearzooka.jpg</avatar>
+    </user>
+    <book>
+      <title>Gone Girl</title>
+      <author>Gillian Flynn</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>henrik</username>
+        <firstname>Henrik</firstname>
+        <lastname>Berggren</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website>http://readmill.com</website>
+        <description>Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.</description>
+        <avatar>assets/avatars/henrik.jpg</avatar>
+      </like>
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+      <like>
+        <username>emilyphillips</username>
+        <firstname>Emily</firstname>
+        <lastname>Phillips</lastname>
+        <country>Germany</country>
+        <city>Berlin</city>
+        <website></website>
+        <description>waxing poetic at Readmill</description>
+        <avatar>assets/avatars/emilyphillips.jpg</avatar>
+      </like>
+      <like>
+        <username>ashley_park</username>
+        <firstname>Ashley</firstname>
+        <lastname>Park</lastname>
+        <country></country>
+        <city></city>
+        <website></website>
+        <description></description>
+        <avatar>assets/avatars/ashley_park.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>MailChimp’s Voice &amp; Tone is one such resource, and it’s fantastic. It includes examples of how MailChimp gives feedback to users and is also educational, providing explanations of why something should be written in this way.</content>
+    <position type="float">0.196762</position>
+    <highlighted-at type="datetime">2013-11-07T14:53:11Z</highlighted-at>
+    <locators>
+      <position type="float">0.1967624</position>
+      <mid>MailChimp’s Voice &amp; Tone is one such resource, and it’s fantastic. It includes examples of how MailChimp gives feedback to users and is also educational, providing explanations of why something should be written in this way.</mid>
+      <post> Other examples include GOV.UK</post>
+      <rmsdk>
+        <start>OEBPS/6-chapter1.xhtml#point(/1/4/15:2)</start>
+        <end>OEBPS/6-chapter1.xhtml#point(/1/4/16/3:202)</end>
+      </rmsdk>
+      <pre>ut a publication or website. </pre>
+    </locators>
+    <user>
+      <username>dafeld</username>
+      <firstname>Daniel</firstname>
+      <lastname>Feldt</lastname>
+      <country>Sweden</country>
+      <city>Stockholm</city>
+      <website>http://feldt.nu</website>
+      <description>Dancing my way to success.</description>
+      <avatar>assets/avatars/dafeld.jpg</avatar>
+    </user>
+    <book>
+      <title>A Pocket Guide to Front-end Style Guides</title>
+      <author>Anna Debenham</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>Further reading “Front-end Style Guides”, my article on 24 Ways Examples of front-end style guides in the wild, a collection of links on Gimme Bar “CSS Style Guides”, a roundup from Chris Coyier on CSS-Tricks “Responsive Deliverables” by Dave Rupert “Modularity and Style Guides” by David Bushell “Firefox branding”, part of the Mozilla style guide “Writing an Interface Style Guide” by Jina Bolton on A List Apart “Behind the Design: The New Viget”, by Tom Osborne “Easing the Path from Design to Development” by Drew McLellan on 24 ways</content>
+    <position type="float">0.973887</position>
+    <highlighted-at type="datetime">2013-11-16T18:55:36Z</highlighted-at>
+    <locators>
+      <position type="float">0.9738873</position>
+      <mid>Further reading “Front-end Style Guides”, my article on 24 Ways Examples of front-end style guides in the wild, a collection of links on Gimme Bar “CSS Style Guides”, a roundup from Chris Coyier on CSS-Tricks “Responsive Deliverables” by Dave Rupert “Modularity and Style Guides” by David Bushell “Firefox branding”, part of the Mozilla style guide “Writing an Interface Style Guide” by Jina Bolton on A List Apart “Behind the Design: The New Viget”, by Tom Osborne “Easing the Path from Design to Development” by Drew McLellan on 24 ways</mid>
+      <post> </post>
+      <rmsdk>
+        <start>OEBPS/16-resources-open.xhtml#point(/1/4/3:4)</start>
+        <end>OEBPS/16-resources-open.xhtml#point(/1/4/6/19:0)</end>
+      </rmsdk>
+      <pre>ion. Resources </pre>
+    </locators>
+    <user>
+      <username>manikrathee</username>
+      <firstname>Manik</firstname>
+      <lastname>Rathee</lastname>
+      <country>USA</country>
+      <city></city>
+      <website>http://www.manikrathee.com</website>
+      <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+      <avatar>assets/avatars/manikrathee.jpg</avatar>
+    </user>
+    <book>
+      <title>A Pocket Guide to Front-end Style Guides</title>
+      <author>Anna Debenham</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+  <highlight>
+    <content>In addition to nesting rules, you can nest properties that share a namespace in Sass (e.g., font-family, font-size, font-weight, etc.) like so: header[role="banner"] h1 { padding: 15px 0; font: { size: 54px; family: Jubilat, Georgia, serif; weight: bold; } line-height: 1; } That’ll compile to: header[role="banner"] h1 { padding: 15px 0; font-size: 54px; font-family: Jubilat, Georgia, serif; font-weight: bold; line-height: 1; }</content>
+    <position type="float">0.410702</position>
+    <highlighted-at type="datetime">2013-11-17T18:21:20Z</highlighted-at>
+    <locators>
+      <position type="float">0.4107017</position>
+      <mid>In addition to nesting rules, you can nest properties that share a namespace in Sass (e.g., font-family, font-size, font-weight, etc.) like so: header[role="banner"] h1 { padding: 15px 0; font: { size: 54px; family: Jubilat, Georgia, serif; weight: bold; } line-height: 1; } That’ll compile to: header[role="banner"] h1 { padding: 15px 0; font-size: 54px; font-family: Jubilat, Georgia, serif; font-weight: bold; line-height: 1; }</mid>
+      <post> Similarly, there are ma</post>
+      <rmsdk>
+        <start>OEBPS/SFWD-ch03.xhtml#point(/1/4/29:6)</start>
+        <end>OEBPS/SFWD-ch03.xhtml#point(/1/4/36/7:20)</end>
+      </rmsdk>
+      <pre>NG NAMESPACED PROPERTIES </pre>
+    </locators>
+    <user>
+      <username>manikrathee</username>
+      <firstname>Manik</firstname>
+      <lastname>Rathee</lastname>
+      <country>USA</country>
+      <city></city>
+      <website>http://www.manikrathee.com</website>
+      <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+      <avatar>assets/avatars/manikrathee.jpg</avatar>
+    </user>
+    <book>
+      <title>Sass for Web Designers</title>
+      <author>Dan Cederholm</author>
+      <cover nil="true"/>
+    </book>
+    <likes type="array">
+      <like>
+        <username>manikrathee</username>
+        <firstname>Manik</firstname>
+        <lastname>Rathee</lastname>
+        <country>USA</country>
+        <city></city>
+        <website>http://www.manikrathee.com</website>
+        <description>User Experience Engineer &amp; Front-end Developer for President Barack Obama</description>
+        <avatar>assets/avatars/manikrathee.jpg</avatar>
+      </like>
+    </likes>
+    <comments-count type="integer">0</comments-count>
+    <comments type="array"/>
+  </highlight>
+</liked-highlights>

@@ -1,0 +1,874 @@
+# Manik’s highlights from Readmill
+
+## ReWork by Jason Fried and David Heinemeier Hansson
+
+When you build a product or service, you make the call on hundreds of tiny decisions each day. If you’re solving someone else’s problem, you’re constantly stabbing in the dark. When you solve your own problem, the light comes on. You know exactly what the right answer is.
+
+Make a dent in the universe
+
+When you want something bad enough, you make the time—regardless of your other obligations. The truth is most people just don’t want it bad enough. Then they protect their ego with the excuse of time. Don’t let yourself off the hook with excuses. It’s entirely your responsibility to make your dreams come true.
+
+Say no by default If I’d listened to customers,I’d have given them a faster horse. —HENRY FORD It’s so easy to say yes. Yes to another feature, yes to an overly optimistic deadline, yes to a mediocre design. Soon, the stack of things you’ve said yes to grows so tall you can’t even see the things you should really be doing. Start getting into the habit of saying no—even to many of your best ideas. Use the power of no to get your priorities straight. You rarely regret saying no. But you often wind up regretting saying yes.
+
+You want your customers to say, “This makes my life better.”
+
+Anyone who takes a “we’ll figure out how to profit in the future” attitude to business is being ridiculous. That’s like building a rocket ship but starting off by saying, “Let’s pretend gravity doesn’t exist.” A business without a path to profit isn’t a business, it’s a hobby.
+
+Excitement comes from doing something and then letting customers have at it. Planning a menu for a year is boring. Getting the new menu out, serving the food, and getting feedback is exciting. So don’t wait too long—you’ll smother your sparks if you do.
+
+Five years later, Basecamp generates millions of dollars a year in profits.
+
+Long projects zap morale. The longer it takes to develop, the less likely it is to launch. Make the call, make progress, and get something out now—while you’ve got the motivation and momentum to do so.
+
+No one knows who you are right now. And that’s just fine. Being obscure is a great position to be in. Be happy you’re in the shadows. Use this time to make mistakes without the whole world hearing about them. Keep tweaking. Work out the kinks. Test random ideas. Try new things. No one knows you, so it’s no big deal if you mess up. Obscurity helps protect your ego and preserve your confidence.
+
+We have something new to say about building, running, and growing (or not growing) a business.
+Manik Rathee: Something new to say
+
+You don’t make a great museum by putting all the art in the world into a single room. That’s a warehouse. What makes a museum great is the stuff that’s not on the walls. Someone says no. A curator is involved, making conscious decisions about what should stay and what should go. There’s an editing process.
+
+Your day is under siege by interruptions. It’s on you to fight back.
+
+How should you keep track of what customers want? Don’t. Listen, but then forget what people said. Seriously. There’s no need for a spreadsheet, database, or filing system. The requests that really matter are the ones you’ll hear over and over. After a while, you won’t be able to forget them. Your customers will be your memory. They’ll keep reminding you. They’ll show you which things you truly need to worry about.
+
+Think about it this way: If you had to launch your business in two weeks, what would you cut out? Funny how a question like that forces you to focus. You suddenly realize there’s a lot of stuff you don’t need. And what you do need seems obvious. When you impose a deadline, you gain clarity. It’s the best way to get to that gut instinct that tells you, “We don’t need this.”
+
+Workaholics wind up creating more problems than they solve. First off, working like that just isn’t sustainable over time. When the burnout crash comes—and it will—it’ll hit that much harder.
+
+Standing for something isn’t just about writing it down. It’s about believing it and living it.
+
+“That would never work in the real world.” You hear it all the time when you tell people about a fresh idea. This real world sounds like an awfully depressing place to live. It’s a place where new ideas, unfamiliar approaches, and foreign concepts always lose. The only things that win are what people already know and do, even if those things are flawed and inefficient.
+
+At 2 p.m., people are usually in a meeting or answering e-mail or chatting with colleagues. Those taps on the shoulder and little impromptu get-togethers may seem harmless, but they’re actually corrosive to productivity. Interruption is not collaboration, it’s just interruption. And when you’re interrupted, you’re not getting work done.
+
+Maybe you’ve seen this scenario: There’s a customer that’s paying a company a lot of money. The company tries to please that customer in any way possible. It tweaks and changes the product per this one customer’s requests and starts to alienate its general customer base. Then one day that big customer winds up leaving and the company is left holding the bag—and the bag is a product that’s ideally suited to someone who’s not there anymore. And now it’s a bad fit for everyone else. When you stick with your current customers come hell or high water, you wind up cutting yourself off from new ones. Your product or service becomes so tailored to your current customers that it stops appealing to fresh blood. And that’s how your company starts to die.
+
+If you’re constantly staying late and working weekends, it’s not because there’s too much work to be done. It’s because you’re not getting enough done at work. And the reason is interruptions. Think about it: When do you get most of your work done? If you’re like most people, it’s at night or early in the morning. It’s no coincidence that these are the times when nobody else is around.
+
+Unfortunately, copying in the business arena is usually more nefarious. Maybe it’s because of the copy-and-paste world we live in these days. You can steal someone’s words, images, or code instantly. And that means it’s tempting to try to build a business by being a copycat. That’s a formula for failure, though. The problem with this sort of copying is it skips understanding—and understanding is how you grow. You have to understand why something works or why something is the way it is. When you just copy and paste, you miss that. You just repurpose the last layer instead of understanding all the layers underneath.
+
+The real world isn’t a place, it’s an excuse. It’s a justification for not trying.
+
+Great companies start in garages all the time. Yours can too.
+
+It’s entirely your responsibility to make your dreams come true.
+
+Let your customers outgrow you
+
+Vic Firth came up with the idea of making a better drumstick while playing timpani for the Boston Symphony Orchestra. The sticks he could buy commercially didn’t measure up to the job, so he began making and selling drumsticks from his basement at home. Then one day he dropped a bunch of sticks on the floor and heard all the different pitches. That’s when he began to match up sticks by moisture content, weight, density, and pitch so they were identical pairs. The result became his product’s tag line: “the perfect pair.”
+
+After our first product had been around for a while, we started getting some heat from folks who had been with us from the beginning. They said they were starting to grow out of the application. Their businesses were changing and they wanted us to change our product to mirror their newfound complexity and requirements. We said no. Here’s why: We’d rather our customers grow out of our products eventually than never be able to grow into them in the first place.
+
+Evolution doesn’t linger on past failures, it’s always building upon what worked. So should you.
+
+
+## CSS3 for Web Designers by Dan Cederholm
+
+As CSS expert Eric Meyer explains in “Prefix or Posthack” on A List Apart (http://bkaprt.com/css3/2/):3 Prefixes give us control of our hacking destiny. In the past, we had to invent a bunch of parser exploits just to get inconsistent implementations to act the same once we found out they were inconsistent. It was a wholly reactive approach. Prefixes are a proactive approach.
+
+
+## Responsive Web Design by Ethan Marcotte
+
+But there’s always room for improvement—and this rough little prototype is no exception. For example, we could potentially restrict our slideshow to only appear on certain types of displays, making the script resolution dependent. For example, if we wanted to prevent it from loading at all on smaller screens, we could work a simple resolution test into our script: if (screen.width > 480) { $(document).ready(function() { … }); } That opening if statement is the JavaScript equivalent of a min-width: 480px media query: if the screen is narrower than 480 pixels, then the enclosed JavaScript won’t fire (FIG 5.20).
+
+
+## Makers by Cory Doctorow
+
+This is a new artifact designed and executed by five previously out-of-work engineers in Athens, Georgia. They’ve mated a tiny Linux box with some speaker-independent continuous speech recognition software, a free software translation engine that can translate between any of twelve languages, and an extremely high-resolution LCD that blocks out words in the path of the laser-pointer. “Turn this on, point it at a wall, and start talking. Everything said shows up on the wall, in the language of your choosing, regardless of what language the speaker was speaking.”
+
+“What we don’t have is a product. There aren’t enough buyers for batteries or film—or any of the other stuff we make—to occupy or support all that infrastructure. These companies slept through the dot-boom and the dot-bust, trundling along as though none of it mattered. There are parts of these businesses that haven’t changed since the fifties. “We’re not the only ones. Technology has challenged and killed businesses from every sector. Hell, IBM doesn’t make computers anymore! The very idea of a travel agent is inconceivably weird today! And the record labels, oy, the poor, crazy, suicidal, stupid record labels. Don’t get me started.
+
+For “the risk-takers, the doers, the makers of things.”
+
+From: kettlewell-l@skunkworks.kodacell.com To: schurch@sjmercury.com Subject: Re: Embedded journalist? I will never call myself Kettlebelly again. Your pal, Kettledrum.
+
+
+## The Lost Symbol by Dan Brown
+
+Like most teachers, Langdon did not enjoy being lectured to. The Moses above them had horns for the same reason thousands of Christian images of Moses had horns?a mistranslation of the book of Exodus. The original Hebrew text described Moses as having ?karan ?ohr panav? ??facial skin that glowed with rays of light??but when the Roman Catholic Church created the official Latin translation of the Bible, the translator bungled Moses?s description, rendering it as ?cornuta esset facies sua,? meaning ?his face was horned.? From that moment on, artists and sculptors, fearing reprisals if they were not true to the Gospels, began depicting Moses with horns. ?It was a simple mistake,? Langdon replied. ?A mistranslation by Saint Jerome around four hundred A.D.? Bellamy looked impressed. ?Exactly. A mistranslation. And the result is . . . poor Moses is now misshapen for all history.?
+
+AvrahKaDabra?meaning ?I create as I speak
+
+Even the crystalline structure of a newly forming solid was rendered mutable by one?s mind; Katherine had created beautifully symmetrical ice crystals by sending loving thoughts to a glass of water as it froze. Incredibly, the converse was also true: when she sent negative, polluting thoughts to the water, the ice crystals froze in chaotic, fractured forms.
+
+The ?sanctum sanctorum,? as Mal?akh liked to call it, was a perfect twelve-foot square. Twelve are the signsof the zodiac. Twelve are the hours of the day. Twelve are the gates of heaven. In the center of the chamber was a stone table, a seven-by-seven square. Seven are the seals of Revelation. Seven are the steps of theTemple. 
+
+The religion of thefuture, Einstein had predicted, will be a cosmic religion. It will transcend personal God and avoid dogmaand theology.
+
+Human thought can literally transform the physical world. 
+
+The shocking discovery, it seemed, paralleled the ancient spiritual belief in a ?cosmic consciousness??a vast coalescing of human intention that was actually capable of interacting with physical matter. 
+
+Exactly! Langdon had never understood why the very first passages of the Bible referred to God as a plural being. Elohim. The Almighty God in Genesis was described not as One . . . but as Many. ?God is plural,? Katherine whispered, ?because the minds of man are plural.? Langdon?s thoughts were spiraling now . . . dreams, memories, hopes, fears, revelations . . . all swirling above him in the Rotunda dome. As his eyes began to close again, he found himself staring at three words in Latin, painted within the Apotheosis. E PLURIBUS UNUM. ?Out of many, one,? he thought, slipping off into sleep.
+
+The well-trained mind, Galloway thought, hiding a smile. How do you think Jesus healed the sick? ?I realize,? Katherine said, ?that modern medicine ridicules healers and shamans, but I saw this with my own eyes. My CCD cameras clearly photographed this man transmitting a massive energy field from his fingertips . . . and literally changing the cellular makeup of his patient. If that?s not godlike power, then I don?t know what is.?
+
+The George Washington Masonic Memorial stands atop Shuter?s Hill in Alexandria, Virginia. Built in three distinct tiers of increasing architectural complexity from bottom to top?Doric, Ionic, and Corinthian?the structure stands as a physical symbol of man?s intellectual ascent. Inspired by the ancient Pharos lighthouse of Alexandria, Egypt, this soaring tower is capped by an Egyptian pyramid with a flamelike finial.
+
+A wise man once told me,? Peter said, his voice faint now, ?the only difference between you and God is that you have forgotten you are divine.?
+
+Because most Christians want it both ways. They want to be able to proudly declare they are believers in the Bible and yet simply ignore those parts they find too difficult or too inconvenient to believe.
+
+The idea of ?order from chaos? was one of the great Masonic axioms. Ordo abchao
+
+Sin-cere. Since the days of Michelangelo, sculptors had been hiding the flaws in their work by smearing hot wax into the cracks and then dabbing the wax with stone dust. The method was considered cheating, and therefore, any sculpture ?without wax??literally sine cera?was considered a ?sincere? piece of art. The phrase stuck. To this day we still sign our letters ?sincerely? as a promise that we have written ?without wax? and that our words are true.
+
+In 2001, in the hours following the horrifying events of September 11, the field of Noetic Science made a quantum leap forward. Four scientists discovered that as the frightened world came together and focused in shared grief on this single tragedy, the outputs of thirty-seven different Random Event Generators around the world suddenly became significantly less random. Somehow, the oneness of this shared experience, the coalescing of millions of minds, had affected the randomizing function of these machines, organizing their outputs and bringing order from chaos.
+
+You?re preaching to the choir, Langdon thought, having learned the lesson firsthand in Paris a number of years back. SanGreal: Holy Grail. SangReal: Royal Blood.
+
+?Then don?t think of it as faith. Think of it simply as changing your perspective, accepting that the world is not precisely as you imagine. Historically, every major scientific breakthrough began with a simple idea that threatened to overturn all of our beliefs. The simple statement ?the earth is round? was mocked as utterly impossible because most people believed the oceans would flow off the planet. Heliocentricity was called heresy. Small minds have always lashed out at what they don?t understand. There are those who create . . . and those who tear down. That dynamic has existed for all time. But eventually the creators find believers, and the number of believers reaches a critical mass, and suddenly the world becomes round, or the solar system becomes heliocentric. Perception is transformed, and a new reality is born.?
+
+
+## Mobile First by Luke Wroblewski
+
+There are, however, ways to mitigate things so that labels within input fields work better. The mobile sign-in screen for the project management application Basecamp keeps labels within input fields visible until someone actually begins to enter an answer. (This requires some development work as it currently isn’t default web browser behavior.) Basecamp also makes a stronger visual distinction between answers and labels so the two are less likely to be confused (fig 6.3). Fig 6.3: 37signal’s Basecamp has put in some extra work to make labels within input fields better in their sign-in form. 
+
+And Kevin Lynch, Adobe’s CTO, states: “We really need to shift to think about mobile first....This is a bigger shift than we saw with the personal computing revolution,” (http://bkaprt.com/mf/3).
+
+For starters, several new HTML5 input types can help people accurately answer questions that require a specific format. On a mobile browser like Safari, specifying an input of type url brings up a virtual alphanumeric keyboard with “.”, “/”, and “.com” keys. Specifying an input of type email brings up a virtual alphanumeric keyboard with “.” and “@” keys. And specifying an input of type number brings up a virtual numeric keyboard (fig 6.10). 
+
+After all, over four billion text messages were sent per day in the United States in 2010—many of them through painful feature phone keypads. Clearly people want to message each other using their mobiles—a lot. And they are willing to endure hardship to do it.
+
+Most importantly, though, we need to stop assuming that people won’t do things just because they are on their mobile devices. After all, someone bought a $265,000 plane using eBay’s iPhone app (http://bkaprt.com/mf/48, http://bkaprt.com/mf/49)!
+Henrik Berggren: Haha, crazy!
+
+At this point we’ve talked about reasons for designing and developing web experiences for mobile first. A mobile first approach: Prepares you for the explosive growth and new opportunities emerging on mobile today. Forces you to focus and prioritize your products by embracing the constraints inherent in mobile design. Allows you to deliver innovative experiences by building on new capabilities native to mobile devices.
+
+Here’s the elevator pitch: designing for mobile first not only prepares you for the explosive growth and new opportunities on the mobile internet, it forces you to focus and enables you to innovate in ways you previously couldn’t
+
+ Fig 5.6: While holding a touch screen phone with only your right hand, it’s easy to hit the dark green area and a stretch to tap the yellow area with your thumb. 
+
+did you know that 16% of new Twitter users in a five-month period during 2010 signed up through mobile (http://bkaprt.com/mf/25)? And 40% of all tweets come from a mobile device (http://bkaprt.com/mf/50)? Still don’t think input on mobile matters?
+
+If you design for mobile first, you can create agreement up front on what matters most. You can then apply the same rationale to the desktop (and any other) experience of your web product. If you can agree on the most important set of features and content for your customers and business, why should that prioritization change with more screen space?
+
+This book is really just a small, simple idea. But like many other simple ideas before it, this idea has deep and far-reaching implications. It changes how we define the personal computer and how we use the web. While that’s a very big deal, it can be boiled down to how we get started.
+
+To illustrate, let’s imagine we need someone to provide his or her email address at me.com. We can use an input mask to “mask” or cover over anything that isn’t part of the format we require. In this case, the email address we collect has to end in “@me.com” so we can mask any characters that are entered after the “@” to make sure a me.com email address is provided.
+
+Traffic to mobile websites in 2010 grew 600% after tripling between 2009 and 2010 (http://bkaprt.com/mf/7).
+
+
+## Designing for Emotion by Aarron Walter
+
+Emotional engagement can help us look past even the most serious infractions, leaving the good more prominent in our mind than the bad. Psychologists call this phenomenon of positive recollection the rosy effect. As time passes, memories of inconveniences and transgressions fade, leaving only positive memories to shape our perceptions.
+
+The inspiration for our color palette came from our competitors. It was really depressing to see so much software designed to remind people they’re making databases in a windowless office, and so we immediately knew we wanted to go in the opposite direction.
+
+MailChimp uses contractions like “don’t” instead of “do not” because that’s how real humans speak to one another. MailChimp uses sound effects like, “hmmmmm....” to make it sound like you’re thinking hard, or “Blech, that’s awful!” to communicate empathy. Lowercase form and button text reinforce the brand’s informality.
+
+Emotional design’s primary goal is to facilitate human-to-human communication.
+
+We perceive contrast in a couple of ways: Visual contrast: difference in shape, color, form, etc. Cognitive contrast: difference in experiences or memories
+
+Ask your users open-ended questions that will give you the insights you seek. You might ask things like: Describe your initial reactions to the website. How does the website make you feel? If this website were a person, who would it be and why? Would you recommend this site to a friend? Why or why not? Are there site sections or features that are more important to you than others? Less important? Why?
+
+As we experimented with the greetings, we introduced some that referenced specific user traits. We were hoping, like a Vegas casino boss playing the odds, that sooner or later a targeted greeting would land on just the right person, and the influence would intensify. One greeting commented on the user’s haircut, which drew some mystified tweets when we displayed it at just the right time (fig 4.10).
+
+Photo cropping shapes the audience’s emotional perspective. The face-ism ratio design principle states that photographs cropped tight to the subject’s face encourage an emotional response from the viewer, while emphasizing the personality of the subject. Wider subject cropping emphasizes the physical appearance of the subject. 
+
+These letters put a human face on the Wufoo brand. Their surprise arrival triggers a warm response from recipients who feel special in the eyes of the people at Wufoo. That feeling in turn triggers one consistent behavior—a web-wide broadcast to anyone who will listen. Though not meant as a marketing ploy, these letters steadily stream through Twitter, Facebook, and Flickr, making a lasting impression on people who are not yet customers, but who are much more likely to become customers because of the personal attention they see their friends receiving.
+
+Once your files are in Dropbox, and you’ve shared them with friends, the cost of canceling is higher than continuing to use the service. Call it bribery, call it game theory. The result is the same. Users feel a sense of accomplishment when they’ve completed the required tasks (fig 5.4), and with more free space, they’re excited to drop more stuff into Dropbox.
+
+While big-box stores proliferate disposable mass-market goods, websites like Etsy and Kickstarter are empowering artists, craftspeople, and DIY inventors who sell goods they’ve designed and created. And their customers love the experience. When you buy from an independent craftsman, you support creative thinking and families (not corporations), and you gain the opportunity to live with an object that has a story. That feels good.
+
+When rewards like the funny little greetings arrive on a regular schedule, with varying degrees of delight, it inspires curiosity in people to see what the next reward will be. Maybe the next one will be really great? I’ve got to go see! This is a psychological phenomenon called variable rewards. 
+
+There was no way for us to know when this greeting would be most appropriate, but that’s not Kate’s perception. Because this greeting so perfectly coincided with her real life, it seemed to Kate that a real person was sitting behind the scenes talking to her directly. In this situation, the application had transformed from a mindless block of code into a living, breathing personality able to forge a human connection. To Kate, it felt like real human-to-human communication.
+
+I’ll be honest with you: on principle, I was opposed to creating party pooper mode to appease occasional complaints. It felt like we were giving up the thing that made us most unique to be everything to everyone. Though my reservations came from the right place, my concerns about how it would change our brand were wrong. After party pooper mode had been out for over a year, we wondered how many of our users actually turned it on. I was half scared to find out, because if it were a majority, it would be a referendum on the design persona we had painstakingly constructed. As it turns out, only 0.007% of users actually turn on party pooper mode. What we learned is that even though there are a few vocal party poopers who don’t get the MailChimp brand, there are far more people who do get it and love the moments of joy the application brings. In my opinion, that’s well worth a little risk
+
+Saying “you may” instead of “you must” Twitter did something particularly interesting with the release. Rather than simply forcing people to switch to the new interface when they were selected, they gave everyone the option to stick with the old design if they wanted to. Giving users the power to choose changes the tone of their response. When forced to change, people often react negatively. Allow people to change on their own schedule, and you empower them, diffusing animosity. We’d all rather hear “You may...” instead of 
+
+We’re not just designing pages. We’re designing human experiences. Like the visionaries of the Arts and Crafts movement, we know that preserving the human touch and showing ourselves in our work isn’t optional: it’s essential.
+
+Have you ever noticed that hearing your favorite song on the radio seems so much more enjoyable than when you play it yourself? Surprise amplifies our emotional response. When we anticipate a moment, the emotional response is diluted across time. A moment of surprise compresses emotion into a split second, making our reaction more intense, and creating a strong imprint on our memory
+Manik Rathee: Simple logic, brilliant implications.
+
+We want our work to stand out from the rest. We want people to have such a great experience that they feel the need to talk about it to everyone. We want what we make to be remarkable.
+
+If people complain about how your product, service, or brand are unlike your competitors’, then you’re doing something right (so long as they’re not complaining about service quality, reliability, etc.). The people who don’t understand you will come around as the passion for your brand increases. Certain people just need others’ validation before they can fall in love with a product or service.
+
+
+## The 4-Hour Body An Uncommon Guide to Rapid Fat-Loss, Incredible Sex, and Becoming Superhuman by Timothy Ferriss
+
+To remove stored fat → do the least necessary to trigger a fat-loss cascade of specific hormones. To add muscle in small or large quantities → do the least necessary to trigger local (specific muscles) and systemic (hormonal2) growth mechanisms.
+
+I should say that he was 245 pounds. In his first two weeks on the Slow-Carb Diet, he lost 10 pounds and, perhaps more impressive, racked up incredibly unimpressive costs: Total per-week food cost: $37.70 Average per-meal cost: $1.34 And this was including organic grass-fed beef! If he’d eaten a big salad three times a week instead of a few proteins, his weekly cost would have been $31.70. He repeated four meals: BREAKFAST: Egg whites, one whole egg, mixed vegetables, chicken breast LUNCH: Mixed vegetables, peas, spinach (salad) SECOND LUNCH: Chicken thigh, black beans, mixed vegtables DINNER: Beef (or pork), asparagus, pinto beans
+
+. Is it possible that the arrow of causality is reversed? Example: do people who are naturally ripped and muscular often choose to be sprinters? Yep. 2. Are we mixing up absence and presence? Example: if the claim is that a no-meat diet extends average lifespan 5–15%, is it possible that it is the presence of more vegetables, not the absence of meat, that extends lifespan? It most certainly is. 3. Is it possible that you tested a specific demographic and that other variables are responsible for the difference? Example: if the claim is that yoga improves cardiac health, and the experimental group comprises upper-class folk, is it possible that they are therefore more likely than a control group to eat better food? You bet your downward-dog-posing ass. 
+
+The Slow-Carb Diet— Better Fat-Loss Through Simplicity It is possible to lose 20 pounds of bodyfat in 30 days by optimizing any of three factors: exercise, diet, or a drug/supplement regimen. Twenty pounds for most people means moving down at least two clothing sizes, whether that’s going from a size 14 dress to a size 10 or from an XXL shirt to a large. The waist and hips show an even more dramatic reduction in circumference. By April 6, 2007, as an example, I had cut from nearly 180 pounds to 165 pounds in six weeks, while adding about 10 pounds of muscle, which means I lost approximately 25 pounds of fat. The changes aren’t subtle.
+
+I suggest potassium, magnesium, and calcium. This diet will cause you to lose excess water, and electrolytes can go along with it. Potassium can be consumed during meals by using a potassium- enriched salt like “Lite Salt” or, my preference, eating extra guacamole with Mexican meals. Avocadoes, the main ingredient in guacamole, contain 60% more potassium than bananas. Avocadoes also contain 75% insoluble fiber, which will help keep you regular. If you prefer pills, 99-milligram tablets with meals will do the trick. Magnesium and calcium are easiest to consume in pill form, and 500 milligrams of magnesium taken prior to bed will also improve sleep.
+
+Broccoli Green beans Eat as much as you like of the above food items, but keep it simple. Pick three or four meals and repeat them. Almost all restaurants can give you a salad or vegetables in place of french fries, potatoes, or rice. Surprisingly, I have found Mexican food (after swapping out rice for vegetables) to be one of the cuisines most conducive to the Slow-Carb Diet. If you have to pay an extra $1–3 to substitute at a restaurant, consider it your six-pack tax, the nominal fee you pay to be lean. Most people who go on “low”-carbohydrate diets complain of low energy and quit because they consume insufficient calories. A half-cup of rice is 300 calories, whereas a half-cup of spinach is 15 calories! Vegetables are not calorically dense, so it is critical that you add legumes for caloric load.
+
+If you want a more typical breakfast, try eggs with turkey bacon (or organic normal bacon)4 and sliced tomato. Delicious. Cottage cheese, my mother’s preference, is also a fine addition. Have you ever cooked eggs with ghee (clarified butter)? Try it and thank me.
+
+. If you need 15 minutes in the sun to trigger a melanin response, 15 minutes is your MED for tanning. More than 15 minutes is redundant and will just result in burning and a forced break from the beach. During this forced break from the beach, let’s assume one week, someone else who heeded his natural 15-minute MED will be able to fit in four more tanning sessions. He is four shades darker, whereas you have returned to your pale pre-beach self. Sad little manatee. In biological systems, exceeding your MED can freeze progress for weeks, even months.
+
+Mix and match from the following list, constructing each meal with one pick from each of the three groups. I’ve starred the choices that produce the fastest fat-loss for me: Proteins *Egg whites with 1–2 whole eggs for flavor (or, if organic, 2–5 whole eggs, including yolks) *Chicken breast or thigh *Beef (preferably grass-fed) *Fish Pork Legumes *Lentils (also called “dal” or “daal”) *Black beans Pinto beans Red beans Soybeans Vegetables *Spinach *Mixed vegetables (including broccoli, cauliflower, or any other cruciferous vegetables) *Sauerkraut, kimchee (full explanation of these later in “Damage Control”) Asparagus Peas
+
+It is important to spike caloric intake once per week. This causes a host of hormonal changes that improve fat-loss, from increasing cAMP and GMP to improving conversion of the T4 thyroid hormone to the more active T3.
+
+Even people who aren’t geniuses can outthink the rest of mankind if they develop certain thinking habits.
+
+1. Do I really look like that in underwear? Take digital photos of yourself from the front, back, and side. Wear either underwear or a bathing suit. Not eager to ask a neighbor for a favor? Use a camera with a timer or a computer webcam like the Mac iSight. Put the least flattering “before” photo somewhere you will see it often: the refrigerator, bathroom mirror, dog’s forehead, etc. 2. Do I really eat that? Use a digital camera or camera phone to take photographs of everything you eat for 3–5 days, preferably including at least one weekend day. For sizing, put your hand next to each item or plate in the photographs. For maximum effect, put these photos online for others to see. 3. Who can I get to do this with me? Find at least one person to engage in a friendly competition using either total inches (TI) or bodyfat percentage. Weight is a poor substitute but another option. Use competitive drive, guilt, and fear of humiliation to your advantage. Embrace the stick. The carrot is overrated.
+
+I do egg-whites, Lentils, and broccoli in the A.M., a burrito bowl (chicken, black beans, veggies) for lunch, then chicken, lentils and assorted veggies for dinner. All followed with some delicious red wine before bed. 
+
+
+## Scalable and Modular Architecture for CSS by Jonathan Snook
+
+For State rules, I like is- as in is-hidden or is-collapsed. This helps describe things in a very readable way.
+
+I highly recommended that you specify a body background. Some users may define their own background as something other than white. If you work off the expectation that the background will be white, your design may look broken. Worse, your font colour choice may clash with the user’s setting and make your site unusable.
+
+
+## A Practical Guide to Designing with Data. by Brian Suda
+
+The golden ratio is a specific ratio between two lines of unequal length. The ratio is golden when you get the same value dividing the smaller into the larger as you do when you divide the larger into the sum of both. The equation is: a/b = (a+b)/a 
+
+The amount of information rendered in a single financial graph is easily equivalent to thousands of words of text or a page-sized table of raw values.
+
+The sequence of Fibonacci numbers is: 1, 1, 2, 3, 5, 8, 13, 21, 34 ...and it continues infinitely. The sequence is built by starting with 1 and adding 1 to it, giving the result 2. We then take that answer and add it to the previous value, in this case 1. 1 + 2 = 3. The process is repeated so that 2 + 3 = 5, 3 + 5 = 8 and so on: 1 + 1 = 2 1 + 2 = 3 2 + 3 = 5 3 + 5 = 8 5 + 8 = 13 8 + 13 = 21 13 + 21 = 34 The sequence isn’t intrinsically interesting, but it’s easy to remember. The useful part begins when you divide one Fibonacci number by the preceding Fibonacci number. Doing so results in an approximation of the golden ratio (1.618). 1/1 = 1 2/1 = 2 3/2 = 1.5 5/3 = 1.666 8/5 = 1.6 13/8 = 1.625
+
+The golden ratio is often expressed as the value 1.618, but it is actually infinite. In ordinary use, this means that for every single unit of height, you need 1.618 units of width.
+
+
+## Designing with Web Standards (3rd Edition) by Jeffrey Zeldman, Ethan Marcotte
+
+As this book goes to press, Firefox only supports the Ogg codec (www.xiph.org/downloads). No matter! You can find Ogg music files for Firefox via www.vorbis.com/music_links.
+
+If you attain WCAG 1.0 or WCAG 2.0 Priority 2 accessibility, you will also automatically achieve Section 508 compliance. Of course, if you prefer to work directly to the Section 508 guidelines, you certainly can. Like we said at the top, pick a standard, and begin applying it.
+Manik Rathee: Section 508 & WCAG
+
+Myth: A Text-Only Version Satisfies the Requirement for Equal or Equivalent Access Not true. Adaptive technology has come a long way, and almost anything on a conventional web page can be made fully or at least partially accessible, with no visible alteration to your layout. (Remember: the work takes place under the hood.) Shuttling disabled visitors off to a text-only site assumes that the color blind can’t see at all, or that those who have limited mobility have no use for images. It also assumes that these users have no interest in shopping on your commerce site or participating in an online discussion forum. In short, the outdated text-only approach helps no one. Not only that, creating and maintaining text-only pages costs far more (and is far less reliable) than simply adding assistive tags and attributes to your site.
+
+The fourth value, however, is the interesting bit, allowing the user to set the color’s alpha channel, specifying the transparency of the color. This value can range from 0.0 (completely transparent) to 1.0, which is fully opaque. Miner has used this fourth value to subtle yet stunning effect, setting his site’s font color to rgb(30, 40, 30) (again, that’s #1E281E for you hex-heads), but screened at 90% transparency (0.9). As a result, his text will automatically maintain its pleasing contrast if he ever changes his body’s background
+
+The 62.5% Solution In 2004, developer Richard Rutter gave the world a 62.5% solution to the problem of the complex math inherent in em-based design (www.clagnut.com/blog/348). 62.5% of the 16px default size is 10px. Set the body to 62.5% and the rest of the math is easy (because it’s based on 10): body { font-size: 62.5%; } p { font-size: 1.2em; line-height: 1.5; } h1 { font-size: 2.4em; } In the example above, p text is 12px tall (1.2 x 10px), its line-height is 15px (1.5 x 10px), and h1 headline text is 24px (2.5 x 10px). Easy-peasy! Using Rutter’s method, you can attain near-pixel-perfect control without running afoul of IE’s unwillingness to scale pixels. Web designers were quick to seize on Rutter’s brilliant idea, and it has become a best practice.
+Manik Rathee: Em, em, em
+
+
+## The Ultimate Hitchhiker's Guide - All Six Books by Douglas Adams
+
+"But look, you found the notice didn't you?""Yes," said Arthur, "yes I did. It was on display in the bottom of a locked filing cabinet stuck in a disused lavatory with a sign on the door saying Beware of the Leopard."
+
+Curiously enough, though he didn't know it, he was also a direct male-line descendant of Genghis Khan, though intervening generations and racial mixing had so juggled his genes that he had no discernible Mongoloid characteristics, and the only vestiges left in Mr. L Prosser of his mighty ancestry were a pronounced stoutness about the tum and a predilection for little fur hats.
+
+Orbiting this at a distance of roughly ninety-two million miles is an utterly insignificant little blue green planet whose ape-descended life forms are so amazingly primitive that they still think digital watches are a pretty neat idea.
+
+The bulldozer outside the kitchen window was quite a big one.He stared at it."Yellow," he thought and stomped off back to his bedroom to get dressed.
+
+The man next to ford grinned and nodded happily. Ford ignored him. He said, "Time is an illusion. Lunchtime doubly so."
+
+The idea for the title first cropped up while I was lying drunk in a field in Innsbruck, Austria, in 1971. Not particularly drunk, just the sort of drunk you get when you have a couple of stiff Gössers after not having eaten for two days straight, on account of being a penniless hitchhiker. We are talking of a mild inability to stand up.
+Manik Rathee: I love how Adams writes.
+
+
+## The Lean Startup by Eric Ries
+
+recently, “I know for me, the MVP feels a little dangerous—in a good way—since I have always been such a perfectionist.”
+
+Path took an unusual approach. For example, it limited the number of connections to fifty, based on brain research by the anthropologist Robin Dunbar at Oxford. His research suggests that fifty is roughly the number of personal relationships in any person’s life at any given time.
+
+And what it does is develop entrepreneurs, because when you have only one test, you don’t have entrepreneurs, you have politicians, because you have to sell. Out of a hundred good ideas, you’ve got to sell your idea. So you build up a society of politicians and salespeople. When you have five hundred tests you’re running, then everybody’s ideas can run. And then you create entrepreneurs who run and learn and can retest and relearn as opposed to a society of politicians.
+
+I recommend that every startup have a regular “pivot or persevere” meeting. In my experience, less than a few weeks between meetings is too often and more than a few months is too infrequent. However, each startup needs to find its own pace.
+Manik Rathee: Pivot or Persevere
+
+1. A new release disabled a feature for customers. Why? Because a particular server failed. 2. Why did the server fail? Because an obscure subsystem was used in the wrong way. 3. Why was it used in the wrong way? The engineer who used it didn’t know how to use it properly. 4. Why didn’t he know? Because he was never trained. 5. Why wasn’t he trained? Because his manager doesn’t believe in training new engineers because he and his team are “too busy.
+
+If Zappos had relied on existing market research or conducted a survey, it could have asked what customers thought they wanted. By building a product instead, albeit a simple one, the company learned much more: 1. It had more accurate data about customer demand because it was observing real customer behavior, not asking hypothetical questions. 2. It put itself in a position to interact with real customers and learn about their needs. For example, the business plan might call for discounted pricing, but how are customer perceptions of the product affected by the discounting strategy? 3. It allowed itself to be surprised when customers behaved in unexpected ways, revealing information Zappos might not have known to ask about. For example, what if customers returned the shoes?
+
+When in doubt, simplify.
+
+
+## Developing Backbone.js Applications by Addy Osmani
+
+If you want to receive a notification when a Backbone model changes you can bind a listener to the model for its change event. A convenient place to add listeners is in the initialize() function as shown below:var Todo = Backbone.Model.extend({ // Default todo attribute values defaults: { title: '', completed: false }, initialize: function(){ console.log('This model has been initialized.'); this.on('change', function(){ console.log('- Values for this model have changed.'); }); } });
+
+You may also use double curly brackets (i.e {{}}) (or any other tag you feel comfortable with) in Microtemplates. In the case of curly brackets, this can be done by setting the Underscore templateSettings attribute as follows:_.templateSettings = { interpolate : /\{\{(.+?)\}\}/g };
+
+A typical server-side MVC implementation implements the Front Controller design pattern. This pattern layers an MVC stack behind a single point of entry. This single point of entry means that all HTTP requests (e.g., http://www.example.com, http://www.example.com/whichever-page/, etc.) are routed by the server’s configuration to the same handler, independent of the URI
+
+
+## User Experince Design by SMASHING MAGAZINE
+
+We’re supposed to delight our users, even provide them with magic, so that they love our websites, apps and start-ups
+
+Users are different. Some are able to easily use a website to perform their task. Other simply are not. The stimulation that a product provides depends on the individual user’s experience with similar products. Users compare websites and have different expectations. Furthermore, they have different goals, and so they use what you have made in different modes.
+
+The Pareto principle, also known as the 80-20 rule, states that 80% of the available resources are typically used by 20% of the operations. It has been suggested, therefore, that in traditional usability engineering, features should have to fight to be included, because the vast majority of them are rarely used anyway.
+
+
+## Practical Guide to Designing the Invisible by Robert Mills
+
+Semiotics is the study of how meaning is socially produced through various languages or codes such as colour, gesture and photography.”
+
+
+## Design Is a Job by Mike Monteiro
+
+The myth of the magical creative is alive and well, and it’s powerful. It’s equally perpetuated by designers and those who work with them. And it’s destructive, reducing a designer’s job to pixel-pusher, prettifier, and someone who feels their way to success. A magical creative is expected to succeed based on instinct, rolling the dice every time, rather than on a methodical process that can be repeated time and time again.
+
+Optimally, a client shows up and says, “We have a good sense for our problem, we’re not tied to any particular solution, and we’re looking forward to working together to come up with one using our collective expertise.” And then we all take off on our unicorns
+
+So host the occasional party, buy the occasional ad in a conference brochure. Be visible in places where clients look
+
+So I wrote you a book. It has a spine and by the time you’re done reading so will you.
+
+
+## The Perks of Being a Wallflower by Stephen Chbosky
+
+"How about your favorite book?" " This Side of Paradise by From. Scott Fitzgerald." "Why?" "Because it was the last one I read."
+
+And I wonder if anyone is really happy. I hope they are. I really hope they are.
+
+"Charlie, we accept the love we think we deserve."
+
+"I feel infinite."
+
+"Are you seeing anything, Charlie?" "Light." "Does it feel good?" "Uh-huh." "Are you thirsty?" "Uh-huh." "What would you like to drink?" "A milkshake." And everyone in the room, except Sam, erupted in laughter.
+
+Oh, incidentally, my sister asked for her "Autumn Leaves" mix tape back. She listens to it all the time now. 
+
+After that, I couldn't believe that Sam actually got me a present because I honestly thought that the "I love you" was it. But she did get me a present. And for the first time, something nice like that made me smile and not cry. I guess Sam and Patrick went to the same thrift store because their gifts went together. She took me to her room and stood me in front of her dresser, which was covered in a pillowcase with pretty colors. She lifted off the pillowcase, and there I was, standing in my old suit, looking at an old typewriter with a fresh ribbon. Inside the typewriter was a piece of white paper. On that piece of white paper, Sam wrote, "Write about me sometime." And I typed something back to her, standing right there in her bedroom. I just typed. "I will." 
+
+She just looked at me and shook her head. Then, she put her arm around my shoulder and walked me down the hallway. We met Patrick outside because they didn't like to go to class sometimes. They preferred to smoke.
+
+
+## Practical Guide to Web App Success by Dan Zambonini
+
+Your hierarchy can be steered by the compositional grid. For example, if the important element of your app is a 320 pixels high chart you may decide to break this down into 20 units of 16 pixels each. These could form the baseline of your body text: the line spacing. If you use the 140% suggestion to set your text and line spacing, your body text size could be calculated as 16÷1.4 = 11px. All other components of the typography hierarchy should also align to the 16-pixel baseline grid: for example, a 24-pixel heading with 32 pixels line spacing. 
+
+“It’s[existingproductorservicename]for[audienceormarket].” For example, “It’s email for children”, or “It’s iTunes for interior designers” “It makes [task] [comparative].” For example, “It makes waiting in line quicker”, or “It makes donating to charity more rewarding”
+
+http://html5boilerplate.com/ 20 http://meyerweb.com/eric/tools/css/reset/ 21 http://developer.yahoo.com/yui/base/ 22 http://developer.yahoo.com/yui/reset/ 23 http://necolas.github.com/normalize.css/ 24 http://960.gs/ 25 http://1kbgrid.com/ 26 http://developer.yahoo.com/yui/grids/ 27 http://www.blueprintcss.org/ 28 http://lesscss.org/ 29 http://sass-lang.com/ 30 http://compass-style.org/ 31 http://compass.handlino.com/ 32 http://jquery.com/ 33 http://trends.builtwith.com/javascript/JQuery 34 http://plugins.jquery.com/
+
+User lifecycle Map out the six phases of how the persona engages with the app: Awareness: how do they find out about it? Understanding: how do they understand what it does for them? Trying: how do they get to try it? Using: how do they use it? Valuing: how and why do they value it? Advocating: how do they promote it?
+
+The 960 Grid System24 defines a 960 pixels-wide grid with 12 or 16 columns; the 1Kb CSS Grid25 and Yahoo! Grids CSS26 are more configurable in width and number of columns.
+
+
+## Responsive Navigation by cole007
+
+ But hey. He’s the President.
+
+Postscript: To slide his content to the right and reveal his navigation, Barack Obama’s site uses the President’s own, unique icon. 
+Manik Rathee: "but hey, he's the President"
+
+
+## Insites: The Book by Viewport Industries
+
+I don’t micro-manage. If you’ve got someone like Jason Santa Maria working for you, you don’t need to breathe down his neck and tell him how to design a page. I think a lot of it for me is just finding people who are better than ￼me at everything that I do, and then delegating to them.
+
+find a voice and a passion, and establish yourself not just as a designer, but as someone who’s a design leader.
+
+It’s always been nice when you get hired to do a job that you don’t know how to complete because that’s the only way we’ll be able to stay relevant. Technologies change and if you don’t keep learning, one day you’re going to be left behind.
+Manik Rathee: So true. 
+
+My motto is: ‘if you have any fear or regrets, there’s something wrong with the way you’re living your life.’ So I don’t regret anything, and if I do, it’s my own fault and I can fix it myself.
+
+
+## The Shape of Design by Frank Chimero
+
+Finally, he got to the last page and asked the woman on the line to hold for a moment. He held the phone to his chest, looked at me, and simply said, “Needs more love.” He pushed the portfolio back across his desk, smiled warmly, and shooed me out of his office.
+
+“Who ever said that pleasure wasn’t functional?” CHARLES EAMES 
+
+But the threat of a cliff is the cost of the pasture. The world swells, pivots, and grows when we close the gaps of our untruths. A willingness to imagine things differently and suspend our disbelief for one another are the interfaces we create to shape the world.
+
+Quality may be elusive, but stupidity is always easily accessible; absurdity is fine, maybe even desired.
+
+Design gains value as it moves from hand to hand; context to context; need to need
+
+We are told that there was a big bang at the beginning of time that created the universe, but this turns creation into a spectacle. I’m skeptical of showmanship
+
+Craft is a love letter from the work’s maker, and here in my hands is that note enveloped in stone.
+
+ a balanced conversation about these middle rungs leads to a transfer of knowledge that can spread past the lines that divide the many creative disciplines. The musician may learn from the actor, who constantly ruminates about the finer details of drama and performance. The actor can learn from the painter about the emotive power of facial expressions. The painter from the designer, about the potential of juxtaposing images 
+
+The only way forward is through something we’ve never done, so we run full speed into the great imagined unknown to make this world for one another.
+
+If I can’t get out of the studio and into the city, I’ve taken to letting my hand wander on a pad of paper by drawing spindly, loopy, mindless marks. I make the sorts of drawings people produce on the backs of envelopes while on hold with the gas company. There is no subject, just as a good walk has no destination; their purpose is movement. My pencil cuts across the paper like a figure skater zipping around her rink, overlapping, skipping, and spinning. The skater ignores the mark that comes in the wake of her movement, and I do the same. This drawing isn’t aesthetic, it is kinetic  –  more like dancing than drawing.
+
+It’s easy to think that the way to improve life is to iterate on the things that we already have, but that is a trap of limited imagination. We should be iterating on how we answer our needs, and not necessarily on the way our old solutions have taken shape. The root of our practice is located in the usefulness of the work, not the form that it takes.
+
+We typically describe someone’s talent by saying they have a gift for it, as if their eye for color or perfect pitch were blessings imbued from someone somewhere else. In our best, most creative moments, it feels as if we are hardly doing the work ourselves, achieving a sense of flow where time disappears, improvising becomes easy, and decisions seem instinctual, like some unknown force is guiding our steps
+
+Stop and look around you. How much of your environment is created? How many things that surround you are designed by someone? From the wheat-pasted posters on the street, to the octagonal stop signs on the road; the overstuffed arms of the sofa where you sit, to the milky consistency of the page on which these words are printed, or maybe even the bezel of the device on which you’re reading this. All of these choices are designed, and they all coalesce into the experience of this moment.
+
+Certain advancements seem logical and inevitable  –  smaller cellphones, faster computers, more reliable medical technology  –  while others seem to come out of nowhere. Turning avocado into caviar, for example, is not a logical conclusion in the kitchen. That choice is an inspired one. You can always spot these brilliant inventions as instances of magic, because our reaction, much like Achatz’s first meal at elBulli, is always disbelief.
+Manik Rathee: Genius.
+
+Henry Ford famously said that if he had asked his customers what they wanted, they would have said a faster horse. Of course, we know that the faster horse is a testament to the limited imagination of customers, but I’d suggest that it’s more representational of not reassessing the objectives of the work in light of new opportunities. The faster horse is a recombination of the three levers in a predictable way: the customer’s answer is staunchly loyal to the horse, the already established format of transportation. They are inside of the adjacent possible, and ask a How question: How can horses be better?
+
+
+## Execute by Drew Wilson
+
+Building things for yourself means that you'll never have a failure.
+Manik Rathee: I'm not sure I agree but the sentiment makes sense. 
+
+There is a lot to be said for the difference between planning for six months, developing for a year, learning that your users don't want to pay for something, pivoting, starting over on development, and having your investors clean you out, as opposed to launching an open-ended, simple, and small version of a great product in which users tell you exactly what they're willing to pay for while they're already paying you.
+
+Be the best at one thing. Ship that thing.Execute
+
+Design is everything when it comes to first impressions, functionality, speed, and interaction.
+
+The rule is this: If people are paying for it, it better be solid, tested and supported
+
+As I’m writing this, Drew has just sent out a sneak peek at the next step in the evolution of Space Box. It’s something that he could have never done, and would never even have known would work, if he didn’t first 
+
+
+## A Pocket Guide to The craft of words by The Standardistas
+
+Companies like Apple eschew technical terminology in favour of language that connects with users at a deep, emotional level. Where others might focus on technical specifications, bombarding users with a barrage of dull facts, Apple embraces a more human approach. 
+
+At both levels – macro and micro – words can, when used in a considered manner as a part of the design process (indeed as another, core design element), aid and improve the user experience leaving users delighted and happy. 
+
+We need to consider words as an essential part of the design process.
+
+Words, when considered as a design element, play a crucial role in shaping our emotional perception and they solidify the aspects a visual design vocabulary hints at. When considering the role of words as a building block of our design process, it’s evident that design is more than a purely visual pursuit.
+
+A collection of evocative words that establish your brand’s personality, a word bank helps to establish a clear tone and voice. Think of it as a moodboard for words. The words you choose, as Shaw highlights, while functionally similar, are emotionally distinct: Start or begin? Purchase or buy? Complete or finish? Identifying word flavours helps to define tone and voice, and can pave the way towards the development of a brand dictionary, encapsulating the language of your design. Consider two examples: smart and Mercedes-Benz (both, coincidentally, owned by the same parent company, Daimler AG). Both create compact cars, both position themselves differently, thanks in a large part to the words they use.
+
+Writing is a craft that needs to be respected.
+
+To achieve any measure of success, your message must be perceived as being authentic and honest. Regardless of your values, being true to them is the only sustainable way to act. 
+
+The results are memorable, iconic expressions – carefully designed phrases – that live on, long after the products are gone. Apple: “1,000 songs in your pocket.” The competition: “A large storage capacity and a compact design.” We all know the product.
+
+The words you choose, as Shaw highlights, while functionally similar, are emotionally distinct: Start or begin? Purchase or buy? Complete or finish?
+
+Our job as designers is to communicate effectively and to do this with the maximum of impact, as such, an understanding of language and how it shapes meaning is critical
+
+Words are, of course, the most powerful drug used by mankind.
+
+
+## A Pocket Guide to Psychology for designers by Joe Leech
+
+Shoehorning popular psychology theory into design is never going to work. Taking a basic design and forcing a theory on it does not always improve that design.
+
+
+## Jenius by Josh Long
+
+In order to operate without a rule book you’re going to need to be able to interview customers about what they want, but not give it to them. You’ll need to cultivate the insights that you get from them and create something the never knew they wanted, but that they now just have to have. 
+
+Do the work. Being able to adjust your career and your business to this mode of operation is hard work, but no one is doing it. When no one is doing it, that means there is opportunity for you to grow.
+
+Zig Ziglar said that “You can have everything in life you want, if you will just help other people get what they want.”
+
+Life is too short to just go with the flow and let things happen to you.
+
+Have fun and change some lives for the better. Now go start something. Make something great. Make better ideas happen. I can’t wait to see them. Neither can the world.
+
+originality and truth are the new currency.
+
+The culture you build will undoubtedly effect whether or not you accomplish the goals that you have for your company
+
+The internet has leveled the playing field whether you are Best Buy or the ice cream truck. If you’re not authentic and you’re trying to do anything remotely shady, you’re busted. The only way to build a lasting business is through respect and trust.
+
+After all, Henry Ford said if he gave people what they wanted, he would have to give them faster horses.
+
+Turn off the radio, go to a record store and listen patiently to completely new music and see if it speaks to you
+
+Less means more. Less means less to manage. Less means less waste. Less means less time away from family. Less means less employees. Less means less taxes.
+
+Think of all of the industries that have seen massive changes like trading stocks, $5 coffee, app stores, and car sharing. Now think of all of the industries in need of reform such as real estate, insurance, banking, promotional products, and education.
+
+Set the bar higher. Roll up your sleeves and do the work it takes to do something remarkable.
+
+Walk away impressions. One of the best ways to start rebranding yourself or your company is to ask yourself the question, “what do I want people to say about my company after the first impression?”
+
+
+## These Days by Jack Cheng
+
+She laughed. It was a remarkable laugh—coated in honey, starting from the gut and transforming into a shorter, higher-pitched jingle.
+
+“Real artists ship,” the man repeated. “It’s something Steve would say. What he meant was that everyone has ideas, but it’s only through putting work out into the world that a truly creative individual can effect change.
+
+And as she leaned in and told him about her impending move to Thailand and the non-profit she would be working for, about how she still had endless amounts of packing to do, it occurred to him how strangely wonderful it was that once you had become intimate with someone, your sense of personal space around them stayed indelibly altered, even long after deeper emotional bonds had been severed. Legs could press against each other without any discomfort, eyes could be gazed into without a blink, and waists could be held as one leaned in close for the exchange of new gossip and old jokes.
+
+He placed his hand on the laptop and slid his thumb to the edge of the lid, and he was ready to make the first cut. He closed his eyes and listened. He heard the lapping of cars outside, waves upon waves of rubber on asphalt, sounds carried like scents up the side of the building by the breeze off a concrete sea. He inhaled the morning air through the windows and opened his eyes.
+
+“How have you changed since you were younger?” “I’m a lot less naive, and slightly better dressed.” She smiled.
+
+“What’s the name mean, exactly?” Connor asked. “I heard it’s some kind of programming term?” “You got it. Poly. Polymorph. Polymorphism. It refers to objects that can be described in multiple ways at the same time. Take my cup of jasmine tea, for instance. It’s a tea in the general sense—it’s brewed by immersing some kind of dried leaf or plant in water. But this is also a jasmine tea, and there are other kinds of teas, like genmaicha and Earl Grey, that each have slightly different preparations. For example, you might infuse the leaves of one kind in the water for longer than another. What’s in this cup is also an iced tea. It’s a liquid; it’s a beverage; it’s a green tea; it’s a Tea Served by This Particular Café; it’s all these things at once. This is what we mean by polymorphism.” “But it just seems like common sense?” “It is! For us humans. But early computer programs had a hard time understanding that. If you told a computer to make jasmine tea, even though you’d already told it how to make Earl Grey, it would’ve been like, ‘Whatchu mean? I don’t know how to do that.’ It wouldn’t know where to start, because it didn’t realize those two things had anything in common. You’d have to explicitly spell out every step for each tea. You’d have to say, ‘Okay computer, go fill a kettle with some water and scoop some tea into a teapot,’ even though you’d already told it to do the exact same thing for a different tea. “With modern programming languages, you can say, ‘Hey computer, here are some common attributes of teas, and regardless of the type of tea, here’s how to make it, and I’ll let you know if there are any exceptions.’ Then you tell it, ‘Look fella, we got some genmaicha here and genmaicha is a tea. Go make genmaicha, except don’t boil the water all the way.’
+
+And he did forget about her—for a whole twelve seconds before he pulled his phone out and started researching recently opened Italian restaurants in the East Village. He narrowed down the list and bookmarked a handful, and then he chuckled and shook his head at himself. You’ve got it bad, Connor.
+
+You could tell a lot about a person by where they put things in their kitchen cupboards. Some were reckless with their arrangements, grouping like objects together without consideration of much other than size and appearance. Connor, on the other hand, had organized his cupboards by activity. Pots and pans were adjacent to the stove and underneath the door for the spices, all within easy reach when preparing a meal, usually pasta. Wineglasses were immediately above the wine rack on the counter, which was directly above the drawer containing the wine opener. 
+
+“Sounds interesting,” Connor said, his default response for something he didn’t yet fully understand.
+
+BEFORE HE MOVED to New York, Connor never gave much thought to what lay on the insides of city blocks. He assumed they were solid building—brick, wood, and glass running from facade to facade.
+
+She tucked the Kingsolver under her arm and reached out with the other. “K,” she said. “What’s that short for?” “Not short for anything,” she said. “Just the letter. One letter. K.”
+
+It wasn’t until Cici waved goodbye to everyone and sidled out of the bar that K finally joined him. Her cheeks were rosy and her eyes were full of stars. She pressed her body into his shoulder, then stole the glass from between his fingers, took a sip of the leggy purple nectar, and smiled. “Welcome to my life,” she said.
+
+“But there will be other doors,” he reassured her. “And other signs. It’s kind of like how your hair grows and grows and then one day you think, ‘Hey, I need a haircut,’ even though the day before everything was perfectly fine. We don’t realize that our bodies are changing all the time because of how slowly everything moves.” “Maybe every time you make a realization like that, you become a different person,” she said. “Like, those realizations are the inflection points. And then you get the haircut.”
+
+She enunciated the last word with a particular delight. Den-dro-cro-no-lo-gee.
+
+For the hungry and foolish
+
+He speaks clearly, steadily, and with purpose.
+
+“We all share a common belief, Connor. We believe that much of the suffering and inequality in this world come from an imbalance or inefficiency of information. And if there’s one thing technology does well, it’s eliminate inefficiencies.”
+
+“Those tattoos on your arm—people must ask you about them all the time.” “It would appear so,” she said as her eyes came up to meet his. “And that’s quite a self-aware compliment.” “A what?” “A self-aware compliment,” she said. “You ever notice how people can’t give a straight compliment these days? Instead of saying, ‘I like your necklace’ or ‘You look like a young Ingrid Bergman,’ they say, ‘That necklace is quite a conversation starter’ or ‘I bet a lot of people tell you you look like Ingrid Bergman.’ ” 
+
+He pointed to a ring on her bicep. “What about this one?” “We’ve only just met,” she said with a glint in her eye. “I’m not about to tell a stranger my entire life story.” There was a time when Connor would’ve been at a loss for words at a moment like this, when he would’ve retreated to some nervous gesture or apologetic remark, but after leaving the Midwest for New York when he graduated from college, and after a few years of meeting people at bars and parties, he’d come to understand how the whole thing worked. She had set him up and he was to follow through. The words came perfectly naturally and without thinking, as if he were merely the conduit for things that were meant to be heard. “In that case, we should get acquainted over lunch,” he said. “I happen to know of this great little Swedish place around the corner. Their meatballs are phenomenal.”
+
+HE WAS PROUD OF HIS INBOX. While colleagues were drowning in unread messages, junk newsletters, and office-wide threads that came back from the dead like trick birthday candles, Connor had mastered the art of the unsubscribe, perfected the alchemy of vague reply to actionable item, attained the zen of synching appointments, to-dos, and reminders across laptop, tablet, and phone. 
+
+The prospect of being able to work on real technologies, to invent the future instead of stand on the sidelines and react as it zoomed by, was captivating. Connor’s heart raced and his knee bounced even faster. They hadn’t even discussed salary, but he didn’t care. He would have done it without pay. A guy who looked like he was still in high school casually strolled past their table, uncapped a marker dangling from a string by the ship calendar, and signed his name in one of the boxes. Connor looked back at Kaz, who was still staring directly at him from across the table and seemingly hadn’t moved an inch. “When do I start?” Connor asked.
+
+Sometimes it’s about what you choose not to read,” she said. “Every book we read or movie we see, every little experience becomes a part of who we are. If we’re all watching the same things and reading the same things and listening to the same things, then our conversations would end up going in circles, reaffirming things we already know and agree about. There would be no surprises, no serendipity. It’d be like this big tragic echo chamber. It’s just not for me. I don’t want to be that hipster girl that lives off the L
+
+“I had a choice between a certain misery and an uncertain happiness,” it said. “I chose uncertainty.”
+
+They’re like tree rings,” she said. “They mark significant memories in my life. It’s my own personal dendrochronology.”
+
+It was all so ridiculous, that a group of human beings could spend so much time and energy on something so trivial. Was this what it meant to be an adult these days? Did our ancestors stand around in caves arguing over whether the antlers on the drawing of the deer should have twelve or fourteen points? No, of course not. They were too busy throwing spears at stuff and running from lions and trying not to die. They were out doing real things, expressing their humanity as if their lives depended on it, because their lives did depend on it.
+
+And that, in essence, brings us to the paradox of Gen Y. They want to stay connected but they want to get away.
+
+And as she leaned in and told him about her impending move to Thailand and the non-profit she would be working for, about how she still had endless amounts of packing to do, it occurred to him how strangely wonderful it was that once you had become intimate with someone, your sense of personal space around them stayed indelibly altered, even long after deeper emotional bonds had been severed. Legs could press against each other without any discomfort, eyes could be gazed into without a blink, and waists could be held as one leaned in close for the exchange of new gossip and old jokes.
+
+It was probably nothing. It was probably just the combination of the wine and the wind and the way the fading red lights reminded her of the days when she had not yet seen how cruel the circumstances of life could be to any one person.
+
+Stress-free freedom.
+
+And he did forget about her—for a whole twelve seconds before he pulled his phone out and started researching recently opened Italian restaurants in the East Village. He narrowed down the list and bookmarked a handful, and then he chuckled and shook his head at himself. You’ve got it bad, Connor.
+
+“What kind do you want?” he shouted toward the French doors. “Surprise me!” she said. He chose a Rioja with the word RESERVA etched on the label in loosely spaced golden serifs.
+
+Stress-free freedom.
+
+
+## A Pocket Guide to Usability of web photos by James Chudley
+
+basic usability teaches us that recognition is easier than recall.
+Angel Ceballos: so true! and great highlight :)
+
+As a photographer, I realise how powerful a photo can be, but when I design wireframes I often just drop in a photo placeholder and think nothing more about it. This feels completely wrong because I see the huge impact that photos have on user behaviour in most of my research projects, and yet as designers we seem to pay them far less attention than they 
+
+Photos play a huge part in determining our first impression of a digital product or service. We use them to determine what a website or service is for, but also whether we trust it.
+
+
+## Manik Rathee's Gazette - Mar 22 by Gazette
+
+“…I don’t want to be known as any one thing. I hope to be known as an idea person.”
+
+When you’re married and providing for your spouse, it’s not a good idea to go into debt, but I took out a big loan to buy all my gear and equipment after I quit my full-time gig. It was a big risk, but there’s something I’m really drawn to about risk. I love the moment of standing on the edge of a cliff and just jumping. I’ve always been drawn to that feeling, to that moment, and I’m not afraid of it.
+
+“…I don’t want to be known as any one thing. I hope to be known as an idea person.”
+
+I love reading what smart people write. I hate trying to find what smart people have written.
+
+When you’re married and providing for your spouse, it’s not a good idea to go into debt, but I took out a big loan to buy all my gear and equipment after I quit my full-time gig. It was a big risk, but there’s something I’m really drawn to about risk. I love the moment of standing on the edge of a cliff and just jumping. I’ve always been drawn to that feeling, to that moment, and I’m not afraid of it.
+
+When I got my first travel shoot, I realized, “Wow! I get to travel. I get to go to awesome places, meet awesome people, and use really cool tools.” That was part of the “aha” moment—I realized that photography allowed me to get away from my desk and see the world and that was certainly part of what I liked about it.
+
+When I got my first travel shoot, I realized, “Wow! I get to travel. I get to go to awesome places, meet awesome people, and use really cool tools.” That was part of the “aha” moment—I realized that photography allowed me to get away from my desk and see the world and that was certainly part of what I liked about it.
+
+
+## Manik Rathee's Gazette - Mar 29 by Gazette
+
+I schedule a total of four 90-minute work blocks in my day. Since implementing my Daily Schedule, I find that my productivity is nearly 4x what it was before, especially when I stay disciplined and, most importantly, when I get a full night's sleep.
+
+When Someone Offers You a Seat On a Rocket Ship, You Get On
+
+What habits/tactics do you try to keep yourself fresh?The most impactful thing I've done is to take a week off the grid every quarter. Amy and I head to the airport on Saturday to go somewhere. I leave my computer at home and give her my smart phone at the airport. She gives it back to me the following Saturday when we return home. We always go somewhere - usually a relaxing place, but it's always a trip rather than a staycation.
+
+When debating her next career move, Sandberg made a spreadsheet comparing the roles and responsibilities that would come with each position and company she was considering. Google was on her list (a relatively unknown company in 2001), and ranked lower than all of the other options in categories like security, salary and responsibilities, but when Sandberg presented her dilemma to Eric Schmidt, Google's CEO at the time, he managed to change her mind with this simple piece of advice:"[Eric] covered my spreadsheet with his hand and told me not to be an idiot (also a great piece of advice). 
+
+
+## Manik Rathee's Gazette - Apr 05 by Gazette
+
+We try very hard to make sure things don’t look like they were made on a computer.
+Manik Rathee: What an interesting perspective 
+
+No, I was born and raised in New Jersey, which I never forgave my parents for. I’ve lived here my whole adult life, though, so I consider myself to be a New Yorker.
+
+Louise Fili is a force to be reckoned with; a trailblazer who has relentlessly pursued her interests to create a stunning, uncompromising body of work over the course of the last several decades. 
+
+Do you use a computer at all?No, and I prefer it that way. Most designers of my generation are equally technology-challenged. For me, the excitement is doing sketches. My sketches start out being very rough and then get very, very precise. Then I’ll go gather reference, sit with one of my designers and go over it carefully, and supervise the execution of it. We try very hard to make sure things don’t look like they were made on a computer.
+
+
+## Manik Rathee's Gazette - Apr 12 by Gazette
+
+We often hear of the benefits of working less: our body is naturally wired to work in short bursts and when we give our mind room to breathe we generate new ideas and connections.
+
+Paradoxically, the more I let go, the more things seemed to take off. Short workdays forced me to focus on the important stuff instead of dicking around in my inbox, and I quickly learned to delegate the day-to-day. I started working smart instead of working hard.
+
+Nowadays, I'm working 4-day weeks, and doing no more than an hour or two of intense work at a time. I take a lot of walks. I've lost weight. I'm happier. My wife is happier. I'm more present. And most importantly:I'm doing the best work of my life.
+
+
+## A Pocket Guide to Combining typefaces by Tim Brown
+
+By trying, we grow knowledgeable; and by having tried, we grow wise.
+
+
+## A Pocket Guide to Interviewing for research by Andrew Travers
+
+Focus less on formal deliverables and more on storytelling, on painting a fuller picture of the interviewees and their needs both for your fellow designers and your client.
+
+Research interviews rely on the quality and accuracy of their interviewees. One of the challenges of interviewing is mitigating against an interviewee unintentionally but inaccurately describing their own behaviour: self-reporting error. Part of this relates to the interviewing environment you create, and how much you can put your interviewee at ease and able to share openly with you. But watch out for interviewees generalising or using absolutes: “I always…”, “I never…”. Gently challenge these by seeking tangible examples: When, recently, have you done something like that? Can you talk about a time when…?
+
+vital to spend time up-front discussing and planning the research activity, to determine: The expectations for the research: what’s the design problem you are investigating? How the findings from the research will be used: understanding the audience for the research – whether that’s an organisation’s leadership, or its design team – and what they’ll do with it, should determine the best format to deliver your findings. How and when the research will be conducted: the format (and formality) of the research, be it guerrilla or in a formal lab environment. Who you need to talk to, inside and outside of the organisation.
+
+Let interviewees find their voice, don’t box them in with a constraining interview format, but find the way to let them their own story.
+
+Leading questions proffer the answer within the question; closed questions suggest yes or no answers; both close down the space the interviewee has to answer. Loading: You don’t buy music online, do you? Closed: Have you bought music online within the last fourteen days? Open: Can you tell me about a time recently when you’ve bought music online? Avoid offering an answer in your question. “Would it be better if there was an app for that?”
+
+Research manager Nina Belk describes how, in one project, she chose to limit findings to short end-of-day email summaries to the project’s management and stakeholders, with selected highlights and key findings. For Nina and for her employers, it proved an incredibly viral way of sharing insight – insight the business had already gained elsewhere, but here made usable and easily shareable – by email rather than lying hidden, long forgotten, in a slide deck.
+
+Silence is an great tool for interviewers. Chris Noessel, in a piece for Cooper, suggests leaving four seconds of silence after an interviewee has replied, just enough time for them to process what they’ve said and add to it. As Chris says, a tactical sip of water or note-taking avoids you sitting awkwardly staring at the interviewee. Leaving these gaps has another benefit too: helping to avoid a sense of rushing the interview, a chance for you to take a moment to think about where you are in the interview and where to go next.
+
+When interviewing, always look to drill down into the interviewee’s motivations and behaviours. 5 Whys, a technique originating in Toyota’s production system, is one model for uncovering underlying cause and effect. The initial answer to a question might be only part of the story – asking why again can start to reveal the reasons behind it. When did you last buy music online? I don’t buy music online. Why do you think that might be? I rarely see something I want. Why is that? Well, I used to buy albums, but find I just pick out individual tracks these days. How do you go about finding those tracks? I listen to 6music and then find and favourite them on Spotify.
+
+it can be tempting to overscript your interview questions in an attempt to be precise with your wording and remove any room for error. It’s tempting but it’s also a mistake. The best interviews find their own flow, and your questions need to go with it.
+
+
+## Inferno by Dan Brown
+
+At one time, the Hall of the Five Hundred was the largest room in the world. It had been built in 1494 to provide a meeting hall for the entire Consiglio Maggiore—the republic’s Grand Council of precisely five hundred members—from which the hall drew its name. Some years later, at the behest of Cosimo I, the room was renovated and enlarged substantially. Cosimo I, the most powerful man in Italy, chose as the project’s overseer and architect the great Giorgio Vasari.
+
+When every province of the world so teems with inhabitants that they can neither subsist where they are nor remove themselves elsewhere … the world will purge itself.
+
+It was not until this moment, as he entered the sheltered square, that Langdon could fully appreciate this city’s most unique offering. Sound. With virtually no cars or motorized vehicles of any kind, Venice enjoyed a blissful absence of the usual civic traffic, subways, and sirens, leaving sonic space for the distinctly unmechanical tapestry of human voices, cooing pigeons, and lilting violins serenading patrons at the outdoor cafés. Venice sounded like no other metropolitan center in the world.
+
+Shaking, Elizabeth unfolded the paper and read the handwritten note. It was a famous quote derived from the work of Dante Alighieri. The darkest places in hell are reserved for those who maintain their neutrality in times of moral crisis.
+
+Lorenzo de’ Medici—known in his day as Lorenzo the Magnificent on account of his benevolence—was an accomplished artist and poet in his own right and was said to have a superb eye. In 1489 Lorenzo took a liking to the work of a young Florentine sculptor and invited the boy to move into the Medici palace, where he could practice his craft surrounded by fine art, great poetry, and high culture. Under Medici tutelage, the adolescent boy flourished and eventually went on to carve two of the most celebrated sculptures in all of history—the Pietà and the David. Today we know him as Michelangelo—a creative giant who is sometimes called the Medici’s greatest gift to humankind.
+
+“The cistern is enormous.” The informational plaque described a cathedral-size subterranean room—nearly two football fields in length—with a ceiling spanning more than a hundred thousand square feet and supported by a forest of 336 marble columns.
+
+Ring around the rosie. A pocketful of posies. Ashes, ashes. We all fall down. She used to recite the poem as a schoolgirl in England until she heard that it derived from the Great Plague of London in 1665. Allegedly, a ring around the rosie was a reference to a rose-colored pustule on the skin that developed a ring around it and indicated that one was infected. Sufferers would carry a pocketful of posies in an effort to mask the smell of their own decaying bodies as well as the stench of the city itself, where hundreds of plague victims dropped dead daily, their bodies then cremated. Ashes, ashes. We all fall down.
+
+The power of population is so superior to the power in the earth to produce subsistence for man, that premature death must in some shape or other visit the human race. The vices of mankind are active and able ministers of depopulation. 
+
+Accompanied by a swell of trumpets and horns, the choir intoned the warning again. “Lasciate ogne speranza voi ch’entrate!” Abandon all hope, ye who enter here!
+
+The darkest places in hell are reserved for those who maintain their neutrality in times of moral crisis.
+
+BUT FLORENCE, IN HER FINAL PEACE, WAS FATED TO OFFER UP UNTO THAT MUTILATED STONE GUARDIAN UPON HER BRIDGE … A VICTIM.
+
+“ ‘I am death’?” Sienna asked, looking troubled. “That’s what it said, yes.” “Okay … I guess that beats ‘I am Vishnu, destroyer of worlds.’ ” The young woman had just quoted Robert Oppenheimer at the moment he tested the first atomic bomb.
+
+“Sienna, slow down!” people would urge her. “You can’t save the world!” What a terrible thing to say.
+
+Botticelli’s Map of Hell was in fact a tribute to a fourteenth-century work of literature that had become one of history’s most celebrated writings … a notoriously macabre vision of hell that resonated to this day. Dante’s Inferno.
+
+Still shaking the tube, Langdon walked over to the light switch and flipped it off, plunging the kitchen into relative darkness. “It’s not a test tube inside,” he said, still shaking as hard as he could. “It’s a Faraday pointer.” Langdon had once been given a similar device by one of his students—a laser pointer for lecturers who disliked wasting endless AAA batteries and didn’t mind the effort of shaking their pointer for a few seconds in order to transform their own kinetic energy into electricity on demand. When the device was agitated, a metal ball inside sailed back and forth across a series of paddles and powered a tiny generator. Apparently someone had decided to slide this particular pointer into a hollow, carved bone—an ancient skin to sheathe a modern electronic toy.
+
+“Is there any other way out?” Sienna demanded, short of breath. “I don’t think so,” Langdon said. “This garden is a walled city, just like …” He paused suddenly, turning and looking east. “Just like … the Vatican.” A strange glint of hope flickered across his face.
+
+Langdon had provided a nonexistent room number and a fake meeting place to his consulate contact—a “mirrored meet,” as it was called in her business—a common tradecraft technique that would enable him to assess the situation before revealing his own location. Invariably, the fake or “mirrored” location was selected because it lay in perfect view of his actual location.
+
+I am the Shade. Through the dolent city, I flee. Through the eternal woe, I take flight.
+
+“Where is it!” Brüder demanded, his voice echoing across the empty hall. “The … cistern?” Mirsat asked, looking frightened. “It’s a block away, just east of this building.” He pointed outside. “It’s called Yerebatan Sarayi.” Sarayi? Langdon wondered. As in Topkapi Sarayi? Signage for the Topkapi Palace had been ubiquitous as they were driving in. “But … doesn’t sarayi mean ‘palace’?” Mirsat nodded. “Yes. The name of our ancient cistern is Yerebatan Sarayi. It means—the sunken palace.”
+
+For I am your Salvation. I am the Shade. I am the gateway to the Posthuman age.
+
+Very sorry. Vasari. Cerca trova. The truth can be glimpsed only through the eyes of death.
+
+
+## Manik Rathee's Gazette - May 17 by Gazette
+
+We've grown slowly over 14 years. If you bring on a couple great people at a time, I think you can grow a much larger company and maintain a culture, but you have to do it carefully, slowly, and thoughtfully along the way. People need time to understand the culture and become assimilated into it; you want them to feel part of it, instead of just floating on top of it.
+
+JasonJason Fried is the co-founder and President of 37signals. He believes there's real value and beauty in the basics.
+
+"It's not about the money; it's about the fact that I can make something that's more valuable than the money people pay for it...people are going to trade their money for what I'm giving them and I want to give them more than what they're paying for."
+
+"I'd like to give back as much as I can, but I don't just want to give something to say I'm giving back. I really want to figure out what it is that I can help with in a much bigger way."
+
+If people pay $20, they should get at least $21 worth of value out of what they buy.
+
+The other advice is to focus on one thing. I see a lot of entrepreneurs build something and then move onto the next thing and the next thing and the next. Building something is only step one. It's not that hard to put something out there. Building on top of that to maintain and improve it is actually the harder thing to do. Anyone can release something, but it's much harder to polish and refine it over time once it's out there.
+
+I'm more of a fan of constant, steady growth because it feels more sustainable over a long period of time. Creating things that are lasting is what great cultures do. When you travel in Europe and see structures that have been around for hundreds of years, you think, "This culture cared to make something that would last forever." What are we creating today that's going to last for 20, 50, or 100 years?
+
+"I think obscurity is your friend when you're just starting out. People want to get rid of the obscurity so everyone knows who they are and what they're doing, but it's nice to have that cushion of being able to mess up without anyone knowing or caring..."
+
+This guy asked me to come work for him as a web designer in San Diego, so I said yes. I did that for three or four months before I realized that I'm not built to work for other people. I love working with people, but I need to run my own thing.
+
+Chicago has a very practical, Midwestern feel...People aren't chasing fame or those kinds of artificial things. Instead, people are trying to build solid, sustainable things and I think that has a big impact on me.
+
+
+## Manik Rathee's Gazette - May 24 by Gazette
+
+We've all slept on a problem and had it sort itself out by morning. But that's only a small part of what the brain on nighttime autopilot can do. Paul McCartney famously said that he came up with the melody for "Yesterday" in a dream; Elias Howe, the inventor of the sewing machine, is said to have solved the problem of the machine's needle when he dreamed of an attack by warriors carrying spears with holes in the tips.
+
+Barrett's studies suggest that engaging in some type of pre-bedtime priming-contemplating a problem you'd like to solve-increases the likelihood that sleep will bring some answers. Up to a third of the subjects in her sample group reported that priming had helped them find a solution that had eluded them during the day.
+
+
+## Just Enough Research by Erika Hall
+
+“A little learning is a dangerous thing.” —Alexander Pope
+
+
+## Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal by Nick Bilton
+
+This was it. His last act as the CEO of Twitter would be throwing up into a garbage can.
+
+“History is that certainty produced at the point where the imperfections of memory meet the inadequacies of documentation.”
+
+
+## A Pocket Guide to Front-end Style Guides by Anna Debenham
+
+In a talk she gave about working with real estate business Trulia, Nicole Sullivan highlighted the importance of building a living style guide to improve the performance of front-end code. By auditing all the components on the site, she was able to spot style duplications in the CSS and design inconsistencies (these are quite common when sites grow organically). After refactoring the code, she had reduced the HTML by 48%, removed 135Kb of unused CSS, and made load time 21% faster.
+
+You might already have the foundation of a front-end style guide in the form of a reset style sheet. Create a basic HTML page with all the relevant text elements on it and you can check that your basic typography looks good. If you don’t use one, a great place to start is Typecast. Here you can style text, change the typeface, adjust the font size, and see how it looks in the browser. You can style specific elements like lists, and you can output it all as CSS.
+
+Some clients will immediately get it, others won’t. For those that don’t, Clearleft found it helps to make element collages that they’ve created look less like a webpage by changing the format slightly. “[Jon Aizlewood] soon realised that by presenting these elements together vertically, some stakeholders mistook the output for a web page. He is now using a long, wide horizontal canvas to mitigate against this. He’s also scaling up certain elements, so that the discussion revolves around the overall visual aesthetic, rather than the pixel precision and font sizing of certain components.” — Paul Lloyd, “Visual Design Explorations”, (8 March 2013)
+
+Paul Lloyd’s Barebones
+
+Like an identity style guide, you can include guidance on how to apply the branding along with downloadable assets. It’s vital to consider your audience for the style guide and make sure it’s not overwhelming for a non-designer who might just want to do something very simple.
+
+Colour swatches I like to add colour swatches to display the colours used on a site and, if I’m using Sass, the variable names I’m using for them.
+
+works like this. The version available on Github includes a PHP script that scans a folder and outputs all the modules in there along with their markup.
+
+Style guides set a precedent, demonstrating how the designer or developer expects something to be done in future.
+
+Jeremy Keith creates a pattern primer as part of the process of building a responsive site.
+
+Further reading “Front-end Style Guides”, my article on 24 Ways Examples of front-end style guides in the wild, a collection of links on Gimme Bar “CSS Style Guides”, a roundup from Chris Coyier on CSS-Tricks “Responsive Deliverables” by Dave Rupert “Modularity and Style Guides” by David Bushell “Firefox branding”, part of the Mozilla style guide “Writing an Interface Style Guide” by Jina Bolton on A List Apart “Behind the Design: The New Viget”, by Tom Osborne “Easing the Path from Design to Development” by Drew McLellan on 24 ways
+
+ Brad’s responsive pattern lab is an example of this system. It can toggle the width of the container so you can quickly see what templates look like at different viewport sizes, and you can manually edit the viewport width in ems.
+
+Design for the unexpected, design for the extremes Very long headings or double-barrelled names can cause unexpected problems, so the content examples you use in your modules should demonstrate text that responds well when it flows onto multiple lines or is bigger than its container. Use the style guide as a way to show these extremes, and prove that you’ve tested and know how to appropriately deal with these situations.
+
+On a news site, how will the homepage look during the biggest breaking news story of the year? For an airline site, how would you have informed people about all planes being grounded
+
+Go nuts here; add headings with links, headings in lists, and maybe even throw in some elements you probably don’t need to use very often, like kbd and pre.
+
+Paul Lloyd’s Barebones
+
+“That’s the way I’ve been starting most of my projects lately: beginning with the atomic units of content and styling them first before even thinking about layout. This ensures that those styles are extremely robust—because they don’t depend on any particular context, they can be safely dropped into any part of a page.”
+
+There are plenty of primers and boilerplates out there to help you to get going. My favourite one to start with is Paul Lloyd’s Barebones, and
+
+It may help to have a version number on the document, especially if several people are working on it. If you’re using version control, you could pull the last commit ID onto the page. It’s also handy to indicate the last modified date so you can check how up-to-date the style guide is.
+
+There is even a Compass extension that lets you do this, and a marked up equivalent if you want to produce a web-based style tile.
+
+Stylify Me Stylify Me is an online style guide generator. Simply add your page URL and it will spit out the main colours and typefaces used. This is perfect when you need to kick-start a style guide for an existing site. It includes image dimensions, swatches, typefaces and a screenshot of the page. It is quite basic, however, and it’s on a per-page basis, but it’s a good starting point. Typecast Typecast gives you some text to style – headings, paragraphs, lists – and you can just click on an element to change the style. An adjustable baseline grid is included. This makes a great entry point for building a site from the content out, because you can easily paste in your own content and choose from thousands of different fonts. It also outputs a style sheet, generates a style guide, or you can download a PDF. It’s built specifically for the web, so measurements are in pixels and ems. Frontify Frontify allows you to upload screenshots of your design, and pick the main colours to turn into swatches. You can take screenshots of modules and upload the markup for them. However, it doesn’t generate the module itself from the markup
+
+
+## Sass for Web Designers by Dan Cederholm
+
+Defining defaults for arguments When you use mixin arguments, it’s often convenient to define defaults. That way, you simply call the mixin with no arguments, if that’s the norm, but can still pass in overrides. @mixin title-style($color, $background: #eee) { margin: 0 0 20px 0; font-family: $font-serif; font-size: 20px; font-weight: bold; text-transform: uppercase; color: $color; background: $background;
+
+Combining @content blocks and mixins By using Sass’s @content directive, you can pass entire blocks of styles to a mixin, and Sass will place those blocks back into the declaration that calls the mixin. That sounds confusing, but in practice it’s simple and handy. Let’s create a responsive mixin that handles three different breakpoints, with @content placeholders for whatever styles we’d like to include for each breakpoint. We’ll also use variables to define the small, medium, and large breakpoint widths as we did earlier in the chapter. $width-small: 400px; $width-medium: 760px; $width-large: 1200px; @mixin responsive($width) { @if $width == wide-screens { @media only screen and (max-width: $width-large) { @content; } } @else if $width == medium-screens { @media only screen and (max-width: $width-medium) { @content; } } @else if $width == small-screens { @media only screen and (max-width: $width-small) { @content; } } } Notice Sass also supports @if and @else statements, which we’re using to evaluate the $width variable we’ll pass when including the mixin. For example, if we pass the mixin the medium-screens variable, Sass will compile the media query with our max-width set to the $width-medium variable (760px). The @content placeholder allows us to further pass blocks of styles to the mixin that get inserted inside the media query. With this single mixin set up, we can now call it from any declaration using a compact pattern that reflects the way we think about things:
+
+Using variables for style guides Jina Bolton wrote a great article on how Sass variables can help with creating a style guide from a brand palette (http://bkaprt.com/sass/10/). Says Jina: To keep our style guide relevant, it lives in our internal-only admin section on the very same application it describes. We display our color palette alongside the relevant Sass variables and since we’ve built the style guide into the application using the same front-end, we can use the same variables we’re referencing to render this palette. When we change values to these variables, the palette updates automatically (Fig 3.2). FIG 3.2: Jina Bolton uses Sass to help create style guides.
+
+Mixin arguments Sass mixins can also take arguments that we pass to the mixin when we call it. For example, let’s add an argument for specifying a color along with our title-style mixin. Specify arguments with variables inside parentheses when defining the mixin: @mixin title-style($color) { margin: 0 0 20px 0; font-family: $font-serif; font-size: 20px; font-weight: bold; text-transform: uppercase; color: $color; } When calling the mixin, we can now pass a color to it (here a lovely burnt orange), along with the other rules: section.main h2 { @include title-style(#c63); }
+
+Here’s the retinize mixin I use in my everyday projects—I’ll break down each important section. @mixin retinize($file, $type, $width, $height) { background-image: url('../img/' + $file + '.' + $type); @media (-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) { & { background-image: url('../img/' + $file + '-2x.' + $type); -webkit-background-size: $width $height; -moz-background-size: $width $height; background-size: $width $height; }
+
+Similarly, there are many properties in the text- namespace. We can use Sass nesting to save some retyping: text: { transform: uppercase; decoration: underline; align: center; } And background- is another good example: background: { color: #ea4c89; size: 16px 16px; image: url(sasquatch.png); repeat: no-repeat; position: top left; }
+
+@mixin linear-gradient($from, $to) { /* Fallback for sad browsers */ background-color: $to; /* Mozilla Firefox */ background-image:-moz-linear-gradient($from, $to); /* Opera */ background-image:-o-linear-gradient($from, $to); /* WebKit (Safari 4+, Chrome 1+) */ background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0, $from), color-stop(1, $to)); /* WebKit (Chrome 11+) */ background-image: -webkit-linear-gradient($from, $to); /* IE10 */ background-image: -ms-linear-gradient($from, $to); /* W3C */ background-image: linear-gradient($from, $to); } Notice that I’m using the $to color to specify the background-color fallback for browsers that don’t support CSS gradients. Thankfully, we only have to write this monstrosity once. Now, when we want to create a simple linear gradient, we just call the mixin with two colors of our choosing and Sass does the rest. For the Sasquatch site, the declaration for the active tab style goes like this: &.active a { padding: 3px 8px; color: #fff; @include rounded(4px); @include linear-gradient(#ff70b1, #d42a78); }
+
+In addition to nesting rules, you can nest properties that share a namespace in Sass (e.g., font-family, font-size, font-weight, etc.) like so: header[role="banner"] h1 { padding: 15px 0; font: { size: 54px; family: Jubilat, Georgia, serif; weight: bold; } line-height: 1; } That’ll compile to: header[role="banner"] h1 { padding: 15px 0; font-size: 54px; font-family: Jubilat, Georgia, serif; font-weight: bold; line-height: 1; }
+
+First, we’ll define a mixin in Sass using the @mixin directive at the top of the .scss file. I’ll name it title-style, and I’ll define the rules for margins and fonts: @mixin title-style { margin: 0 0 20px 0; font-family: $font-serif; font-size: 20px; font-weight: bold; text-transform: uppercase; } Once it’s defined, we can now refer to this mixin anywhere we’d like to insert those styles by using the @include directive. On the Sasquatch site, we have a section of the stylesheet that defines rules for the page’s main section, and we want the mixin to style all <h2> elements: section.main h2 { @include title-style; } This will compile to: section.main h2 { margin: 0 0 20px 0; font-family: Jubilat, Georgia, serif; font-size: 20px; font-weight: bold; text-transform: uppercase; } But we also want to style <h3> elements in the sidebar the exact same way. So, later in the stylesheet we can call the same mixin, which will compile the same rules: section.secondary h3 { @include title-style; } This lets us avoid duplicating the shared styles—or adding a class to the markup that both headings could theoretically share.
+
+Part of the problem is that CSS wasn’t originally designed to do the things we do with it today.
+
+You can also choose to live on the bleeding edge, and install the latest alpha version by adding a pre flag at the end of the command. Using the latest alpha is not only safe, but it also enables you to take advantage of the latest functionality.
+
+The float property, for example, was designed to simply align an image within a block of text. That’s it. Yet we’ve had to bend that property to lay out entire interfaces.
+
+Using placeholder selectors with @extend What if the class you’re extending exists solely for the purpose of extending other styles? In other words, you might create a class that’s not used on its own. Enter placeholder selectors, which allow you to define “phantom” classes that won’t appear in the outputted CSS on their own. You can reference placeholders using @extend. Let’s take a look at this in practice. We’ll create a class for a block of styles that define a button. We’ll use a placeholder selector, which in Sass means prefixing the class name with a % instead of a period. %button { padding: 10px; font-weight: bold; background: blue; border-radius: 6px; } We can call this rule set in other classes as we did previously, using @extend. .buy { @extend %button; } .submit { @extend %button; background: green; } Sass will compile this like an extended class, but the %button placeholder rule set won’t appear in the output: .buy, .submit { padding: 10px; font-weight: bold; background: blue; border-radius: 6px; } .submit { background: green; }
+
+#content { float: left; width: 70%; @include responsive(wide-screens) { width: 80%; } @include responsive(medium-screens) { width: 50%; font-size: 14px; } @include responsive(small-screens) { float: none; width: 100%; font-size: 12px; } } Which will compile to: #content { float: left; width: 70%; } @media only screen and (max-width: 1200px) { #content { width: 80%; } }
+
+To Erin Kissane, thank you for making me sound like a better writer than I actually am. It’s been an honor to have you do that. And to Jina Bolton for being a wonderful technical editor and ambassador for Sass.
+
+Our stylesheets are also immensely repetitive. Colors, fonts, oft-used groupings of properties, etc. The typical CSS file is an extremely linear document—the kind of thing that makes an object-oriented programmer want to tear their hair out. (I’m not an object-oriented programmer, but I have very little hair left. Read into that as you may).
+
+Going a step further, you can also define an entire media query as a variable (not just the numeric value): $mobile-first: "screen and (min-width: 300px)"; @media #{$mobile-first} { #content { font-size: 14px; line-height: 1.5; } } Notice the interpolation brackets—#{}—surrounding the $mobile-first variable. That’s a special way to alert Sass to compile something within a selector or property name. The above SCSS will compile to: @media screen and (min-width: 300px) { #content { font-size: 14px; line-height: 1.5; } }
+
+$ gem install sass --pre
+
+The ampersand is also useful in inserting overrides that happen in the presence of a specific class. For example, let’s say we style paragraphs in the main section of the site, but we want a slightly different style on a specific page. We add a class to the body, and then we can use the ampersand to slip this overriding declaration into the main one: section.main p { margin: 0 0 20px 0; font-size: 18px; line-height: 1.5; body.store & { font-size: 16px;
+
+
+## The Smashing Book #4: New Perspectives on Web Design by Smashing Magazine & Various Authors
+
+. There is natural downtime in the interaction with our apps. For example, people will spend some time entering data into forms. So why not use that time to load additional resources? A focus handler on the first text field could trigger a nice-to-have resources download. If the user never enters the form, nothing needs to happen.
+
+FPS Counter An older but equally useful tool for visualizing frame rate and jank is the real-time frames-per-second counter. This can be enabled in DevTools by going to the Settings menu and checking “Show FPS meter.” When activated, you will see a dark box in the top-right corner of your page with frame statistics. The counter can be used during live editing to diagnose what in your page is causing a drop-off in frame rate without having to switch back and forth with the Timeline view.
+
+For example, consider the JavaScript switch statement. It’s a very common error to mistakenly allow one case to fall through into another, such as this: switch(value) { case 1: doSomething(); case 2: doSomethingElse(); break; default: doDefaultThing(); } The first case falls through into the second case so if value is 1, then both doSomething() and doSomethingElse() are executed. And here’s the question: is there an error here? It’s possible that the developer forgot to include a break in the first case, but it’s also equally possible that the developer intended for the first case to fall through to the second case. There’s no way to tell just from looking at the code. Now suppose you have a JavaScript style guide that says something like this:
+
+Forms have come a long way, too. A simple required attribute on an input element means the user cannot submit the form until that data has been entered. Adding a pattern attribute allows you to define a rule in the form of a regular expression.
+
+Finally, you should never combine the two. If a class does a specific job, it should have an equally explicit name (e.g. .user-profile_name rather than .name). Takeaway: Make sure the names you use for selectors are appropriate, and that they expose as much information as they can. Do not worry about being long-winded with classes (I recently wrote a class of .accordion__trigger--closed), and name them so that other developers will find them practical and sensible to work with.
+
+To quote Google developer, Jens O. Meiert: “Use names that are as short as possible but as long as necessary”16.
+
+The pursuit of clean markup and semantic classes and all that came with it was well-intentioned but helped no one. It led to verbose, difficult to maintain, tangled style sheets. The price of omitting a few classes was having to write giant, convoluted selectors to target these orphaned, unnamed DOM elements. As the saying goes, we robbed Peter to pay Paul. We were writing clean markup at the cost of writing verbose, messy and convoluted CSS. We just moved the mess somewhere else.
+
+. What is useful is knowing a class isn’t tied to a particular type of content, and that it is abstracted enough to be reused elsewhere. Nicole Sullivan’s media object14 is a perfect example of this way of thinking. Class names that don’t allude at all to the type of content are highly reusable.
+
+Opening the Chrome developer tools revealed two things: first, the HTML of the button was the following: <a class="button eula-download-button" href="javascript:void(0)" data-g-label="download chrome" data-g-event="cta"> … </a> Second, the error console greeted you with “TypeError: chrm.download is undefined.” What happened? Well, something in the JavaScript went wrong and took the button with it. javascript:void(0) is not a valid URL and has no business being in an href attribute. It is a blinking warning sign that somewhere in the development process Google threw in the towel and created everything in JavaScript. On investigation, I found out that the purpose of the code is to show an end user license agreement before download (as hinted in the class name), and the JavaScript automatically detects the operating system to provide the appropriate install package for Chrome. Both very good uses for this page, but the way they were implemented meant Google lost half a day of Chrome downloads. The remedy is straightforward: instead of pointing the link to a small inline JavaScript that does nothing at all, it should point to a download page that lists all the downloadable versions of Chrome. This could be a great resource in any case, as sometimes I might want to download a version not for my OS (for example, if I am on a fast connection somewhere). You can still add an event handler to the link to do all the other necessary things done in the JavaScript that was never called.
+
+All switch statement cases must end with break, throw, return, or a comment indicating a fall-through. Judging by this guideline, there is definitely a stylistic error and that means there could be a logic error. If the first case was supposed to fall through to the second case, then it should look like this: switch(value) { case 1: doSomething(); // falls through case 2: doSomethingElse(); break; default: doDefaultThing(); } If the first case wasn’t supposed to fall through, then it should end with a statement such as break. In either case, the original code doesn’t match the style guide and that means you need to double-check the intended functionality. In doing so, you might very well find a bug.
+
+. Only then should we add layers and layers of awesomeness for those browsers which can deal with them. For example, take the wonderful and standardized addEventListener(). OldIE doesn’t understand that, so we wrote a filler to overwrite attachEvent(). Bad plan. This is software ballast we’ll carry with us for years to come and it caters to a tiny subgroup of users that will get smaller and smaller. Why not just wrap all of our JavaScript in if (window.addEventListener) {} and never pester OldIE with the demanding JavaScript we write these days?
+
+The reason it was so fast was simple: automation. You can automate find and replace but you cannot automate CSS refactoring. My process was simple. I just ran: $ git grep "$CLASS_I_WANTED_TO_FIND" This gave me a list of all the files containing that class in my project. I then opened all these files in my text editor and ran a global find and replace. Easy.
+
+. Animations and transitions in CSS are hardware-accelerated; JavaScript animations are not. So are transformations in CSS, which means that a transform: translate(x,y) beats a position:absolute; top: x; left: y; when it comes to performance.
+
+Takeaway: Keep your selectors as short as possible, keep their specificity low at all costs, keep them as combinable as possible, keep them on the SRP and make sure they have sound selector intent. 
+
+if (window.addEventListener && document.querySelector) { var v = document.querySelector('video'), sources = v.querySelectorAll('source'), lastsource = sources[sources.length-1]; lastsource.addEventListener('error', function(ev) { var d = document.createElement('div'); d.innerHTML = v.innerHTML; v.parentNode.replaceChild(d, v); }, false); } What’s going on here? When a browser fails to play a video, it fires an error handler on the last source element in the video element. So, we test that the browser understands addEventListener() and querySelector() (which is the standard way of jQuery’s $(), really) and then get the last source element in the video element. If there is an error event being fired, we create a div element and replace the video with that one.
+
+: Class names should communicate useful information to developers. […] Tying your class name semantics tightly to the nature of the content has already reduced the ability of your architecture to scale or be easily put to use by other developers.
+
+Sensibleness is about ease of maintenance, longevity and how much sense something makes to a human being, because humans are the only things to take any amount of meaning from class names.
+
+A requestAnimationFrame() lets you change things and only display them when the result can end up onscreen. Furthermore, when the browser tab your script runs in is inactive (when the user is in another tab or window), the animation doesn’t run, thereby not wasting computation time and shortening battery life. In contrast, a setTimeout() hopes that the browser is ready to draw and runs whether the user is viewing your animation or not.
+
+Semantics is not about how we name our classes or IDs; the only things to gather meaning from classes and IDs are humans. Anything else that reads or accesses a class or an ID merely matches it;it does not derive any meaning from them at all. This, straight from the HTML(5) spec: Particular meanings should not be derived from the value of the ID attribute.
+
+As Nicole Sullivan once said, “Our (CSS) best practices are killing us7”; our desire to write markup that doesn’t use any classes serves no one, and often causes ourselves problems.
+
+Code is to a website what bricks and mortar are to a building: very important, but not really what people turn up to see. 
+
+Animation We’ve talked about requestAnimationFrame, but did you know that even more efficient than lighter JavaScript animation in your callbacks is no JavaScript at all? There’s no perfect solution for avoiding interruptions in requestAnimationFrame callbacks, but you can get some mileage using CSS animations to remove the need for them. In browsers like Opera Mobile and Chrome for Android, CSS animations can be run by the browser while JavaScript is running thanks to multi-threading.
+
+The client doesn’t care if you managed to avoid using any classes and wrote no extraneous markup, but if using two classes and an extra div makes your job easier, and makes the site easier to maintain, you should opt for the extra code every time. There is no use making your life more difficult because you think that avoiding an extra few characters of HTML is the right way to go. Be kind to yourself and your team.
+
+Semantics in front-end developments concerns whether to use a div or a header, or if some text should be a paragraph or a heading, or whether a list is to be ordered or unordered, and so on.
+
+
+## A/B Testing by Dan Siroker, Pete Koomen, Cara Harshman
+
+you need to answer a specific question: What is your website for? If you could make your website do one thing better, what would it do?
+
+TL;DR You can't pick a winner until you decide how you're keeping score. A/B testing starts with determining quantifiable success metrics. There are a number of possible conversion goals: time on site, pageviews, average order value, revenue per visitor, and so on. Take the time to pick the one that's right for you. Site analytics along with your own instincts will suggest bottlenecks where you can focus your attention. Understanding visitor intent with the help of interviews and usability tests will suggest hypotheses about what to change and how. Prioritize your experiments based on your prediction of their impact. Start testing, and continue until you begin to see diminishing returns.
+
+Leading publications from TIME to The Atlantic to Businessweek to Forbes wrote about the 2012 presidential campaign fundraising machines as being the most sophisticated, data-driven, and efficient organizations that politics had ever seen. And at the heart of this new reality was A/B testing.
+
+Obama told the packed auditorium. “I think that many of you can help me, so I want you to be involved.” He probably meant that he wanted donations, or maybe votes, but I took him literally. I took a leave of absence from Google initially and eventually quit my job to move from California to Chicago to join the campaign.
+
+A combination of the “Family Image” and the “Learn More” button improved the signup rate by a staggering 40.6 percent. Over the course of the campaign, that 40.6 percent lift in signups translated to 2.8 million more email subscribers, 288,000 more volunteers, and—perhaps most important of all—an additional $57 million in donations.
+
+

@@ -1,0 +1,811 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "Scala";
+    src: url(../fonts/scala.otf) format('opentype');
+    font-style: normal;
+    font-weight: normal
+}
+
+@font-face {
+    font-family: "Scala";
+    src: url(../fonts/scala-italic.ttf) format('truetype');
+    font-style: italic;
+    font-weight: normal
+}
+
+@font-face {
+    font-family: "Scala";
+    src: url(../fonts/scala.otf) format('opentype');
+    font-style: normal;
+    font-weight: bold
+}
+
+@font-face {
+    font-family: "Scala Sans SC";
+    src: url(../fonts/scalasans-regularsc.ttf) format('truetype');
+    font-style: normal;
+    font-weight: normal
+}
+
+h1, h2, h3, h4, h5, h6, body, div, span, p, blockquote, ul, ol, li, img, table, tr, td, th, tbody, thead, form {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Scala', 'Palatino Linotype', 'Palatino', times, serif;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 1.25em;
+  font-style: italic;
+  font-weight: normal;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.subtitle {
+  color: #808080;
+  font-size: 1em;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.5;
+}
+
+.colophon-title {
+  margin: 0;
+  font-size: 1em;
+  font-weight: normal;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+p {
+  margin: 0 0 1.5em;
+}
+
+/* Shared styles */
+
+.medium-text {
+  font-size: 1.25em;
+}
+
+.medium-text,
+.medium-text p {
+  margin-bottom: 1.2em;
+}
+
+.large-text {
+  font-size: 1.875em;
+  font-style: italic;
+}
+
+.large-text,
+.large-text p {
+  margin-bottom: 0.8em;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.img-wrapper img {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.logo {
+  width: 3.5em;
+}
+
+.figure .figure-container {
+  width: 100% !important;
+  height: auto !important;
+  margin-bottom: 1.5em;
+}
+
+.figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+.metadata {
+  margin: 0.5em 0 1.5em;
+  color: #808080;
+  font-size: 0.75em;
+}
+
+.attribution {
+  margin-bottom: 0.5em;
+}
+
+.table {
+  display: block;
+}
+
+.table-row {
+  display: block;
+  margin-bottom: 1.5em;
+}
+
+.table-cell {
+  display: block;
+  vertical-align: top;
+}
+
+.avoid-page-break-before {
+  page-break-before: avoid;
+}
+
+.avoid-page-break-after {
+  page-break-after: avoid;
+}
+
+.avoid-page-break-inside {
+  page-break-inside: avoid;
+}
+
+/* Page navigation */
+
+.page-nav {
+  display: none;
+}
+
+/* Page header */
+
+.page-header {
+  margin-bottom: 1.5em;
+}
+
+.page-header.compact-bottom {
+  margin-bottom: 0;
+}
+
+.page-header.centered {
+  text-align: center;
+}
+
+.page-header.title-separator {
+  text-align: center;
+}
+
+.header-image {
+  margin-bottom: 1em;
+}
+
+.page-header.title-separator:after {
+  content: "";
+  display: block;
+  width: 8em;
+  margin: 2em auto 3em;
+  border-bottom: 1px solid #ddd;
+  page-break-before: avoid;
+}
+
+.page-header.title-separator.compact-bottom:after {
+  margin-bottom: 0;
+}
+
+.cover-container {
+  width: 10em !important;
+  height: auto !important;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.cover-container img {
+  width: 100% !important;
+  height: auto !important;
+}
+
+/* Page section */
+
+.page-section {
+  margin-bottom: 2.5em;
+}
+
+.page-section-heading {
+  margin: 0 0 1.5em;
+  line-height: 1.5;
+}
+
+.page-section-heading {
+  display: block;
+  height: 0.75em;
+  margin: 0 0 2.5em;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+.page-section-header {
+  display: inline;
+  padding: 0 1em;
+  font-family: 'Scala Sans SC', 'Lucida Grande', 'Lucida Sans Unicode', helvetica, arial, sans-serif;
+  font-weight: normal;
+  text-transform: lowercase;
+  font-size: 1em;
+  background: white;
+}
+
+/* Highlights */
+
+.highlight {
+  margin-bottom: 1em;
+  line-height: 1.5em;
+}
+
+.highlight p {
+  display: inline;
+  margin: 0;
+  padding: 0.25em 0;
+  background: #f4f6b2;
+  white-space: pre-line;
+  word-wrap: break-word;
+}
+
+.simple-highlight {
+  font-style: italic;
+}
+
+.simple-highlight p:first-child:before,
+.simple-highlight p:first-of-type:before {
+  content: "\201c";
+}
+
+.simple-highlight p:last-child:after,
+.simple-highlight p:last-of-type:after {
+  content: "\201d";
+}
+
+.simple-highlight .cite {
+  display: block;
+  font-style: normal;
+  margin-top: -1.5em;
+  margin-bottom: 1.5em;
+  font-size: 1em;
+}
+
+.simple-highlight .cite:before {
+  content: "\2014";
+}
+
+/* Users */
+
+.user .avatar {
+  display: block;
+  width: 1.875em !important;
+  height: 1.875em !important;
+}
+
+.user .avatar img {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.avatar-list {
+  margin-top: 0.5em;
+  list-style: none;
+}
+
+.avatar-list li {
+  display: block;
+  margin-bottom: 0.25em;
+  float: left;
+}
+
+.avatar-list .user .avatar {
+  display: block;
+  float: left;
+  margin-right: 0.5em;
+}
+
+.avatar-list .user .name {
+  display: block;
+  overflow: hidden;
+  color: #808080;
+  font-size: 0.75em;
+  line-height: 2.5;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.reading-stats .avatar-list .user .avatar {
+  margin-right: 0.25em;
+}
+
+.reading-stats .avatar-list .user .name {
+  display: none;
+}
+
+/* Colophon */
+
+.colophon .img-wrapper {
+  width: 3.125em;
+  height: 3.125em;
+  margin: 0 auto;
+}
+
+/* Preface */
+.user-places ol {
+  counter-reset: user-places;
+}
+
+.user-places li {
+  list-style: none;
+}
+
+.user-places .place {
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.user-places li:before {
+  content: counter(user-places) ". ";
+  counter-increment: user-places;
+}
+
+.user-introduction-ending {
+  margin-top: -1em;
+}
+
+/* Reading */
+
+.centered .cover-container {
+  margin: 1.5em auto 3em;
+}
+
+.review {
+  margin-bottom: 0.6em;
+}
+
+.review p {
+  margin: 0;
+}
+
+.recommendation {
+  padding-left: 16px;
+  background: url(../images/star.png) 1px top no-repeat;
+  background-size: 11px 11px;
+}
+
+.reading-stats .label {
+  overflow: hidden;
+  font-family: 'Scala Sans SC', 'Lucida Grande', 'Lucida Sans Unicode', helvetica, arial, sans-serif;
+  text-transform: lowercase;
+  font-size: 1em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.reading-stats .user .name {
+
+}
+
+.review-list-item,
+.highlight-list-item {
+  margin-bottom: 3em;
+}
+
+.review-list-item .review,
+.highlight-list-item .highlight {
+  margin-bottom: 1em;
+}
+
+/* Comments */
+
+.comment-list-item {
+  margin: 0 0 1.5em;
+  padding-left: 3.5em;
+  font-size: 0.75em;
+}
+
+.comment-list-item .user .avatar {
+  display: block;
+  width: 2.5em !important;
+  height: 2.5em !important;
+  float: left;
+  margin-top: 0.2em;
+  margin-left: -3.5em;
+}
+
+.comment p {
+  margin: 0.5em 0 0;
+}
+
+.comment,
+.comment p:first-child {
+  display: inline;
+  margin: 0;
+}
+
+.comment-list-item .user .name {
+  color: #808080;
+}
+
+.comment-list-item .metadata {
+  margin: 0;
+  font-size: 1em;
+}
+
+/* Further reading */
+
+.book-list {
+  list-style: none;
+  margin: 0;
+}
+
+.book-list-item {
+  margin-bottom: 1.5em;
+}
+
+.book-list-item .cover {
+  width: 5em;
+  float: left;
+  margin: 0.4em 1.5em 0 0;
+}
+
+.book-list-item .title,
+.book-list-item .author {
+  display: block;
+}
+
+.book-list-item .author {
+  color: #808080;
+}
+
+/* The end */
+
+.the-end .logo {
+  margin: 0 auto 2em;
+}
+
+/* Book */
+.book-summary p {
+  font-style: italic;
+}
+
+/* Grouping (clearfix) */
+
+.group:before,
+.group:after {
+    content: "";
+    display: table;
+}
+
+.group:after {
+    clear: both;
+}
+
+.group {
+    zoom: 1;
+}
+
+/* Shared styles for enriched view */
+
+.richer a,
+.richer a:visited {
+    color: #58852c;
+    text-decoration: none;
+}
+
+.richer a:hover,
+.richer a:focus {
+    color: #4f9c02;
+    text-decoration: underline;
+}
+
+.richer a.left-chevron {
+  background: url(../images/left-chevron.png) left center no-repeat;
+  background-size: 6px 9px;
+  padding-left: 14px;
+}
+
+.richer a.right-chevron {
+  background: url(../images/right-chevron.png) center right no-repeat;
+  background-size: 6px 9px;
+  padding-right: 14px;
+}
+
+.richer .medium-margin {
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+.richer .big-margin {
+  margin-top: 8em;
+  margin-bottom: 8em;
+}
+
+/* Page */
+
+.richer .page {
+  width: 90%;
+  max-width: 33.125em;
+  margin: 1.5em auto 0;
+  padding: 0 5%;
+}
+
+/* Page navigation */
+
+.richer .page-nav {
+  display: block;
+}
+
+.richer .page-nav a {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.richer .top-nav {
+  margin-bottom: 3em;
+  border-bottom: 1px solid #ddd;
+}
+
+.richer .top-nav .menu-container {
+  position: relative;
+  margin-bottom: 1.5em;
+}
+
+.richer .top-nav .menu-button {
+  display: block;
+  width: 3em;
+  height: 3em;
+  padding-left: 0;
+  background: white url(../images/icon-toc.png) 1em center no-repeat;
+  background-size: 17px 14px;
+  border: 1px solid #ddd;
+  border-radius: 0.25em;
+  color: inherit;
+  text-indent: -3000em;
+  text-align: center;
+  text-decoration: none;
+  line-height: 3em;
+  overflow: hidden;
+}
+
+.richer .top-nav ol {
+  display: none;
+  height: 17em;
+  overflow: scroll;
+  position: absolute;
+  top: 3em;
+  left: 0;
+  right: 0;
+  padding: 0.75em 0;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 0 0 0.25em 0.25em;
+  list-style: none;
+}
+.book-export.richer .top-nav ol {
+  height: 10em;
+}
+
+.richer .top-nav .menu-button {
+  cursor: pointer;
+}
+
+.richer .top-nav .menu-button:focus {
+  width: auto;
+  outline: none;
+  text-indent: 0;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.richer .top-nav .menu-button:focus + ol,
+.richer .top-nav ol:hover {
+  display: block;
+}
+
+.richer .top-nav li a {
+  height: 2.5em;
+  padding: 0 1.5em;
+  line-height: 2.5;
+}
+
+.richer .top-nav li:first-child a {
+  border-top: none;
+}
+
+.richer .bottom-nav {
+  border-top: 1px solid #ddd;
+  padding-top: 1em;
+  margin-bottom: 2.5em
+}
+
+.richer .bottom-nav ul {
+  list-style: none;
+}
+
+.richer .bottom-nav li {
+  max-width: 45%;
+}
+
+.richer .bottom-nav .previous {
+  float: left;
+}
+
+.richer .bottom-nav .next {
+  float: right;
+}
+
+/* Reading */
+
+.richer .avatar-list li {
+  display: block;
+  width: 50%;
+  float: left;
+}
+
+.richer .avatar-list .user .avatar {
+  display: block;
+}
+
+.richer .avatar-list .user .name {
+  padding-right: 1em;
+}
+
+.richer .reading-stats .avatar-list {
+  margin-top: 0;
+}
+
+.richer .reading-stats .avatar-list li {
+  width: auto;
+}
+
+@media only screen and (min-width: 28em) {
+  /* Page */
+
+  .richer .page {
+    margin-top: 3em;
+  }
+
+  /* Shared styles */
+
+  .richer .medium-margin {
+    margin-top: 10em;
+    margin-bottom: 10em;
+  }
+
+  .richer .big-margin {
+    margin-top: 16em;
+    margin-bottom: 16em;
+  }
+
+  .richer .table {
+    display: table;
+    width: 100%;
+  }
+
+  .richer .table-row {
+    display: table-row;
+  }
+
+  .richer .table-cell {
+    display: table-cell;
+  }
+
+  /* Page navigation */
+
+  .richer .top-nav .menu-button:focus {
+    width: 20em;
+  }
+
+  .richer .top-nav ol {
+    width: 20em;
+    right: auto;
+  }
+
+  .richer .bottom-nav {
+    margin-bottom: 3em
+  }
+
+  /* Reading */
+
+  .richer .reading-stats .table-cell {
+    padding-bottom: 1em;
+  }
+
+  .richer .reading-stats .table-cell.verso {
+    width: 50%;
+    padding-right: 1em;
+  }
+
+  .richer .reading-stats .table-cell.recto {
+    width: 50%;
+  }
+
+  .richer .avatar-list li {
+    width: 33.33333%;
+  }
+
+  .richer .reading-stats .avatar-list li {
+    width: auto;
+  }
+
+  .richer .user-places .two-column {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    -ie-column-count: 2;
+    -o-column-count: 2;
+    column-count: 2;
+  }
+}
+
+/* PDF */
+
+.pdf {
+  font-size: 12pt;
+}
+
+.pdf .table {
+  display: table;
+  width: 100%;
+}
+
+.pdf .table-row {
+  display: table-row;
+}
+
+.pdf .table-cell {
+  display: table-cell;
+}
+
+.pdf .reading-stats .table-cell {
+  padding-bottom: 1em;
+}
+
+.pdf .reading-stats .table-cell.verso {
+  width: 50%;
+  padding-right: 1em;
+}
+
+.pdf .reading-stats .table-cell.recto {
+  width: 50%;
+}
+
+.pdf .reading-stats-item {
+  margin-bottom: 1em;
+}
+
+.pdf .avatar-list li {
+  display: block;
+  width: 33.33333%;
+  float: left;
+}
+
+.pdf .reading-stats .avatar-list {
+  margin-top: 0;
+}
+
+.pdf .reading-stats .avatar-list li {
+  width: auto;
+}
+
+.pdf .avatar-list .user .avatar {
+  display: block;
+}
+
+.pdf .avatar-list .user .name {
+  padding-right: 1em;
+}
+
+.pdf.cover img {
+  padding-top: 20mm;
+}
+
+.pdf .user-places .two-column {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  -ie-column-count: 2;
+  -o-column-count: 2;
+  column-count: 2;
+}

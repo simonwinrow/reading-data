@@ -1,0 +1,3092 @@
+{
+  "liked_highlights": [
+    {
+      "content": "Whenever you can, swap “Let’s think about it” for “Let’s decide on it.” Commit to making decisions. Don’t wait for the perfect solution. Decide and move forward.",
+      "position": null,
+      "highlighted_at": "2011-12-10T14:04:17Z",
+      "locators": {
+        "mid": "Whenever you can, swap “Let’s think about it” for “Let’s decide on it.” Commit to making decisions. Don’t wait for the perfect solution. Decide and move forward.",
+        "pre": "",
+        "post": ""
+      },
+      "user": {
+        "username": "ohorn",
+        "firstname": "Oliver",
+        "lastname": "Horn",
+        "country": null,
+        "city": null,
+        "website": null,
+        "description": null,
+        "avatar": "assets/avatars/ohorn.jpg"
+      },
+      "book": {
+        "title": "ReWork",
+        "author": "Jason Fried and David Heinemeier Hansson",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "ADDN2X",
+          "firstname": "addn2x",
+          "lastname": "",
+          "country": "",
+          "city": "",
+          "website": "",
+          "description": "reading books, coding webs, hacking life, exploring worlds ",
+          "avatar": "assets/avatars/ADDN2X.jpg"
+        },
+        {
+          "username": "jensjakob",
+          "firstname": "Jakob",
+          "lastname": "Nanneson",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "website": "http://jensplan.se",
+          "description": "",
+          "avatar": "assets/avatars/jensjakob.jpg"
+        },
+        {
+          "username": "jonashjalmar",
+          "firstname": "Jonas Hjalmar",
+          "lastname": "Blom",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "website": "http://about.me/jonashjalmar",
+          "description": "Behavior designer, flaneur and growing minimalist.",
+          "avatar": "assets/avatars/jonashjalmar.jpg"
+        },
+        {
+          "username": "dzema",
+          "firstname": "Dmitriy",
+          "lastname": "Dzema",
+          "country": "",
+          "city": "",
+          "website": "http://worldinviewfinder.com",
+          "description": "",
+          "avatar": "assets/avatars/dzema.jpg"
+        },
+        {
+          "username": "adoran2",
+          "firstname": "Andrew",
+          "lastname": "Doran",
+          "country": "UK",
+          "city": "Berkhamsted",
+          "website": "http://www.andrewdoran.co.uk/",
+          "description": "Husband, dad of two boys, IT portfolio and business manager at an African bank, school governor, over-enthusiastic, geek. A buyer of books, a reader of some of them and a great longing to get through as many as I can fit in.",
+          "avatar": "assets/avatars/adoran2.jpg"
+        },
+        {
+          "username": "patch",
+          "firstname": "Patch",
+          "lastname": "Hofweber",
+          "country": "Sweden",
+          "city": "Lund",
+          "website": "http://finagrejer.cc",
+          "description": "Spiritually I’m a climber.",
+          "avatar": "assets/avatars/patch.jpg"
+        },
+        {
+          "username": "prjacobsson",
+          "firstname": "Peter",
+          "lastname": "Jacobsson",
+          "country": "",
+          "city": "",
+          "website": "",
+          "description": "",
+          "avatar": "assets/avatars/prjacobsson.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "marius",
+          "firstname": "Marius",
+          "lastname": "Kažemėkaitis",
+          "country": "Lithuania",
+          "city": "Kaunas",
+          "website": "http://www.lemonlabs.lt",
+          "description": "iOS Developer",
+          "avatar": "assets/avatars/marius.jpg"
+        },
+        {
+          "username": "kenna",
+          "firstname": "Kenna",
+          "lastname": "Marcelo",
+          "country": "United Arab Emirates",
+          "city": "Dubai",
+          "website": "http://areturnafterlongwanderings.com/",
+          "description": "Founder of Mensis Liber. I sometimes make things for the web. Was born in an archipelago of 7,107 islands currently living in the desert working as a telecommunications engineer.",
+          "avatar": "assets/avatars/kenna.jpg"
+        },
+        {
+          "username": "nvanexan",
+          "firstname": "Nicholas",
+          "lastname": "Van Exan",
+          "country": "Canada",
+          "city": "Toronto",
+          "website": "http://nicholasvanexan.com",
+          "description": "Professional Quibbler",
+          "avatar": "assets/avatars/nvanexan.jpg"
+        },
+        {
+          "username": "lmsanchez",
+          "firstname": "Lisa",
+          "lastname": "Sanchez",
+          "country": "",
+          "city": "Berlin",
+          "website": "http://lisasanchez.me",
+          "description": "Community manager at Readmill. Wondering what you've read and loved lately. lisa@readmill.com",
+          "avatar": "assets/avatars/lmsanchez.jpg"
+        },
+        {
+          "username": "nepisodes",
+          "firstname": "Connor",
+          "lastname": "Zhang",
+          "country": "USA",
+          "city": "Columbus",
+          "website": "",
+          "description": "I pursue a balanced mind.",
+          "avatar": "assets/avatars/nepisodes.jpg"
+        },
+        {
+          "username": "kvignesh_krish",
+          "firstname": "Vignesh",
+          "lastname": "Krish",
+          "country": "",
+          "city": "",
+          "website": "",
+          "description": "",
+          "avatar": null
+        },
+        {
+          "username": "lamar",
+          "firstname": "Lamar",
+          "lastname": "R Glenn",
+          "country": "USA",
+          "city": "Philadelphia",
+          "website": "",
+          "description": "Web Developer & Designer | Software Engineer | Avid reader",
+          "avatar": "assets/avatars/lamar.jpg"
+        }
+      ],
+      "comments_count": 4,
+      "comments": [
+        {
+          "content": "Decisiveness is definitely one of the most important things to get stuff done imho.",
+          "posted_at": "2012-11-28T17:53:59Z",
+          "user": {
+            "username": "henrik",
+            "firstname": "Henrik",
+            "lastname": "Berggren",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://readmill.com",
+            "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+            "avatar": "assets/avatars/henrik.jpg"
+          }
+        },
+        {
+          "content": "I was told at work a long time ago that if in doubt, make a decision and my managers would support me on it. The mantra was that this was always better than doing nothing at all. I'm not sure that's always true but it was good for making sure things kept moving.",
+          "posted_at": "2012-12-07T09:03:23Z",
+          "user": {
+            "username": "adoran2",
+            "firstname": "Andrew",
+            "lastname": "Doran",
+            "country": "UK",
+            "city": "Berkhamsted",
+            "website": "http://www.andrewdoran.co.uk/",
+            "description": "Husband, dad of two boys, IT portfolio and business manager at an African bank, school governor, over-enthusiastic, geek. A buyer of books, a reader of some of them and a great longing to get through as many as I can fit in.",
+            "avatar": "assets/avatars/adoran2.jpg"
+          }
+        },
+        {
+          "content": "@adoran2 I actually think it is. ",
+          "posted_at": "2012-12-07T09:08:47Z",
+          "user": {
+            "username": "henrik",
+            "firstname": "Henrik",
+            "lastname": "Berggren",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://readmill.com",
+            "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+            "avatar": "assets/avatars/henrik.jpg"
+          }
+        },
+        {
+          "content": "Yes, exactly.",
+          "posted_at": "2014-02-07T02:36:13Z",
+          "user": {
+            "username": "lamar",
+            "firstname": "Lamar",
+            "lastname": "R Glenn",
+            "country": "USA",
+            "city": "Philadelphia",
+            "website": "",
+            "description": "Web Developer & Designer | Software Engineer | Avid reader",
+            "avatar": "assets/avatars/lamar.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "Meet Ruby, one of my favorites. She’s sometimes quirky, always beautiful, a little mysterious, and absolutely magical",
+      "position": 0.0642458,
+      "highlighted_at": "2012-01-10T21:39:40Z",
+      "locators": {
+        "position": 0.0642458,
+        "mid": "Meet Ruby, one of my favorites. She’s sometimes quirky, always beautiful, a little mysterious, and absolutely magical",
+        "post": ". Think Mary Poppins,",
+        "pre": ""
+      },
+      "user": {
+        "username": "chdorner",
+        "firstname": "Christof",
+        "lastname": "Dorner",
+        "country": "Germany",
+        "city": "Berlin",
+        "website": "http://chdorner.com",
+        "description": "Developer. Book lover.",
+        "avatar": "assets/avatars/chdorner.jpg"
+      },
+      "book": {
+        "title": "Seven Languages in Seven Weeks",
+        "author": "Bruce A. Tate",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "christoffer",
+          "firstname": "Christoffer",
+          "lastname": "Klang",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "website": "http://readtracker.com",
+          "description": "Developing ReadTracker. Mostly reading tech stuff, sci-fi and block-busters.",
+          "avatar": "assets/avatars/christoffer.jpg"
+        },
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "andreaskallbom",
+          "firstname": "Andreas",
+          "lastname": "Källbom",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "website": "http://www.andreaskallbom.com",
+          "description": "I'm mostly reading books in the field of design. Used to design things at Readmill.",
+          "avatar": "assets/avatars/andreaskallbom.jpg"
+        },
+        {
+          "username": "jakobfricke",
+          "firstname": "Jakob",
+          "lastname": "Fricke",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://www.viktorundpettl.de",
+          "description": "publisher. experimenting with new forms of content, formats and business models. how does digital change books?",
+          "avatar": "assets/avatars/jakobfricke.jpg"
+        },
+        {
+          "username": "ADDN2X",
+          "firstname": "addn2x",
+          "lastname": "",
+          "country": "",
+          "city": "",
+          "website": "",
+          "description": "reading books, coding webs, hacking life, exploring worlds ",
+          "avatar": "assets/avatars/ADDN2X.jpg"
+        },
+        {
+          "username": "vieron",
+          "firstname": "vieron",
+          "lastname": "",
+          "country": "",
+          "city": "",
+          "website": "http://www.vieron.net",
+          "description": "",
+          "avatar": "assets/avatars/vieron.jpg"
+        },
+        {
+          "username": "bomberstudios",
+          "firstname": "Ale",
+          "lastname": "Muñoz",
+          "country": "Spain",
+          "city": "Madrid",
+          "website": "http://sofanaranja.com",
+          "description": "I read mostly design & technology books, but every now and then I like to read about business, strategy and psychology.\r\n\r\nI don't have much free time, so I don't read shit books : )",
+          "avatar": "assets/avatars/bomberstudios.jpg"
+        },
+        {
+          "username": "chdorner",
+          "firstname": "Christof",
+          "lastname": "Dorner",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://chdorner.com",
+          "description": "Developer. Book lover.",
+          "avatar": "assets/avatars/chdorner.jpg"
+        },
+        {
+          "username": "hi",
+          "firstname": "William",
+          "lastname": "Melody",
+          "country": "CA",
+          "city": "San Francisco",
+          "website": "http://williammelody.com/_",
+          "description": "Craftsman, researcher, idealist, occasional entrepreneur.",
+          "avatar": "assets/avatars/hi.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "johanb",
+          "firstname": "",
+          "lastname": "",
+          "country": "",
+          "city": "",
+          "website": "http://gidogeek.com",
+          "description": "",
+          "avatar": "assets/avatars/johanb.jpg"
+        },
+        {
+          "username": "teddyzetterlund",
+          "firstname": "Teddy",
+          "lastname": "Zetterlund",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "website": "http://twitter.com/teddyzetterlund",
+          "description": "Lead Developer at @hemnet. Passionate about friends & family, problem solving, product development, physical & mental fitness, creating, learning and teaching.",
+          "avatar": "assets/avatars/teddyzetterlund.jpg"
+        }
+      ],
+      "comments_count": 9,
+      "comments": [
+        {
+          "content": "#win",
+          "posted_at": "2012-01-10T22:08:33Z",
+          "user": {
+            "username": "henrik",
+            "firstname": "Henrik",
+            "lastname": "Berggren",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://readmill.com",
+            "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+            "avatar": "assets/avatars/henrik.jpg"
+          }
+        },
+        {
+          "content": "Oh yeah, #ftw",
+          "posted_at": "2012-01-10T22:12:59Z",
+          "user": {
+            "username": "chdorner",
+            "firstname": "Christof",
+            "lastname": "Dorner",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://chdorner.com",
+            "description": "Developer. Book lover.",
+            "avatar": "assets/avatars/chdorner.jpg"
+          }
+        },
+        {
+          "content": "Ruby - my first love. Cheating on her with others, but she knows I'll always end up back with her...",
+          "posted_at": "2012-01-10T22:37:51Z",
+          "user": {
+            "username": "buffpojken",
+            "firstname": "Daniel",
+            "lastname": "Sundström",
+            "country": null,
+            "city": null,
+            "website": null,
+            "description": null,
+            "avatar": null
+          }
+        },
+        {
+          "content": "http://open.spotify.com/track/0xCZ1vj0ImR3w4YF9ZArAA\r\nhttp://www.youtube.com/watch?v=9alAuYr2g_8\r\n\r\n:)",
+          "posted_at": "2012-01-10T22:46:59Z",
+          "user": {
+            "username": "henrik",
+            "firstname": "Henrik",
+            "lastname": "Berggren",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://readmill.com",
+            "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+            "avatar": "assets/avatars/henrik.jpg"
+          }
+        },
+        {
+          "content": "It's actually a pretty good song :)",
+          "posted_at": "2012-01-11T10:51:29Z",
+          "user": {
+            "username": "chdorner",
+            "firstname": "Christof",
+            "lastname": "Dorner",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://chdorner.com",
+            "description": "Developer. Book lover.",
+            "avatar": "assets/avatars/chdorner.jpg"
+          }
+        },
+        {
+          "content": "I know :)",
+          "posted_at": "2012-01-11T13:02:20Z",
+          "user": {
+            "username": "henrik",
+            "firstname": "Henrik",
+            "lastname": "Berggren",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://readmill.com",
+            "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+            "avatar": "assets/avatars/henrik.jpg"
+          }
+        },
+        {
+          "content": "Nice! #epic",
+          "posted_at": "2012-01-11T21:41:42Z",
+          "user": {
+            "username": "GLindqvist",
+            "firstname": "Gustaf",
+            "lastname": "Lindqvist",
+            "country": "",
+            "city": "Sundsvall",
+            "website": "http://gustaflindqvist.net",
+            "description": "Web entrepreneur and developer focus on ASP.NET MVC, Ruby/Python, Objective-C, Cocoa, These opinions are my own.",
+            "avatar": null
+          }
+        },
+        {
+          "content": "http://www.xent.com/pipermail/fork/Week-of-Mon-20070219/044101.html",
+          "posted_at": "2012-01-12T22:29:05Z",
+          "user": {
+            "username": "eric",
+            "firstname": "Eric",
+            "lastname": "Wahlforss",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://eric.wahlforss.com",
+            "description": "CTO SoundCloud",
+            "avatar": null
+          }
+        },
+        {
+          "content": "Thank you for that one - Haskell...indeed...it's indeed beautiful. And weird.",
+          "posted_at": "2012-01-13T00:30:05Z",
+          "user": {
+            "username": "buffpojken",
+            "firstname": "Daniel",
+            "lastname": "Sundström",
+            "country": null,
+            "city": null,
+            "website": null,
+            "description": null,
+            "avatar": null
+          }
+        }
+      ]
+    },
+    {
+      "content": "As a result, instead of optimizing our machines for humanity—or even the benefit of some particular group—we are optimizing humans for machinery.",
+      "position": 0.092511,
+      "highlighted_at": "2012-03-29T12:41:59Z",
+      "locators": {
+        "position": 0.09251101315021515,
+        "mid": "As a result, instead of optimizing our machines for humanity—or even the benefit of some particular group—we are optimizing humans for machinery.",
+        "post": " And that’s why the choices we make (or don’t make) right now really do matter as much or more than ",
+        "pre": "ff—with little regard to how it actually impacts our lives. Who has time to think about it, anyway? "
+      },
+      "user": {
+        "username": "markdicristina",
+        "firstname": "Mark",
+        "lastname": "DiCristina",
+        "country": "United States",
+        "city": "Atlanta",
+        "website": "",
+        "description": "Marketing at MailChimp, reading at @markisreading, running as fast as I can",
+        "avatar": "assets/avatars/markdicristina.jpg"
+      },
+      "book": {
+        "title": "Program or Be Programmed",
+        "author": "Douglas Rushkoff",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "autiomaa",
+          "firstname": "Daniel",
+          "lastname": "Schildt",
+          "country": "Finland",
+          "city": "Jyväskylä",
+          "website": "http://autiomaa.org",
+          "description": "Web Developer + Photographer + Live Audio Engineer | http://linkedin.com/in/autiomaa  | 3:16 | aka @d2s | (FI, EN)",
+          "avatar": "assets/avatars/autiomaa.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "In her role as point man",
+      "position": 0.198198,
+      "highlighted_at": "2012-04-14T16:54:52Z",
+      "locators": {
+        "position": 0.19819819927215576,
+        "mid": "In her role as point man",
+        "post": ", a content strategist works with other front-runners who lead various aspects of the project: infor",
+        "pre": "requires alertness and ability to deal with unexpected attacks” (http://bkaprt.com/cs/2/).1 Indeed. "
+      },
+      "user": {
+        "username": "aworkinglibrary",
+        "firstname": "Mandy",
+        "lastname": "Brown",
+        "country": "",
+        "city": "",
+        "website": "http://www.aworkinglibrary.com",
+        "description": "Writer, editor, designer & publisher. Co-founder of A Book Apart, former editor at A List Apart, and Communications Director at Typekit.",
+        "avatar": "assets/avatars/aworkinglibrary.jpg"
+      },
+      "book": {
+        "title": "The Elements of Content Strategy",
+        "author": "Erin Kissane",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "lmsanchez",
+          "firstname": "Lisa",
+          "lastname": "Sanchez",
+          "country": "",
+          "city": "Berlin",
+          "website": "http://lisasanchez.me",
+          "description": "Community manager at Readmill. Wondering what you've read and loved lately. lisa@readmill.com",
+          "avatar": "assets/avatars/lmsanchez.jpg"
+        }
+      ],
+      "comments_count": 1,
+      "comments": [
+        {
+          "content": "I suspect most editors would have cut this, but I fucking love it. ",
+          "posted_at": "2012-04-14T16:54:52Z",
+          "user": {
+            "username": "aworkinglibrary",
+            "firstname": "Mandy",
+            "lastname": "Brown",
+            "country": "",
+            "city": "",
+            "website": "http://www.aworkinglibrary.com",
+            "description": "Writer, editor, designer & publisher. Co-founder of A Book Apart, former editor at A List Apart, and Communications Director at Typekit.",
+            "avatar": "assets/avatars/aworkinglibrary.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "To whatever extent we are being changed by digital technology, reading is one of the principal ways of retaining a connection to the present way of being human, and the skill of following someone else’s linear narrative, which is as important as being able to construct one’s own.",
+      "position": 0.859155,
+      "highlighted_at": "2012-06-29T23:55:41Z",
+      "locators": {
+        "position": 0.8591549396514893,
+        "mid": "To whatever extent we are being changed by digital technology, reading is one of the principal ways of retaining a connection to the present way of being human, and the skill of following someone else’s linear narrative, which is as important as being able to construct one’s own.",
+        "post": " We need to be able to choose which one is more appropriate in a given setting, just as, in some con",
+        "pre": "tion; it is central to who we have been and to many of the beliefs we hold to be a core part of us. "
+      },
+      "user": {
+        "username": "aworkinglibrary",
+        "firstname": "Mandy",
+        "lastname": "Brown",
+        "country": "",
+        "city": "",
+        "website": "http://www.aworkinglibrary.com",
+        "description": "Writer, editor, designer & publisher. Co-founder of A Book Apart, former editor at A List Apart, and Communications Director at Typekit.",
+        "avatar": "assets/avatars/aworkinglibrary.jpg"
+      },
+      "book": {
+        "title": "The Blind Giant: Being Human in a Digital World",
+        "author": "Nick Harkaway",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Learn that you are one of many, and understand that that is not a statement of insignificance, but the reverse.",
+      "position": 0.884507,
+      "highlighted_at": "2012-06-30T00:50:37Z",
+      "locators": {
+        "position": 0.8845070600509644,
+        "mid": "Learn that you are one of many, and understand that that is not a statement of insignificance, but the reverse.",
+        "post": " blindgiant.co.uk/chapter9 ",
+        "pre": "ce of such an area has been uncertain at best. Now it’s there, and you can choose to be part of it. "
+      },
+      "user": {
+        "username": "aworkinglibrary",
+        "firstname": "Mandy",
+        "lastname": "Brown",
+        "country": "",
+        "city": "",
+        "website": "http://www.aworkinglibrary.com",
+        "description": "Writer, editor, designer & publisher. Co-founder of A Book Apart, former editor at A List Apart, and Communications Director at Typekit.",
+        "avatar": "assets/avatars/aworkinglibrary.jpg"
+      },
+      "book": {
+        "title": "The Blind Giant: Being Human in a Digital World",
+        "author": "Nick Harkaway",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "tealtan",
+          "firstname": "Allen",
+          "lastname": "Tan",
+          "country": "",
+          "city": "",
+          "website": "http://tanmade.com/",
+          "description": "Graphic and interaction designer by day, assistant editor for @codex and @contents by night.",
+          "avatar": "assets/avatars/tealtan.jpg"
+        },
+        {
+          "username": "justincharles",
+          "firstname": "Justin",
+          "lastname": "Charles",
+          "country": "",
+          "city": "",
+          "website": "http://www.dayofthedreamweavers.com",
+          "description": "Design & Technology MFA candidate at Parsons @mfadt. Attempting to read the entire world wide web since 2006.",
+          "avatar": "assets/avatars/justincharles.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "JamesBriano",
+          "firstname": "James",
+          "lastname": "Briano",
+          "country": "USA",
+          "city": "San Francisco",
+          "website": "http://jamesbriano.com",
+          "description": "Instructional Designer and program manager at Mission Valley ROP. Interested in web design, architecture, and education.",
+          "avatar": "assets/avatars/JamesBriano.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "This book is, partly, about making things out of stories, and using them to help us live well.",
+      "position": 0.0454545,
+      "highlighted_at": "2012-07-10T19:23:04Z",
+      "locators": {
+        "position": 0.04545454680919647,
+        "mid": "This book is, partly, about making things out of stories, and using them to help us live well.",
+        "post": " Without warning one day, a mail from Frank appeared in my inbox, introducing himself: You know what",
+        "pre": "ork. We make up the in-between parts. We improvise. Frank’s stories became my stories, our stories. "
+      },
+      "user": {
+        "username": "tealtan",
+        "firstname": "Allen",
+        "lastname": "Tan",
+        "country": "",
+        "city": "",
+        "website": "http://tanmade.com/",
+        "description": "Graphic and interaction designer by day, assistant editor for @codex and @contents by night.",
+        "avatar": "assets/avatars/tealtan.jpg"
+      },
+      "book": {
+        "title": "The Shape of Design",
+        "author": "Frank Chimero",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Dumbing down your UI is only the half-smart thing to do. The really smart thing is to find a way to leave the details accessible, but make them unobtrusive.",
+      "position": 0.299487,
+      "highlighted_at": "2012-07-17T15:42:50Z",
+      "locators": {
+        "position": 0.2994871735572815,
+        "mid": "Dumbing down your UI is only the half-smart thing to do. The really smart thing is to find a way to leave the details accessible, but make them unobtrusive.",
+        "post": " Case Study: SNG The program sng translates between PNG format and an all-text representation of it ",
+        "pre": "row up his hands in frustration while trying to solve her email problems. The lesson here is clear. "
+      },
+      "user": {
+        "username": "arvid",
+        "firstname": "Arvid",
+        "lastname": "Andersson",
+        "country": "Sweden",
+        "city": "Stockholm",
+        "website": "http://arvidandersson.se/",
+        "description": "",
+        "avatar": "assets/avatars/arvid.jpg"
+      },
+      "book": {
+        "title": "The Art of Unix Programming",
+        "author": "Eric Steven Raymond",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "chdorner",
+          "firstname": "Christof",
+          "lastname": "Dorner",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://chdorner.com",
+          "description": "Developer. Book lover.",
+          "avatar": "assets/avatars/chdorner.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "We ought to take a fresh look at tradition, considered not as the inert acceptance of a fossilized corpus of themes and conventions, but as an organic habit of re-creating what has been received and is handed on.",
+      "position": 0.138374,
+      "highlighted_at": "2012-07-19T03:38:10Z",
+      "locators": {
+        "position": 0.1383737474679947,
+        "mid": "We ought to take a fresh look at tradition, considered not as the inert acceptance of a fossilized corpus of themes and conventions, but as an organic habit of re-creating what has been received and is handed on.",
+        "post": " The omission of historians to study the revolution in the forms of thought and social organization ",
+        "pre": "as bequeathed to us – along with its immeasurable riches – snobberies which ought to be cast aside. "
+      },
+      "user": {
+        "username": "kissane",
+        "firstname": "erin",
+        "lastname": "kissane",
+        "country": null,
+        "city": null,
+        "website": "http://incisive.nu",
+        "description": "Editorial and content strategist. Reader. Writer. Blue canary in the outlet by the light switch.",
+        "avatar": "assets/avatars/kissane.jpg"
+      },
+      "book": {
+        "title": "The Gutenberg Galaxy: The Making of Typographic Man",
+        "author": "Marshall McLuhan",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "dvsmethid",
+          "firstname": "Derrick",
+          "lastname": "Schultz",
+          "country": "United States",
+          "city": "Brooklyn",
+          "website": "http://derrickschultz.com",
+          "description": "",
+          "avatar": "assets/avatars/dvsmethid.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "richardjingram",
+          "firstname": "Richard",
+          "lastname": "Ingram",
+          "country": "",
+          "city": "",
+          "website": "http://www.richardingram.co.uk/",
+          "description": "Unapologetically pale and bookish.",
+          "avatar": "assets/avatars/richardjingram.jpg"
+        },
+        {
+          "username": "kenna",
+          "firstname": "Kenna",
+          "lastname": "Marcelo",
+          "country": "United Arab Emirates",
+          "city": "Dubai",
+          "website": "http://areturnafterlongwanderings.com/",
+          "description": "Founder of Mensis Liber. I sometimes make things for the web. Was born in an archipelago of 7,107 islands currently living in the desert working as a telecommunications engineer.",
+          "avatar": "assets/avatars/kenna.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Fuck had no sake here.",
+      "position": 0.720339,
+      "highlighted_at": "2012-07-22T05:03:49Z",
+      "locators": {
+        "position": 0.7203390002250671,
+        "mid": "Fuck had no sake here.",
+        "post": " The screaming trailed off as lights came into view through the trees, and Monique continued to exer",
+        "pre": "ngling in front of him with all the subtlety of, well, a furious Dutch gunner smashing up a studio. "
+      },
+      "user": {
+        "username": "kissane",
+        "firstname": "erin",
+        "lastname": "kissane",
+        "country": null,
+        "city": null,
+        "website": "http://incisive.nu",
+        "description": "Editorial and content strategist. Reader. Writer. Blue canary in the outlet by the light switch.",
+        "avatar": "assets/avatars/kissane.jpg"
+      },
+      "book": {
+        "title": "The Enterprise of Death",
+        "author": "Jesse Bullington",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "zearl",
+          "firstname": "Zak",
+          "lastname": "Greene",
+          "country": null,
+          "city": null,
+          "website": "http://www.zakgreene.com",
+          "description": "Designer for Big Think, artist, reader, writer, music person, contrarian. Not a spam bot. Or am I?",
+          "avatar": "assets/avatars/zearl.jpg"
+        },
+        {
+          "username": "matthewcbostock",
+          "firstname": "Matthew",
+          "lastname": "Bostock",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://matthewbostock.com",
+          "description": "British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.",
+          "avatar": "assets/avatars/matthewcbostock.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "qraig",
+          "firstname": "Craig",
+          "lastname": "Swanson",
+          "country": "USA",
+          "city": "Rowayton",
+          "website": "http://craigswanson.tumblr.com",
+          "description": "Built and assembled in the New World.",
+          "avatar": "assets/avatars/qraig.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Instead, the human brain is wonderfully plastic—so much so that researchers have been able to teach a blind man to see with his tongue.[48] They took a video camera chip and wired its output to the patient’s tongue in a small 16x16-pixel arrangement. His brain circuits rearranged themselves to perform visual processing based on the neural input from his tongue, and the patient was able to see well enough to drive around cones in a parking lot! Also notice that the input device isn’t particularly high resolution: a mere 256 pixels. But the brain fills in enough details that even this sort of low-res input is enough.",
+      "position": 0.262643,
+      "highlighted_at": "2012-07-21T21:27:50Z",
+      "locators": {
+        "pre": "past some fixed maximum. Fortunately for us and the rest of the race, it turns out that isn’t true. ",
+        "mid": "Instead, the human brain is wonderfully plastic—so much so that researchers have been able to teach a blind man to see with his tongue.[48] They took a video camera chip and wired its output to the patient’s tongue in a small 16x16-pixel arrangement. His brain circuits rearranged themselves to perform visual processing based on the neural input from his tongue, and the patient was able to see well enough to drive around cones in a parking lot! Also notice that the input device isn’t particularly high resolution: a mere 256 pixels. But the brain fills in enough details that even this sort of low-res input is enough.",
+        "post": " Tip:Rewire your brain with belief and constant practice. Neuroplasticity (the plastic nature of the",
+        "position": 0.2626427412033081
+      },
+      "user": {
+        "username": "andrew8088",
+        "firstname": "Andrew",
+        "lastname": "Burgess",
+        "country": "Canada",
+        "city": "Oshawa",
+        "website": "http://andrewburgess.ca",
+        "description": "Web Developer, enjoys JavaScript and Ruby. Currently in university. Christian. ",
+        "avatar": "assets/avatars/andrew8088.jpg"
+      },
+      "book": {
+        "title": "Pragmatic Thinking and Learning",
+        "author": "Andy Hunt",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "matthewcbostock",
+          "firstname": "Matthew",
+          "lastname": "Bostock",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://matthewbostock.com",
+          "description": "British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.",
+          "avatar": "assets/avatars/matthewcbostock.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "airinilv",
+          "firstname": null,
+          "lastname": null,
+          "country": null,
+          "city": null,
+          "website": null,
+          "description": null,
+          "avatar": null
+        },
+        {
+          "username": "nathos",
+          "firstname": "Nathan",
+          "lastname": "Henderson",
+          "country": "USA",
+          "city": "Rochester, NY",
+          "website": "http://nathos.com",
+          "description": "Designer & Web Developer in Rochester, NY",
+          "avatar": "assets/avatars/nathos.jpg"
+        }
+      ],
+      "comments_count": 1,
+      "comments": [
+        {
+          "content": "Just incredible!",
+          "posted_at": "2012-07-21T21:27:50Z",
+          "user": {
+            "username": "andrew8088",
+            "firstname": "Andrew",
+            "lastname": "Burgess",
+            "country": "Canada",
+            "city": "Oshawa",
+            "website": "http://andrewburgess.ca",
+            "description": "Web Developer, enjoys JavaScript and Ruby. Currently in university. Christian. ",
+            "avatar": "assets/avatars/andrew8088.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": " A half-read book is a half-finished love affair.",
+      "position": 0.117465,
+      "highlighted_at": "2012-07-29T17:13:09Z",
+      "locators": {
+        "position": 0.11746522039175034,
+        "mid": " A half-read book is a half-finished love affair.",
+        "post": " Find enclosed an inventory of the oldest editions in Zedelghem’s library. As you see, some items ar",
+        "pre": " gum tree. Would you ask Otto Jansch on Caithness Street if he knows anything about this Adam Ewing?"
+      },
+      "user": {
+        "username": "tomdotreilly",
+        "firstname": "Tom",
+        "lastname": "Reilly",
+        "country": "",
+        "city": "",
+        "website": "",
+        "description": "",
+        "avatar": "assets/avatars/tomdotreilly.jpg"
+      },
+      "book": {
+        "title": "Cloud Atlas",
+        "author": "David Mitchell",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "christoffer",
+          "firstname": "Christoffer",
+          "lastname": "Klang",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "website": "http://readtracker.com",
+          "description": "Developing ReadTracker. Mostly reading tech stuff, sci-fi and block-busters.",
+          "avatar": "assets/avatars/christoffer.jpg"
+        },
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "jakobfricke",
+          "firstname": "Jakob",
+          "lastname": "Fricke",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://www.viktorundpettl.de",
+          "description": "publisher. experimenting with new forms of content, formats and business models. how does digital change books?",
+          "avatar": "assets/avatars/jakobfricke.jpg"
+        },
+        {
+          "username": "julians",
+          "firstname": "Julian",
+          "lastname": "Stahnke",
+          "country": "Germany",
+          "city": "Potsdam",
+          "website": "http://julianstahnke.com",
+          "description": "Not enough content.",
+          "avatar": "assets/avatars/julians.jpg"
+        },
+        {
+          "username": "matthewcbostock",
+          "firstname": "Matthew",
+          "lastname": "Bostock",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://matthewbostock.com",
+          "description": "British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.",
+          "avatar": "assets/avatars/matthewcbostock.jpg"
+        },
+        {
+          "username": "agwieckowski",
+          "firstname": "Ania",
+          "lastname": "Wieckowski",
+          "country": null,
+          "city": null,
+          "website": null,
+          "description": "Managing Editor at Harvard Business Review Press. Today, publishing is like this: http://xkcd.com/167/. Tweets my own.",
+          "avatar": "assets/avatars/agwieckowski.jpg"
+        },
+        {
+          "username": "chdorner",
+          "firstname": "Christof",
+          "lastname": "Dorner",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://chdorner.com",
+          "description": "Developer. Book lover.",
+          "avatar": "assets/avatars/chdorner.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "marius",
+          "firstname": "Marius",
+          "lastname": "Kažemėkaitis",
+          "country": "Lithuania",
+          "city": "Kaunas",
+          "website": "http://www.lemonlabs.lt",
+          "description": "iOS Developer",
+          "avatar": "assets/avatars/marius.jpg"
+        },
+        {
+          "username": "kenna",
+          "firstname": "Kenna",
+          "lastname": "Marcelo",
+          "country": "United Arab Emirates",
+          "city": "Dubai",
+          "website": "http://areturnafterlongwanderings.com/",
+          "description": "Founder of Mensis Liber. I sometimes make things for the web. Was born in an archipelago of 7,107 islands currently living in the desert working as a telecommunications engineer.",
+          "avatar": "assets/avatars/kenna.jpg"
+        },
+        {
+          "username": "totobogy",
+          "firstname": "Tushar",
+          "lastname": "Malhotra",
+          "country": "",
+          "city": "",
+          "website": "http://totobogy.thoughtbubblez.com",
+          "description": "#Muser. #Techie. #Passionate about Education. #Lazy. #Traveler. #Bookworm. #Wannabe Poet. #Interested in learning about Sustainable Development. #Photography Enthusiast.",
+          "avatar": "assets/avatars/totobogy.jpg"
+        },
+        {
+          "username": "justinkropp",
+          "firstname": "Justin",
+          "lastname": "Kropp",
+          "country": "United States",
+          "city": "Chattanooga",
+          "website": "http://justinkropp@gmail.com",
+          "description": "Design minimalist exploring my discipline around the periphery of user experience, typography, semiotics, and technology.",
+          "avatar": "assets/avatars/justinkropp.jpg"
+        },
+        {
+          "username": "emilyphillips",
+          "firstname": "Emily",
+          "lastname": "Phillips",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "",
+          "description": "waxing poetic at Readmill",
+          "avatar": "assets/avatars/emilyphillips.jpg"
+        },
+        {
+          "username": "avisekhon",
+          "firstname": "Avi",
+          "lastname": "",
+          "country": "India",
+          "city": "",
+          "website": "",
+          "description": "",
+          "avatar": "assets/avatars/avisekhon.jpg"
+        }
+      ],
+      "comments_count": 1,
+      "comments": [
+        {
+          "content": "But sometimes you just have to let go...",
+          "posted_at": "2012-10-15T13:41:38Z",
+          "user": {
+            "username": "henrik",
+            "firstname": "Henrik",
+            "lastname": "Berggren",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://readmill.com",
+            "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+            "avatar": "assets/avatars/henrik.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "Find a voice and a passion, and establish yourself not just as a designer, but as someone who’s a design leader.",
+      "position": 0.133652,
+      "highlighted_at": "2012-09-25T23:40:23Z",
+      "locators": {
+        "position": 0.13365155458450317,
+        "mid": "Find a voice and a passion, and establish yourself not just as a designer, but as someone who’s a design leader.",
+        "post": " Cameron Moll When the CSS revolution hit, Cameron Moll made his name with his cutting-edge experime",
+        "pre": " "
+      },
+      "user": {
+        "username": "edgarmarca",
+        "firstname": "Edgar",
+        "lastname": "Marca",
+        "country": null,
+        "city": null,
+        "website": null,
+        "description": null,
+        "avatar": "assets/avatars/edgarmarca.jpg"
+      },
+      "book": {
+        "title": "Insites: The Book",
+        "author": "Viewport Industries",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "png_drummer",
+          "firstname": "Mike",
+          "lastname": "",
+          "country": "",
+          "city": "",
+          "website": "",
+          "description": "",
+          "avatar": null
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Instagram didn’t create a problem. They didn’t introduce the idea of photo sharing, they just simplified the process. They solved a problem other people hadn’t recognised, and they didn’t make anything worse while solving it. They didn’t make anyone’s life more complex. They added a lot of richness to peoples’ lives who now have a community they didn’t have before. That’s where you get something successful.",
+      "position": 0.417508,
+      "highlighted_at": "2012-10-04T22:32:15Z",
+      "locators": {
+        "position": 0.41750842332839966,
+        "mid": "Instagram didn’t create a problem. They didn’t introduce the idea of photo sharing, they just simplified the process. They solved a problem other people hadn’t recognised, and they didn’t make anything worse while solving it. They didn’t make anyone’s life more complex. They added a lot of richness to peoples’ lives who now have a community they didn’t have before. That’s where you get something successful.",
+        "post": " I think there’s too much focus on, ‘if you think of a problem, then there must be a problem,’ as op",
+        "pre": "ith these things because I think it’s too easy to get caught up in the excitement of something new. "
+      },
+      "user": {
+        "username": "eoinnoble",
+        "firstname": "Eoin",
+        "lastname": "Noble",
+        "country": "United Kingdom",
+        "city": "London",
+        "website": "",
+        "description": "",
+        "avatar": "assets/avatars/eoinnoble.jpg"
+      },
+      "book": {
+        "title": "Insites: The Book",
+        "author": "Viewport Industries",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "edokoa",
+          "firstname": "edokoa",
+          "lastname": "",
+          "country": "",
+          "city": "",
+          "website": "http://www.edokoa.com",
+          "description": "Graphic & web designer, illustrator, musician and developer. Loves to create beautiful things.",
+          "avatar": "assets/avatars/edokoa.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "autiomaa",
+          "firstname": "Daniel",
+          "lastname": "Schildt",
+          "country": "Finland",
+          "city": "Jyväskylä",
+          "website": "http://autiomaa.org",
+          "description": "Web Developer + Photographer + Live Audio Engineer | http://linkedin.com/in/autiomaa  | 3:16 | aka @d2s | (FI, EN)",
+          "avatar": "assets/avatars/autiomaa.jpg"
+        },
+        {
+          "username": "kaelifa",
+          "firstname": "Kristina",
+          "lastname": "Auckland",
+          "country": "UK",
+          "city": "",
+          "website": "http://www.kaelifa.com",
+          "description": "",
+          "avatar": "assets/avatars/kaelifa.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "I am a nonaccredited, overly logical psychologist, therapist, mechanic, diplomat, businessman, and teacher working in an industry that is still defining itself each and every day.",
+      "position": 0.0697992,
+      "highlighted_at": "2012-10-31T17:32:18Z",
+      "locators": {
+        "position": 0.06979924440383911,
+        "mid": "I am a nonaccredited, overly logical psychologist, therapist, mechanic, diplomat, businessman, and teacher working in an industry that is still defining itself each and every day.",
+        "post": " That is as concise a definition I can give for the modern-day programmer. 1.2 ",
+        "pre": " that Bob Slydell does as the office consultant in Office Space. I tell her this: "
+      },
+      "user": {
+        "username": "gvwalker",
+        "firstname": "Grant",
+        "lastname": "Walker",
+        "country": "South Africa",
+        "city": "Johannesburg",
+        "website": "",
+        "description": "",
+        "avatar": "assets/avatars/gvwalker.jpg"
+      },
+      "book": {
+        "title": "The Developer’s Code",
+        "author": "Ka Wai Cheung",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "martinhwasser",
+          "firstname": "Martin",
+          "lastname": "Hwasser",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://github.com/hwaxxer",
+          "description": "iOS Developer at Readmill",
+          "avatar": "assets/avatars/martinhwasser.jpg"
+        },
+        {
+          "username": "xla",
+          "firstname": "Alexander",
+          "lastname": "Simmerl",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "",
+          "description": "Berlin native. Distributed Systems. Engineer at SoundCloud.",
+          "avatar": "assets/avatars/xla.jpg"
+        },
+        {
+          "username": "zearl",
+          "firstname": "Zak",
+          "lastname": "Greene",
+          "country": null,
+          "city": null,
+          "website": "http://www.zakgreene.com",
+          "description": "Designer for Big Think, artist, reader, writer, music person, contrarian. Not a spam bot. Or am I?",
+          "avatar": "assets/avatars/zearl.jpg"
+        },
+        {
+          "username": "dirklectisch",
+          "firstname": "Dirk",
+          "lastname": "Geurs",
+          "country": "Netherlands",
+          "city": "Amsterdam",
+          "website": "",
+          "description": "Software Composer. Reporting on society, technology and collaboration from the post-industrial age.",
+          "avatar": "assets/avatars/dirklectisch.jpg"
+        },
+        {
+          "username": "justincharles",
+          "firstname": "Justin",
+          "lastname": "Charles",
+          "country": "",
+          "city": "",
+          "website": "http://www.dayofthedreamweavers.com",
+          "description": "Design & Technology MFA candidate at Parsons @mfadt. Attempting to read the entire world wide web since 2006.",
+          "avatar": "assets/avatars/justincharles.jpg"
+        },
+        {
+          "username": "patch",
+          "firstname": "Patch",
+          "lastname": "Hofweber",
+          "country": "Sweden",
+          "city": "Lund",
+          "website": "http://finagrejer.cc",
+          "description": "Spiritually I’m a climber.",
+          "avatar": "assets/avatars/patch.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "sillygwailo",
+          "firstname": "Richard",
+          "lastname": "Eriksson",
+          "country": "Canada",
+          "city": "Vancouver",
+          "website": "http://justagwailo.com/",
+          "description": "",
+          "avatar": "assets/avatars/sillygwailo.jpg"
+        },
+        {
+          "username": "marius",
+          "firstname": "Marius",
+          "lastname": "Kažemėkaitis",
+          "country": "Lithuania",
+          "city": "Kaunas",
+          "website": "http://www.lemonlabs.lt",
+          "description": "iOS Developer",
+          "avatar": "assets/avatars/marius.jpg"
+        },
+        {
+          "username": "Lumierephotographie",
+          "firstname": "Christoph",
+          "lastname": "Hellmuth",
+          "country": "Deutschland",
+          "city": "Berlin",
+          "website": "",
+          "description": "",
+          "avatar": "assets/avatars/Lumierephotographie.jpg"
+        },
+        {
+          "username": "b_levien",
+          "firstname": null,
+          "lastname": null,
+          "country": null,
+          "city": null,
+          "website": null,
+          "description": null,
+          "avatar": null
+        }
+      ],
+      "comments_count": 1,
+      "comments": [
+        {
+          "content": "Definition of a modern day programmer",
+          "posted_at": "2012-10-31T17:32:18Z",
+          "user": {
+            "username": "gvwalker",
+            "firstname": "Grant",
+            "lastname": "Walker",
+            "country": "South Africa",
+            "city": "Johannesburg",
+            "website": "",
+            "description": "",
+            "avatar": "assets/avatars/gvwalker.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "We’re not just designing pages. We’re designing human experiences. Like the visionaries of the Arts and Crafts movement, we know that preserving the human touch and showing ourselves in our work isn’t optional: it’s essential.",
+      "position": 0.866024,
+      "highlighted_at": "2012-11-07T18:30:56Z",
+      "locators": {
+        "pre": "ve that memory? I hope so, because that’s your standard as you begin to design for emotion. ",
+        "mid": "We’re not just designing pages. We’re designing human experiences. Like the visionaries of the Arts and Crafts movement, we know that preserving the human touch and showing ourselves in our work isn’t optional: it’s essential.",
+        "post": " Acknowledgements This book would not be resting in your hands if not",
+        "position": 0.8660240769386292
+      },
+      "user": {
+        "username": "manikrathee",
+        "firstname": "Manik",
+        "lastname": "Rathee",
+        "country": "USA",
+        "city": "",
+        "website": "http://www.manikrathee.com",
+        "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+        "avatar": "assets/avatars/manikrathee.jpg"
+      },
+      "book": {
+        "title": "Designing for Emotion",
+        "author": "Aarron Walter",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "Rajanand",
+          "firstname": "Rajanand",
+          "lastname": "Ilangovan",
+          "country": "India",
+          "city": "Bangalore",
+          "website": "http://goodreads.com/Rajanand",
+          "description": "Sail away from the safe harbor.\r\nhttp://rajanand.org",
+          "avatar": "assets/avatars/Rajanand.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Fans, he felt, detracted from the calm of a computer. This caused many component failures and earned the Macintosh the nickname “the beige toaster,” which did not enhance its popularity.",
+      "position": 0.319224,
+      "highlighted_at": "2012-11-26T02:55:16Z",
+      "locators": {
+        "position": 0.3192237913608551,
+        "mid": "Fans, he felt, detracted from the calm of a computer. This caused many component failures and earned the Macintosh the nickname “the beige toaster,” which did not enhance its popularity.",
+        "post": " It was so seductive that it had sold well enough for the first few months, but when people became m",
+        "pre": "le drive. In addition, the Macintosh lacked a fan, another example of Jobs’s dogmatic stubbornness. "
+      },
+      "user": {
+        "username": "patch",
+        "firstname": "Patch",
+        "lastname": "Hofweber",
+        "country": "Sweden",
+        "city": "Lund",
+        "website": "http://finagrejer.cc",
+        "description": "Spiritually I’m a climber.",
+        "avatar": "assets/avatars/patch.jpg"
+      },
+      "book": {
+        "title": "Steve Jobs",
+        "author": "Walter Isaacson",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "stewf",
+          "firstname": "Stephen",
+          "lastname": "Coles",
+          "country": "USA",
+          "city": "Oakland",
+          "website": "http://stephencoles.org",
+          "description": "Writer, editor, typographer. \r\nOakland and Berlin. ",
+          "avatar": "assets/avatars/stewf.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 1,
+      "comments": [
+        {
+          "content": "Beige blog",
+          "posted_at": "2012-11-26T03:02:25Z",
+          "user": {
+            "username": "patch",
+            "firstname": "Patch",
+            "lastname": "Hofweber",
+            "country": "Sweden",
+            "city": "Lund",
+            "website": "http://finagrejer.cc",
+            "description": "Spiritually I’m a climber.",
+            "avatar": "assets/avatars/patch.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "What’s more, I’d often use words like “future-proof” and “device-agnostic” when describing the need for this flexibility. Often while standing alone at parties.",
+      "position": 0.41282,
+      "highlighted_at": "2012-12-20T14:04:03Z",
+      "locators": {
+        "position": 0.41281968355178833,
+        "mid": "What’s more, I’d often use words like “future-proof” and “device-agnostic” when describing the need for this flexibility. Often while standing alone at parties.",
+        "post": " But at some point, everything breaks. As flexible as the Robot site is right now, it’s ",
+        "pre": "ent to the web: changes in the user’s browser window size, in display or device resolution. "
+      },
+      "user": {
+        "username": "paucc",
+        "firstname": "pau",
+        "lastname": "valiente",
+        "country": "",
+        "city": "",
+        "website": "http://www.pau.cc",
+        "description": "Visual creative. video director, post-production expert. Design. Technology lover. Lo-fi romantic. Diy interested.\r\nPart of @estudioredondo studio and @timeinacan project.",
+        "avatar": "assets/avatars/paucc.jpg"
+      },
+      "book": {
+        "title": "Responsive Web Design",
+        "author": "Ethan Marcotte",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "danielwaterhouse",
+          "firstname": "Daniel",
+          "lastname": "Waterhouse",
+          "country": "United Kingdom",
+          "city": "London",
+          "website": "http://daniel.waterhouse@gmail.com",
+          "description": "",
+          "avatar": "assets/avatars/danielwaterhouse.jpg"
+        },
+        {
+          "username": "todrobbins",
+          "firstname": "Tod",
+          "lastname": "Robbins",
+          "country": "USA",
+          "city": "West Jordan, UT",
+          "website": "http://www.todrobbins.com",
+          "description": "Lover of history, genealogy, jamming, beat programming, et al; recent MLIS grad from the University of Washington with a love for open data and digital archives",
+          "avatar": "assets/avatars/todrobbins.jpg"
+        },
+        {
+          "username": "julians",
+          "firstname": "Julian",
+          "lastname": "Stahnke",
+          "country": "Germany",
+          "city": "Potsdam",
+          "website": "http://julianstahnke.com",
+          "description": "Not enough content.",
+          "avatar": "assets/avatars/julians.jpg"
+        },
+        {
+          "username": "matthewcbostock",
+          "firstname": "Matthew",
+          "lastname": "Bostock",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://matthewbostock.com",
+          "description": "British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.",
+          "avatar": "assets/avatars/matthewcbostock.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Sustainable growth is characterized by one simple rule: New customers come from the actions of past customers.",
+      "position": 0.665872,
+      "highlighted_at": "2012-12-27T18:00:50Z",
+      "locators": {
+        "position": 0.6658722758293152,
+        "mid": "Sustainable growth is characterized by one simple rule: New customers come from the actions of past customers.",
+        "post": " There are four primary ways past customers drive sustainable growth: 1. Word of mouth. Embedded in",
+        "pre": " stunt that might be used to jump-start growth but could not sustain that growth for the long term. "
+      },
+      "user": {
+        "username": "henrik",
+        "firstname": "Henrik",
+        "lastname": "Berggren",
+        "country": "Germany",
+        "city": "Berlin",
+        "website": "http://readmill.com",
+        "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+        "avatar": "assets/avatars/henrik.jpg"
+      },
+      "book": {
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "christoffer",
+          "firstname": "Christoffer",
+          "lastname": "Klang",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "website": "http://readtracker.com",
+          "description": "Developing ReadTracker. Mostly reading tech stuff, sci-fi and block-busters.",
+          "avatar": "assets/avatars/christoffer.jpg"
+        },
+        {
+          "username": "fabian",
+          "firstname": "Fabian",
+          "lastname": "Mu",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://fabian.mu",
+          "description": "Creative technologist, pondering around in digital land.",
+          "avatar": "assets/avatars/fabian.jpg"
+        },
+        {
+          "username": "arnklint",
+          "firstname": "Jonas",
+          "lastname": "Arnklint",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "website": "http://revrise.com",
+          "description": "Webdeveloper and podcast host.",
+          "avatar": "assets/avatars/arnklint.jpg"
+        },
+        {
+          "username": "akebrattberg",
+          "firstname": "Åke",
+          "lastname": "Brattberg",
+          "country": "Sweden",
+          "city": "Gothenburg",
+          "website": "http://www.inclosure.com",
+          "description": "",
+          "avatar": "assets/avatars/akebrattberg.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "boyd",
+          "firstname": "Jon",
+          "lastname": "Boyd",
+          "country": "USA",
+          "city": "Chicago",
+          "website": "http://hoc.uspoc.us",
+          "description": "I help make, distribute, and promote books (paper and digital) with InterVarsity Press. Disclaimer: Opinions are my own.",
+          "avatar": "assets/avatars/boyd.jpg"
+        },
+        {
+          "username": "fredriktelenius",
+          "firstname": "Fredrik",
+          "lastname": "Telenius",
+          "country": "",
+          "city": "",
+          "website": "http://banjo.nu",
+          "description": "",
+          "avatar": "assets/avatars/fredriktelenius.jpg"
+        },
+        {
+          "username": "coopersmith41",
+          "firstname": "Cooper",
+          "lastname": "Liska-Smith",
+          "country": "",
+          "city": "Brooklyn",
+          "website": "",
+          "description": "",
+          "avatar": "assets/avatars/coopersmith41.jpg"
+        },
+        {
+          "username": "stst31415",
+          "firstname": "Stefan",
+          "lastname": "Steinbauer",
+          "country": null,
+          "city": null,
+          "website": "http://www.usinglight.com",
+          "description": "Survive the daily digital fallout with #informationdesign, #Nex-7, personal knowledge management and pictures from #Vienna - WARNING: contains information",
+          "avatar": "assets/avatars/stst31415.jpg"
+        },
+        {
+          "username": "jammyungab",
+          "firstname": "Jammy",
+          "lastname": "Ungab",
+          "country": "Philippines",
+          "city": "Cebu City",
+          "website": "",
+          "description": "I'm like a collection of paradoxes. And, a proud Filipina. :)\r\n\r\n",
+          "avatar": "assets/avatars/jammyungab.jpg"
+        },
+        {
+          "username": "couderc_martin",
+          "firstname": "Martin",
+          "lastname": "Couderc",
+          "country": "France",
+          "city": "Rennes",
+          "website": null,
+          "description": null,
+          "avatar": "assets/avatars/couderc_martin.jpg"
+        },
+        {
+          "username": "olaolusoga",
+          "firstname": "Ola",
+          "lastname": "Olusoga",
+          "country": "",
+          "city": "",
+          "website": "http://olaolusoga.com",
+          "description": "Designer ",
+          "avatar": "assets/avatars/olaolusoga.jpg"
+        },
+        {
+          "username": "walsertal",
+          "firstname": "Markus",
+          "lastname": "Hallermann",
+          "country": null,
+          "city": null,
+          "website": null,
+          "description": null,
+          "avatar": "assets/avatars/walsertal.jpg"
+        },
+        {
+          "username": "mark354",
+          "firstname": null,
+          "lastname": null,
+          "country": null,
+          "city": null,
+          "website": null,
+          "description": null,
+          "avatar": null
+        },
+        {
+          "username": "avocade",
+          "firstname": "Oskar",
+          "lastname": "Boethius Lissheim",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "website": "http://about.me/oskarlissheimboethius",
+          "description": "Lead developer iOS & Product Designer at Soundtrack Your Brand.",
+          "avatar": "assets/avatars/avocade.jpg"
+        }
+      ],
+      "comments_count": 1,
+      "comments": [
+        {
+          "content": "#keypoint",
+          "posted_at": "2012-12-27T18:00:50Z",
+          "user": {
+            "username": "henrik",
+            "firstname": "Henrik",
+            "lastname": "Berggren",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://readmill.com",
+            "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+            "avatar": "assets/avatars/henrik.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "The company practices true continuous deployment—including more than a dozen releases to customers every day—in an SEC-regulated environment.",
+      "position": 0.615843,
+      "highlighted_at": "2012-12-27T17:07:05Z",
+      "locators": {
+        "position": 0.615842878818512,
+        "mid": "The company practices true continuous deployment—including more than a dozen releases to customers every day—in an SEC-regulated environment.",
+        "post": "4 Continuous Deployment Beyond Software When I tell this story to people who work in a slower-moving",
+        "pre": "tions. Among the most cutting edge examples is Wealthfront, whose pivot was described in Chapter 8. "
+      },
+      "user": {
+        "username": "henrik",
+        "firstname": "Henrik",
+        "lastname": "Berggren",
+        "country": "Germany",
+        "city": "Berlin",
+        "website": "http://readmill.com",
+        "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+        "avatar": "assets/avatars/henrik.jpg"
+      },
+      "book": {
+        "title": "The Lean Startup",
+        "author": "Eric Ries",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 1,
+      "comments": [
+        {
+          "content": "Hardcore...",
+          "posted_at": "2012-12-27T17:07:05Z",
+          "user": {
+            "username": "henrik",
+            "firstname": "Henrik",
+            "lastname": "Berggren",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://readmill.com",
+            "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+            "avatar": "assets/avatars/henrik.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "Beauty is not the goal of competitive sports, but high-level sports are a prime venue for the expression of human beauty. The relation is roughly that of courage to war.",
+      "position": 0.0372848,
+      "highlighted_at": "2013-01-06T09:04:57Z",
+      "locators": {
+        "position": 0.03728480264544487,
+        "mid": "Beauty is not the goal of competitive sports, but high-level sports are a prime venue for the expression of human beauty. The relation is roughly that of courage to war.",
+        "post": " The human beauty we’re talking about here is beauty of a particular type; it might be called kineti",
+        "pre": "or an instant ecstatically—though it takes some time and serious watching to see this truth emerge. "
+      },
+      "user": {
+        "username": "sillygwailo",
+        "firstname": "Richard",
+        "lastname": "Eriksson",
+        "country": "Canada",
+        "city": "Vancouver",
+        "website": "http://justagwailo.com/",
+        "description": "",
+        "avatar": "assets/avatars/sillygwailo.jpg"
+      },
+      "book": {
+        "title": "Both Flesh and Not: Essays",
+        "author": "David Foster Wallace",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "matthewcbostock",
+          "firstname": "Matthew",
+          "lastname": "Bostock",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://matthewbostock.com",
+          "description": "British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.",
+          "avatar": "assets/avatars/matthewcbostock.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "lmsanchez",
+          "firstname": "Lisa",
+          "lastname": "Sanchez",
+          "country": "",
+          "city": "Berlin",
+          "website": "http://lisasanchez.me",
+          "description": "Community manager at Readmill. Wondering what you've read and loved lately. lisa@readmill.com",
+          "avatar": "assets/avatars/lmsanchez.jpg"
+        }
+      ],
+      "comments_count": 1,
+      "comments": [
+        {
+          "content": "Like this statement",
+          "posted_at": "2013-01-06T10:17:57Z",
+          "user": {
+            "username": "jonashjalmar",
+            "firstname": "Jonas Hjalmar",
+            "lastname": "Blom",
+            "country": "Sweden",
+            "city": "Stockholm",
+            "website": "http://about.me/jonashjalmar",
+            "description": "Behavior designer, flaneur and growing minimalist.",
+            "avatar": "assets/avatars/jonashjalmar.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "When I call the emergency room on a weekend, my context is likely to be quite different than when I call my allergy specialist during business hours. If I look at a subway map at 3:00am, chances are that I need to know which trains are running now, not during rush hour tomorrow. When I look up your company on my phone, I’m more likely to need basic contact info than your annual report from 2006.",
+      "position": 0.120127,
+      "highlighted_at": "2013-01-07T09:15:28Z",
+      "locators": {
+        "position": 0.12012728303670883,
+        "mid": "When I call the emergency room on a weekend, my context is likely to be quite different than when I call my allergy specialist during business hours. If I look at a subway map at 3:00am, chances are that I need to know which trains are running now, not during rush hour tomorrow. When I look up your company on my phone, I’m more likely to need basic contact info than your annual report from 2006.",
+        "post": " But assumptions about reader context—however well researched—will never be perfect. Always give rea",
+        "pre": "from a diagram by Andrew Hinton. http://bkaprt.com/cs/1/)1 It’s a sensible notion. "
+      },
+      "user": {
+        "username": "dte",
+        "firstname": "Daniel",
+        "lastname": "Eden",
+        "country": "U.S.A.",
+        "city": "San Francisco",
+        "website": "http://daneden.me",
+        "description": "Makes sandwiches, websites.",
+        "avatar": "assets/avatars/dte.jpg"
+      },
+      "book": {
+        "title": "The Elements of Content Strategy",
+        "author": "Erin Kissane",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "majouji",
+          "firstname": "Ramy",
+          "lastname": "M.",
+          "country": "",
+          "city": "",
+          "website": "",
+          "description": "",
+          "avatar": "assets/avatars/majouji.jpg"
+        },
+        {
+          "username": "kevinclark",
+          "firstname": "Kevin",
+          "lastname": "Clark",
+          "country": "Canada",
+          "city": "Montreal",
+          "website": "http://kevinclark.ca",
+          "description": "Pixels, Shapes & Words.",
+          "avatar": "assets/avatars/kevinclark.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "tylr",
+          "firstname": "Tyler",
+          "lastname": "Howarth",
+          "country": "United States",
+          "city": "New York City",
+          "website": "",
+          "description": "",
+          "avatar": "assets/avatars/tylr.jpg"
+        },
+        {
+          "username": "schifter_",
+          "firstname": "Magnus",
+          "lastname": "Schifter-Holm",
+          "country": null,
+          "city": null,
+          "website": "http://schifter.me",
+          "description": "Developer, tech & mobile entrepreneur, self-proclaimed typography aficionado, student, and junior stockanalyst. Founder of http://mashedapps.com",
+          "avatar": "assets/avatars/schifter_.jpg"
+        },
+        {
+          "username": "jmes",
+          "firstname": "James",
+          "lastname": "",
+          "country": "",
+          "city": "",
+          "website": "",
+          "description": "",
+          "avatar": "assets/avatars/jmes.jpg"
+        }
+      ],
+      "comments_count": 1,
+      "comments": [
+        {
+          "content": "Great, great analogy; and something often forgotten when writing copy for websites or restructuring for mobile.",
+          "posted_at": "2013-01-07T09:15:28Z",
+          "user": {
+            "username": "dte",
+            "firstname": "Daniel",
+            "lastname": "Eden",
+            "country": "U.S.A.",
+            "city": "San Francisco",
+            "website": "http://daneden.me",
+            "description": "Makes sandwiches, websites.",
+            "avatar": "assets/avatars/dte.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "Slow down and remember this: Most things make no difference. Being busy is a form of laziness—lazy thinking and indiscriminate action.",
+      "position": null,
+      "highlighted_at": "2013-01-07T00:00:00Z",
+      "locators": {
+        "position": null,
+        "pre": "",
+        "mid": "Slow down and remember this: Most things make no difference. Being busy is a form of laziness—lazy thinking and indiscriminate action.",
+        "post": ""
+      },
+      "user": {
+        "username": "manya",
+        "firstname": "Manya",
+        "lastname": "",
+        "country": "",
+        "city": "",
+        "website": "http://manya.me",
+        "description": "Lover of technology and digital culture. Explorer of cyberspace and virtual worlds. Curious thinker. Incessant tinkerer. From space.\r\n\r\nFind me on Twitter: @manyas.",
+        "avatar": "assets/avatars/manya.jpg"
+      },
+      "book": {
+        "title": "The 4-Hour Workweek",
+        "author": "Timothy Ferriss",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "matthewcbostock",
+          "firstname": "Matthew",
+          "lastname": "Bostock",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://matthewbostock.com",
+          "description": "British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.",
+          "avatar": "assets/avatars/matthewcbostock.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "bjornklockljung",
+          "firstname": "Björn",
+          "lastname": "Klockljung",
+          "country": "",
+          "city": "",
+          "website": "http://www.bjornklockljung.se/",
+          "description": "Interaktionsdesigner i Göteborg som är intresserad av webb, speldesign, simplicity och #GTD ",
+          "avatar": "assets/avatars/bjornklockljung.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Learning to ignore things is one of the great paths to inner peace.",
+      "position": null,
+      "highlighted_at": "2013-01-07T00:00:00Z",
+      "locators": {
+        "position": null,
+        "pre": "",
+        "mid": "Learning to ignore things is one of the great paths to inner peace.",
+        "post": ""
+      },
+      "user": {
+        "username": "manya",
+        "firstname": "Manya",
+        "lastname": "",
+        "country": "",
+        "city": "",
+        "website": "http://manya.me",
+        "description": "Lover of technology and digital culture. Explorer of cyberspace and virtual worlds. Curious thinker. Incessant tinkerer. From space.\r\n\r\nFind me on Twitter: @manyas.",
+        "avatar": "assets/avatars/manya.jpg"
+      },
+      "book": {
+        "title": "The 4-Hour Workweek",
+        "author": "Timothy Ferriss",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "danielwaterhouse",
+          "firstname": "Daniel",
+          "lastname": "Waterhouse",
+          "country": "United Kingdom",
+          "city": "London",
+          "website": "http://daniel.waterhouse@gmail.com",
+          "description": "",
+          "avatar": "assets/avatars/danielwaterhouse.jpg"
+        },
+        {
+          "username": "ADDN2X",
+          "firstname": "addn2x",
+          "lastname": "",
+          "country": "",
+          "city": "",
+          "website": "",
+          "description": "reading books, coding webs, hacking life, exploring worlds ",
+          "avatar": "assets/avatars/ADDN2X.jpg"
+        },
+        {
+          "username": "zearl",
+          "firstname": "Zak",
+          "lastname": "Greene",
+          "country": null,
+          "city": null,
+          "website": "http://www.zakgreene.com",
+          "description": "Designer for Big Think, artist, reader, writer, music person, contrarian. Not a spam bot. Or am I?",
+          "avatar": "assets/avatars/zearl.jpg"
+        },
+        {
+          "username": "matthewcbostock",
+          "firstname": "Matthew",
+          "lastname": "Bostock",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://matthewbostock.com",
+          "description": "British freelance copywriter living in Berlin. Writes stuff for software and hardware companies.",
+          "avatar": "assets/avatars/matthewcbostock.jpg"
+        },
+        {
+          "username": "micahbrich",
+          "firstname": "Micah",
+          "lastname": "Rich",
+          "country": "USA",
+          "city": "Los Angeles",
+          "website": "http://www.micahrich.com",
+          "description": "Founder of both A Good Company & The League of Moveable Type, Micah is a nomadic thinker & do-er.",
+          "avatar": "assets/avatars/micahbrich.jpg"
+        },
+        {
+          "username": "hilmarschmundt",
+          "firstname": "Hilmar",
+          "lastname": "Schmundt",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://www.schmundt.de",
+          "description": "Macht was mit Medien",
+          "avatar": "assets/avatars/hilmarschmundt.jpg"
+        },
+        {
+          "username": "adoran2",
+          "firstname": "Andrew",
+          "lastname": "Doran",
+          "country": "UK",
+          "city": "Berkhamsted",
+          "website": "http://www.andrewdoran.co.uk/",
+          "description": "Husband, dad of two boys, IT portfolio and business manager at an African bank, school governor, over-enthusiastic, geek. A buyer of books, a reader of some of them and a great longing to get through as many as I can fit in.",
+          "avatar": "assets/avatars/adoran2.jpg"
+        },
+        {
+          "username": "patch",
+          "firstname": "Patch",
+          "lastname": "Hofweber",
+          "country": "Sweden",
+          "city": "Lund",
+          "website": "http://finagrejer.cc",
+          "description": "Spiritually I’m a climber.",
+          "avatar": "assets/avatars/patch.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "kenna",
+          "firstname": "Kenna",
+          "lastname": "Marcelo",
+          "country": "United Arab Emirates",
+          "city": "Dubai",
+          "website": "http://areturnafterlongwanderings.com/",
+          "description": "Founder of Mensis Liber. I sometimes make things for the web. Was born in an archipelago of 7,107 islands currently living in the desert working as a telecommunications engineer.",
+          "avatar": "assets/avatars/kenna.jpg"
+        },
+        {
+          "username": "tarngerine",
+          "firstname": "Julius",
+          "lastname": "Tarng",
+          "country": "",
+          "city": "",
+          "website": "http://tarng.com",
+          "description": "Recovering In-N-Out addict & product designer. Temporarily displaced from NYC to Spain, and I speak no Spanish.",
+          "avatar": "assets/avatars/tarngerine.jpg"
+        },
+        {
+          "username": "edouardu",
+          "firstname": "édouard",
+          "lastname": "urcadez",
+          "country": "United States of America",
+          "city": "Austin",
+          "website": "http://edouardu.com/",
+          "description": "physical–digital product designer",
+          "avatar": "assets/avatars/edouardu.jpg"
+        },
+        {
+          "username": "rpruiz",
+          "firstname": "Rudy",
+          "lastname": "",
+          "country": "Mexico",
+          "city": "Monterrey",
+          "website": "",
+          "description": "Internetician, entrepreneur",
+          "avatar": "assets/avatars/rpruiz.jpg"
+        },
+        {
+          "username": "anildigital",
+          "firstname": "",
+          "lastname": "",
+          "country": "",
+          "city": "",
+          "website": "",
+          "description": "",
+          "avatar": "assets/avatars/anildigital.jpg"
+        },
+        {
+          "username": "badpandarecords",
+          "firstname": "Claudio",
+          "lastname": "Gallo",
+          "country": "Italy",
+          "city": "Roma",
+          "website": "http://stereomood.com",
+          "description": "Digital-music enthusiast. Fascinated by arts, different cultures and people that work hard to do something authentic. Creative Commons Bad Panda Records founder, information/business strategy @ stereomood",
+          "avatar": "assets/avatars/badpandarecords.jpg"
+        },
+        {
+          "username": "bjornklockljung",
+          "firstname": "Björn",
+          "lastname": "Klockljung",
+          "country": "",
+          "city": "",
+          "website": "http://www.bjornklockljung.se/",
+          "description": "Interaktionsdesigner i Göteborg som är intresserad av webb, speldesign, simplicity och #GTD ",
+          "avatar": "assets/avatars/bjornklockljung.jpg"
+        },
+        {
+          "username": "sagmor",
+          "firstname": "Seba",
+          "lastname": "Gamboa",
+          "country": "Chile",
+          "city": "Santiago",
+          "website": "http://sagmor.com",
+          "description": "",
+          "avatar": "assets/avatars/sagmor.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "The power of readers lies not in their ability to gather information, in their ordering and cataloguing capability, but in their gift to interpret, associate and transform their reading.",
+      "position": 0.262644,
+      "highlighted_at": "2013-02-04T06:16:45Z",
+      "locators": {
+        "position": 0.2626444697380066,
+        "mid": "The power of readers lies not in their ability to gather information, in their ordering and cataloguing capability, but in their gift to interpret, associate and transform their reading.",
+        "post": " For the Talmudic schools, as for those of Islam, a scholar can turn religious faith into an active",
+        "pre": "n of the vanity of human hopes, than a public library.Samuel Johnson, in The Rambler, 23 March 1751"
+      },
+      "user": {
+        "username": "nicoleslaw",
+        "firstname": "Nicole",
+        "lastname": "Fenton",
+        "country": "United States",
+        "city": "Brooklyn",
+        "website": "http://nicolefenton.com",
+        "description": "Writer and editor. Interface maker. Connective tissue with a curious streak.",
+        "avatar": "assets/avatars/nicoleslaw.jpg"
+      },
+      "book": {
+        "title": "The Library at Night",
+        "author": "Alberto Manguel",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "julians",
+          "firstname": "Julian",
+          "lastname": "Stahnke",
+          "country": "Germany",
+          "city": "Potsdam",
+          "website": "http://julianstahnke.com",
+          "description": "Not enough content.",
+          "avatar": "assets/avatars/julians.jpg"
+        },
+        {
+          "username": "robinrendle",
+          "firstname": "Robin",
+          "lastname": "Rendle",
+          "country": "United Kingdom",
+          "city": "Nottingham",
+          "website": "http://robinrendle.com",
+          "description": "",
+          "avatar": "assets/avatars/robinrendle.jpg"
+        },
+        {
+          "username": "tealtan",
+          "firstname": "Allen",
+          "lastname": "Tan",
+          "country": "",
+          "city": "",
+          "website": "http://tanmade.com/",
+          "description": "Graphic and interaction designer by day, assistant editor for @codex and @contents by night.",
+          "avatar": "assets/avatars/tealtan.jpg"
+        },
+        {
+          "username": "hi",
+          "firstname": "William",
+          "lastname": "Melody",
+          "country": "CA",
+          "city": "San Francisco",
+          "website": "http://williammelody.com/_",
+          "description": "Craftsman, researcher, idealist, occasional entrepreneur.",
+          "avatar": "assets/avatars/hi.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "Zygar",
+          "firstname": "Andy",
+          "lastname": "Wilkinson",
+          "country": "New Zealand",
+          "city": "Christchurch",
+          "website": "http://twin.gl/",
+          "description": "I dream of the future and spend the present trying to make it happen. Mad scientist at @LetsTwingl, building tools for reading and thinking.",
+          "avatar": "assets/avatars/Zygar.jpg"
+        },
+        {
+          "username": "migueliglesias",
+          "firstname": "Miguel",
+          "lastname": "Iglesias",
+          "country": "Argentina",
+          "city": "Buenos Aires",
+          "website": "http://facebook.com/migueliglesias",
+          "description": "The power of readers lies not in their ability to gather information, in their ordering and cataloguing capability, but in their gift to interpret, associate and transform their reading.",
+          "avatar": "assets/avatars/migueliglesias.jpg"
+        }
+      ],
+      "comments_count": 2,
+      "comments": [
+        {
+          "content": "Absorb, interpret, and react. ",
+          "posted_at": "2013-02-04T06:16:45Z",
+          "user": {
+            "username": "nicoleslaw",
+            "firstname": "Nicole",
+            "lastname": "Fenton",
+            "country": "United States",
+            "city": "Brooklyn",
+            "website": "http://nicolefenton.com",
+            "description": "Writer and editor. Interface maker. Connective tissue with a curious streak.",
+            "avatar": "assets/avatars/nicoleslaw.jpg"
+          }
+        },
+        {
+          "content": "Sorry to bombard you with Readmill likes, but this book looks AMAZING. Just bought it; thanks for the passive sharing :-)",
+          "posted_at": "2013-03-14T23:08:13Z",
+          "user": {
+            "username": "Zygar",
+            "firstname": "Andy",
+            "lastname": "Wilkinson",
+            "country": "New Zealand",
+            "city": "Christchurch",
+            "website": "http://twin.gl/",
+            "description": "I dream of the future and spend the present trying to make it happen. Mad scientist at @LetsTwingl, building tools for reading and thinking.",
+            "avatar": "assets/avatars/Zygar.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "Words, when considered as a design element, play a crucial role in shaping our emotional perception and they solidify the aspects a visual design vocabulary hints at. When considering the role of words as a building block of our design process, it’s evident that design is more than a purely visual pursuit.",
+      "position": 0.259781,
+      "highlighted_at": "2013-02-24T22:47:11Z",
+      "locators": {
+        "position": 0.2597806453704834,
+        "mid": "Words, when considered as a design element, play a crucial role in shaping our emotional perception and they solidify the aspects a visual design vocabulary hints at. When considering the role of words as a building block of our design process, it’s evident that design is more than a purely visual pursuit.",
+        "post": " What happens when our visual layer isn’t available, for example for a visually impaired user using",
+        "pre": "n use at the service of design: visual grammar; semiotics; language; psychology… the list goes on. "
+      },
+      "user": {
+        "username": "phalkunz",
+        "firstname": "Saophalkun",
+        "lastname": "Ponlu",
+        "country": null,
+        "city": null,
+        "website": null,
+        "description": null,
+        "avatar": "assets/avatars/phalkunz.jpg"
+      },
+      "book": {
+        "title": "A Pocket Guide to The craft of words",
+        "author": "The Standardistas",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Travel far enough, you meet yourself.",
+      "position": 0.633255,
+      "highlighted_at": "2013-03-09T21:15:03Z",
+      "locators": {
+        "position": 0.6332547068595886,
+        "mid": "Travel far enough, you meet yourself.",
+        "post": "” The door opened, but Madam Ovid’s disdain remained. “Who can argue with Lady Heem-Young?” She o",
+        "pre": "se ensued. The tiger lily blushed and asked if we had traveled far. Hae-Joo completed the code. “"
+      },
+      "user": {
+        "username": "chrisbensonpdx",
+        "firstname": "Chris",
+        "lastname": "Benson",
+        "country": "USA",
+        "city": "Portland",
+        "website": null,
+        "description": null,
+        "avatar": "assets/avatars/chrisbensonpdx.jpg"
+      },
+      "book": {
+        "title": "Cloud Atlas",
+        "author": "David Mitchell",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "christoffer",
+          "firstname": "Christoffer",
+          "lastname": "Klang",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "website": "http://readtracker.com",
+          "description": "Developing ReadTracker. Mostly reading tech stuff, sci-fi and block-busters.",
+          "avatar": "assets/avatars/christoffer.jpg"
+        },
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "esahiltunen",
+          "firstname": "Esa",
+          "lastname": "Hiltunen",
+          "country": "Finland",
+          "city": "Oulu",
+          "website": "http://www.esahiltunen.com",
+          "description": "Senior UX Designer at Polar Electro and an enthusiastic pine-cone collector",
+          "avatar": "assets/avatars/esahiltunen.jpg"
+        },
+        {
+          "username": "badpandarecords",
+          "firstname": "Claudio",
+          "lastname": "Gallo",
+          "country": "Italy",
+          "city": "Roma",
+          "website": "http://stereomood.com",
+          "description": "Digital-music enthusiast. Fascinated by arts, different cultures and people that work hard to do something authentic. Creative Commons Bad Panda Records founder, information/business strategy @ stereomood",
+          "avatar": "assets/avatars/badpandarecords.jpg"
+        },
+        {
+          "username": "migueliglesias",
+          "firstname": "Miguel",
+          "lastname": "Iglesias",
+          "country": "Argentina",
+          "city": "Buenos Aires",
+          "website": "http://facebook.com/migueliglesias",
+          "description": "The power of readers lies not in their ability to gather information, in their ordering and cataloguing capability, but in their gift to interpret, associate and transform their reading.",
+          "avatar": "assets/avatars/migueliglesias.jpg"
+        },
+        {
+          "username": "chrisbensonpdx",
+          "firstname": "Chris",
+          "lastname": "Benson",
+          "country": "USA",
+          "city": "Portland",
+          "website": null,
+          "description": null,
+          "avatar": "assets/avatars/chrisbensonpdx.jpg"
+        },
+        {
+          "username": "redmynes",
+          "firstname": "Izzati",
+          "lastname": "M",
+          "country": "Singapore",
+          "city": "",
+          "website": "http://douchecalions.tumblr.com",
+          "description": "Not all those who wander are lost.",
+          "avatar": "assets/avatars/redmynes.jpg"
+        }
+      ],
+      "comments_count": 1,
+      "comments": [
+        {
+          "content": "This quote is so awesome. Def. goes on my next business card.",
+          "posted_at": "2013-03-15T18:13:40Z",
+          "user": {
+            "username": "henrik",
+            "firstname": "Henrik",
+            "lastname": "Berggren",
+            "country": "Germany",
+            "city": "Berlin",
+            "website": "http://readmill.com",
+            "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+            "avatar": "assets/avatars/henrik.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "content": "Aesthetics are fleeting, the only things with longevity are ideas.",
+      "position": 0.277692,
+      "highlighted_at": "2013-03-23T16:17:28Z",
+      "locators": {
+        "position": 0.27769237756729126,
+        "mid": "Aesthetics are fleeting, the only things with longevity are ideas.",
+        "post": " Read Bringhurst and one of th",
+        "pre": "ere and down on the way back. "
+      },
+      "user": {
+        "username": "ryanessmaker",
+        "firstname": "Ryan",
+        "lastname": "Essmaker",
+        "country": "USA",
+        "city": "NYC",
+        "website": "http://twitter.com/ryanessmaker",
+        "description": "designer, photographer and musician with a soft spot for film, good typography and all things analog.",
+        "avatar": "assets/avatars/ryanessmaker.jpg"
+      },
+      "book": {
+        "title": "Ryan Essmaker's Gazette - Mar 22",
+        "author": "Gazette",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "A collection of evocative words that establish your brand’s personality, a word bank helps to establish a clear tone and voice. Think of it as a moodboard for words. The words you choose, as Shaw highlights, while functionally similar, are emotionally distinct: Start or begin? Purchase or buy? Complete or finish? Identifying word flavours helps to define tone and voice, and can pave the way towards the development of a brand dictionary, encapsulating the language of your design. Consider two examples: smart and Mercedes-Benz (both, coincidentally, owned by the same parent company, Daimler AG). Both create compact cars, both position themselves differently, thanks in a large part to the words they use.",
+      "position": 0.46711,
+      "highlighted_at": "2013-06-28T09:13:39Z",
+      "locators": {
+        "position": 0.4671098589897156,
+        "mid": "A collection of evocative words that establish your brand’s personality, a word bank helps to establish a clear tone and voice. Think of it as a moodboard for words. The words you choose, as Shaw highlights, while functionally similar, are emotionally distinct: Start or begin? Purchase or buy? Complete or finish? Identifying word flavours helps to define tone and voice, and can pave the way towards the development of a brand dictionary, encapsulating the language of your design. Consider two examples: smart and Mercedes-Benz (both, coincidentally, owned by the same parent company, Daimler AG). Both create compact cars, both position themselves differently, thanks in a large part to the words they use.",
+        "post": " smart defines its proposition",
+        "pre": " an extended period of time.” "
+      },
+      "user": {
+        "username": "manikrathee",
+        "firstname": "Manik",
+        "lastname": "Rathee",
+        "country": "USA",
+        "city": "",
+        "website": "http://www.manikrathee.com",
+        "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+        "avatar": "assets/avatars/manikrathee.jpg"
+      },
+      "book": {
+        "title": "A Pocket Guide to The craft of words",
+        "author": "The Standardistas",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Oh, here is the rest of my life. It’s finally arrived.",
+      "position": 0.0859056,
+      "highlighted_at": "2013-10-07T04:52:12Z",
+      "locators": {
+        "position": 0.0859056,
+        "mid": "Oh, here is the rest of my life. It’s finally arrived.",
+        "post": " NICK DUNNE THE DAY OF I ",
+        "rmsdk": {
+          "start": "Gone_Girl_split_008.html#point(/1/4/48/11:99)",
+          "end": "Gone_Girl_split_008.html#point(/1/4/48/13:1)"
+        },
+        "pre": "o fine. That fast. You think: "
+      },
+      "user": {
+        "username": "bearzooka",
+        "firstname": "Bernardo",
+        "lastname": "Prieto Curiel",
+        "country": "Mexico",
+        "city": "Mexico",
+        "website": "http://eltrisom.com",
+        "description": "",
+        "avatar": "assets/avatars/bearzooka.jpg"
+      },
+      "book": {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "henrik",
+          "firstname": "Henrik",
+          "lastname": "Berggren",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "http://readmill.com",
+          "description": "Passionate reader of internet lit and crime novels. Chief Happiness Officer at this little company.",
+          "avatar": "assets/avatars/henrik.jpg"
+        },
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        },
+        {
+          "username": "emilyphillips",
+          "firstname": "Emily",
+          "lastname": "Phillips",
+          "country": "Germany",
+          "city": "Berlin",
+          "website": "",
+          "description": "waxing poetic at Readmill",
+          "avatar": "assets/avatars/emilyphillips.jpg"
+        },
+        {
+          "username": "ashley_park",
+          "firstname": "Ashley",
+          "lastname": "Park",
+          "country": "",
+          "city": "",
+          "website": "",
+          "description": "",
+          "avatar": "assets/avatars/ashley_park.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "MailChimp’s Voice & Tone is one such resource, and it’s fantastic. It includes examples of how MailChimp gives feedback to users and is also educational, providing explanations of why something should be written in this way.",
+      "position": 0.196762,
+      "highlighted_at": "2013-11-07T14:53:11Z",
+      "locators": {
+        "position": 0.1967624,
+        "mid": "MailChimp’s Voice & Tone is one such resource, and it’s fantastic. It includes examples of how MailChimp gives feedback to users and is also educational, providing explanations of why something should be written in this way.",
+        "post": " Other examples include GOV.UK",
+        "rmsdk": {
+          "start": "OEBPS/6-chapter1.xhtml#point(/1/4/15:2)",
+          "end": "OEBPS/6-chapter1.xhtml#point(/1/4/16/3:202)"
+        },
+        "pre": "ut a publication or website. "
+      },
+      "user": {
+        "username": "dafeld",
+        "firstname": "Daniel",
+        "lastname": "Feldt",
+        "country": "Sweden",
+        "city": "Stockholm",
+        "website": "http://feldt.nu",
+        "description": "Dancing my way to success.",
+        "avatar": "assets/avatars/dafeld.jpg"
+      },
+      "book": {
+        "title": "A Pocket Guide to Front-end Style Guides",
+        "author": "Anna Debenham",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "Further reading “Front-end Style Guides”, my article on 24 Ways Examples of front-end style guides in the wild, a collection of links on Gimme Bar “CSS Style Guides”, a roundup from Chris Coyier on CSS-Tricks “Responsive Deliverables” by Dave Rupert “Modularity and Style Guides” by David Bushell “Firefox branding”, part of the Mozilla style guide “Writing an Interface Style Guide” by Jina Bolton on A List Apart “Behind the Design: The New Viget”, by Tom Osborne “Easing the Path from Design to Development” by Drew McLellan on 24 ways",
+      "position": 0.973887,
+      "highlighted_at": "2013-11-16T18:55:36Z",
+      "locators": {
+        "position": 0.9738873,
+        "mid": "Further reading “Front-end Style Guides”, my article on 24 Ways Examples of front-end style guides in the wild, a collection of links on Gimme Bar “CSS Style Guides”, a roundup from Chris Coyier on CSS-Tricks “Responsive Deliverables” by Dave Rupert “Modularity and Style Guides” by David Bushell “Firefox branding”, part of the Mozilla style guide “Writing an Interface Style Guide” by Jina Bolton on A List Apart “Behind the Design: The New Viget”, by Tom Osborne “Easing the Path from Design to Development” by Drew McLellan on 24 ways",
+        "post": " ",
+        "rmsdk": {
+          "start": "OEBPS/16-resources-open.xhtml#point(/1/4/3:4)",
+          "end": "OEBPS/16-resources-open.xhtml#point(/1/4/6/19:0)"
+        },
+        "pre": "ion. Resources "
+      },
+      "user": {
+        "username": "manikrathee",
+        "firstname": "Manik",
+        "lastname": "Rathee",
+        "country": "USA",
+        "city": "",
+        "website": "http://www.manikrathee.com",
+        "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+        "avatar": "assets/avatars/manikrathee.jpg"
+      },
+      "book": {
+        "title": "A Pocket Guide to Front-end Style Guides",
+        "author": "Anna Debenham",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    },
+    {
+      "content": "In addition to nesting rules, you can nest properties that share a namespace in Sass (e.g., font-family, font-size, font-weight, etc.) like so: header[role=\"banner\"] h1 { padding: 15px 0; font: { size: 54px; family: Jubilat, Georgia, serif; weight: bold; } line-height: 1; } That’ll compile to: header[role=\"banner\"] h1 { padding: 15px 0; font-size: 54px; font-family: Jubilat, Georgia, serif; font-weight: bold; line-height: 1; }",
+      "position": 0.410702,
+      "highlighted_at": "2013-11-17T18:21:20Z",
+      "locators": {
+        "position": 0.4107017,
+        "mid": "In addition to nesting rules, you can nest properties that share a namespace in Sass (e.g., font-family, font-size, font-weight, etc.) like so: header[role=\"banner\"] h1 { padding: 15px 0; font: { size: 54px; family: Jubilat, Georgia, serif; weight: bold; } line-height: 1; } That’ll compile to: header[role=\"banner\"] h1 { padding: 15px 0; font-size: 54px; font-family: Jubilat, Georgia, serif; font-weight: bold; line-height: 1; }",
+        "post": " Similarly, there are ma",
+        "rmsdk": {
+          "start": "OEBPS/SFWD-ch03.xhtml#point(/1/4/29:6)",
+          "end": "OEBPS/SFWD-ch03.xhtml#point(/1/4/36/7:20)"
+        },
+        "pre": "NG NAMESPACED PROPERTIES "
+      },
+      "user": {
+        "username": "manikrathee",
+        "firstname": "Manik",
+        "lastname": "Rathee",
+        "country": "USA",
+        "city": "",
+        "website": "http://www.manikrathee.com",
+        "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+        "avatar": "assets/avatars/manikrathee.jpg"
+      },
+      "book": {
+        "title": "Sass for Web Designers",
+        "author": "Dan Cederholm",
+        "cover": null
+      },
+      "likes": [
+        {
+          "username": "manikrathee",
+          "firstname": "Manik",
+          "lastname": "Rathee",
+          "country": "USA",
+          "city": "",
+          "website": "http://www.manikrathee.com",
+          "description": "User Experience Engineer & Front-end Developer for President Barack Obama",
+          "avatar": "assets/avatars/manikrathee.jpg"
+        }
+      ],
+      "comments_count": 0,
+      "comments": [
+
+      ]
+    }
+  ]
+}
